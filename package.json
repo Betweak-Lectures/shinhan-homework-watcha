@@ -1,0 +1,33 @@
+{
+  "name": "mongo-watcha",
+  "version": "1.0.0",
+  "description": "shinhan-finance-invest-3th mongo-watcha homework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "crawl:watcha-list": "node --loader ts-node/esm src/spiders/watcha/watcha-list.ts",
+    "crawl:watcha-detail": "node --loader ts-node/esm src/spiders/watcha/watcha-detail.ts",
+    "crawl:watcha-comments": "node --loader ts-node/esm src/spiders/watcha/watcha-comments.ts",
+    "notebook": "node --loader ts-node/esm src/spiders/watcha/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sys",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/mongoose": "^5.11.97",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "mongoose": "^8.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.15",
+    "@typescript-eslint/eslint-plugin": "^6.20.0",
+    "@typescript-eslint/parser": "^6.20.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.4"
+  }
+}
