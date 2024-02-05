@@ -30,6 +30,5 @@ function createMongooseModel(data: any): any {
   }
 }
 const commentTemplate = createMongooseModel(commentArray[0]);
-
 fs.writeFileSync('commentTemplate.txt', commentTemplate);
 // console.log(movieTemplate);

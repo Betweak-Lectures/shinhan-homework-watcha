@@ -1,5 +1,11 @@
 import mongoose from 'mongoose';
-
+const reviewCredit = new mongoose.Schema({
+  type: String,
+  department: String,
+  job: String,
+  person: { id: Number, code: String, name: String, photo: { medium: String, small: String } },
+  is_clickable: Boolean,
+});
 const schema = {
   code: String,
   content_type: String,
@@ -18,15 +24,7 @@ const schema = {
   videos: [{ id: String, title: String, image: String, url: String, duration: Number }],
   credits: {
     next_uri: String,
-    result: [
-      {
-        type: String,
-        department: String,
-        job: String,
-        person: { id: Number, code: String, name: String, photo: { medium: String, small: String } },
-        is_clickable: Boolean,
-      },
-    ],
+    result: [reviewCredit],
   },
   external_services: [
     {
