@@ -20,11 +20,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.377058958357209,
-    "director_names": [
-      "Bob Persichetti",
-      "Peter Ramsey",
-      "Rodney Rothman"
-    ],
+    "director_names": ["Bob Persichetti", "Peter Ramsey", "Rodney Rothman"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/Cplh7KxhoNHkehLby2MwlA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZabVJqWW1KdmRuZHNaMjF5T0c5bGNEa3laR2dpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuUE1aNzllQURFT2U4d0ZobjVIYmJOVk1qdUY0b0t2ODJWZnpldUltdWpyUQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/LnbC_JtU5MJuF316BajrIA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Wm1SalltSnZkbmRzWjIxeU9HOWxjRGt5WkdnaWZRLi1PclFyeDQ2cUtIZTBrNnpFZGYyT2pTWEdRQXBGeE0tUl9FTG9NV09RbjA",
@@ -38,14 +34,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Family",
-      "SF"
-    ],
+    "genres": ["Animation", "Action", "Adventure", "Comedy", "Family", "SF"],
     "current_context": null
   },
   {
@@ -83,12 +72,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Romance",
-      "Drama",
-      "BL",
-      "TV Drama"
-    ],
+    "genres": ["Romance", "Drama", "BL", "TV Drama"],
     "current_context": null
   },
   {
@@ -126,10 +110,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Drama",
-      "TV Drama"
-    ],
+    "genres": ["Drama", "TV Drama"],
     "current_context": null
   },
   {
@@ -153,9 +134,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.886528955704287,
-    "director_names": [
-      "이성한"
-    ],
+    "director_names": ["이성한"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/WOBI9HMXOH13MHf0YXX2lw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZjV1p3Y0dWME1qVjJiM2x3WjNsNGNEZDVhWGtpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuS1k1SHZ1bHhMMGpJdzd4MkFYOTZNck11M0k5UWF1VFotV3EtQnNxMzR5bw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/oAKNcial9rlcEEXyOtZIXw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Y1dad2NHVjBNalYyYjNsd1ozbDRjRGQ1YVhraWZRLnQ4M2tBaHVmY1cwQjUwRzNUbndwN2VjeG5RU0hTeTRUOVFZdEVZWjRjNlk",
@@ -169,10 +148,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Drama",
-      "Action"
-    ],
+    "genres": ["Drama", "Action"],
     "current_context": null
   },
   {
@@ -201,9 +177,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.16023992737539,
-    "director_names": [
-      "Christopher Nolan"
-    ],
+    "director_names": ["Christopher Nolan"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/oXY62Eqx0gmA8R9uS9vBGg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZkamxqYkcxemF6aHpjM1p6TVc5aGVqaHdiSG9pTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAudm1wNE9OWFNYN0VlYlBRT2xPMGszY0pCODY4cWd2dXZOUmhvWi1jeU9zSQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/scqCxm2hn5AUvybRRnOqDA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZGpsamJHMXphemh6YzNaek1XOWhlamh3YkhvaWZRLlY5OGlPdnJIazVkZS1HWS1wNlo0SEFQa0JPbC0wR3ZKMlNzYS1TVlFmU0E",
@@ -217,10 +191,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Mystery", "Thriller"],
     "current_context": null
   },
   {
@@ -249,9 +220,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.592614839434251,
-    "director_names": [
-      "Bong Joon-ho"
-    ],
+    "director_names": ["Bong Joon-ho"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/GU11pkUiFomer0tOLUUl1Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZkSFIzT0hKbGFYY3djblY2YTNka01uUjVZV29pTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuOEtNVV84Tm9DMnpyRFYxRE93MklYNUNwQW9DTThPMmFVV01ud2FWV19vOA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/-5hxWOsLKMIlAttsYT1wjQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZEhSM09ISmxhWGN3Y25WNmEzZGtNblI1WVdvaWZRLnhTYjAtcm05U0VzYVlPVmx2UnZ3aFZGQ1E5UHg3UmR1UEhOeFJxYW93Nnc",
@@ -265,9 +234,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "current_context": null
   },
   {
@@ -291,9 +258,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.08801671486993,
-    "director_names": [
-      "Makoto Shinkai"
-    ],
+    "director_names": ["Makoto Shinkai"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/fSSSgYPFgp9I7q8rA1H2DQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZibVJ0WTNVNWIzSnhaR2RwWW14NFpXNHhhSEFpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuLUZtSDIwRW1aU1QxeEh2UXE5Z2lwbnhISExZMUUzR0JiOHZDNkl5Rkxpcw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/vMQwtQJKEOjz3edg2AfkJg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Ym1SdFkzVTViM0p4WkdkcFlteDRaVzR4YUhBaWZRLmw3VlJMSDFHWFg1YkVsTzNsX3p1Q0xaUENBSDBtYUJuUENCSTdzU1dzLTA",
@@ -307,11 +272,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Animation", "Drama", "Romance"],
     "current_context": null
   },
   {
@@ -340,9 +301,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.378221413774666,
-    "director_names": [
-      "Lee Byeong-heon"
-    ],
+    "director_names": ["Lee Byeong-heon"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/643xWdj2Bs1Z3i6VDnn2Mw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZkRzVoWlc5cE5uTmhjbUl6WjJabWRXUjJkR2NpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuX1E3WnpmRFZ1RUtkRWxIQ1haQkdTbGRNVEY5RENWc1FlcV9tWGhuc3ctOA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/OFTrF_zblHnYvzaVDMjdzg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZEc1aFpXOXBObk5oY21JeloyWm1kV1IyZEdjaWZRLmdPbUxuRWtOTlV3RFVYWnBCc0Jkb25zZFRnRGdMbTBWWXEyV0hLV0M2clk",
@@ -356,9 +315,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Comedy"
-    ],
+    "genres": ["Comedy"],
     "current_context": null
   },
   {
@@ -387,9 +344,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.278376657935654,
-    "director_names": [
-      "Park Chan-wook"
-    ],
+    "director_names": ["Park Chan-wook"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/C9lzvEZxP-X9rrCpy5Fwrg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZMU5UTXdPRFF6TlRjd016YzBNalV4TnlJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuTXM0T1dvbVVnRVI1WFBRU3JjNGtBVjd4dFl3dUY1Wk5KMG1jY180dDJFdw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/g-0IEXHNfTjzTOLH7cd2-A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWTFOVE13T0RRek5UY3dNemMwTWpVeE55SjkuejRMTzZjUkpjQkV2TERxWlY2OUstTklnczhUSllFeFl4R0Y4dk5KdzRQOA",
@@ -403,13 +358,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Romance",
-      "Drama",
-      "Mystery",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Romance", "Drama", "Mystery", "Crime", "Thriller"],
     "current_context": null
   },
   {
@@ -433,9 +382,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.929221993928056,
-    "director_names": [
-      "Denis Villeneuve"
-    ],
+    "director_names": ["Denis Villeneuve"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/JhzyMXKTwAe5fDsEj3QDNw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZjWFZrYm1GMVluZGxhak4yTW05NWNHaG1kRGNpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAud3dndWRQLVNQdC05Zy1ibEZtZmktUzhnbzloanJneWdPYmU5WVhPa3h1QQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/ynZdtkDKpid6SBOYCKGv3A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Y1hWa2JtRjFZbmRsYWpOMk1tOTVjR2htZERjaWZRLm5pS2xhNkx4UldsSUppLUdOTmFTUlQ4WnNqMU5SSGxlby1DSHprdDhadFU",
@@ -449,12 +396,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Mystery",
-      "SF",
-      "Thriller",
-      "Drama"
-    ],
+    "genres": ["Mystery", "SF", "Thriller", "Drama"],
     "current_context": null
   },
   {
@@ -478,9 +420,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.537919717633946,
-    "director_names": [
-      "Yuki Tanada"
-    ],
+    "director_names": ["Yuki Tanada"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/tw8BeJSC5nS296pg6GA5dg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiWFYxWTNJeUxURTRNVEV3SWl3aWNTSTZPREFzSW5jaU9qRTVNakI5LmlzWGluc3JDRXVqN2JrOEM3Tk1rV2pfZ2dqLURjWXRMS09mR2JRSjdfYjQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/A8rb9PLBbj6X49-WLjDAMw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlhWMVkzSXlMVEU0TVRFd0luMC5KRDJfWXlTS3NVMnlrR2FFMWtIeThQZEJ3ejZlanpvYU8xMEwwbDZCU3VB",
@@ -494,9 +434,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "current_context": null
   },
   {
@@ -534,10 +472,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Comedy"],
     "current_context": null
   },
   {
@@ -575,11 +510,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Sports",
-      "Drama",
-      "TV Drama"
-    ],
+    "genres": ["Sports", "Drama", "TV Drama"],
     "current_context": null
   },
   {
@@ -617,13 +548,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "BL",
-      "Fantasy",
-      "Romance",
-      "Comedy",
-      "TV Drama"
-    ],
+    "genres": ["BL", "Fantasy", "Romance", "Comedy", "TV Drama"],
     "current_context": null
   },
   {
@@ -647,9 +572,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.9031754429644385,
-    "director_names": [
-      "Luca Guadagnino"
-    ],
+    "director_names": ["Luca Guadagnino"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/4ZQFqvIXYQVpkbWDKvf9MQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZlVzl6TTJreWJuTndOM2R6TTNRNVltUnlaMm9pTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuR2FodlFiTjBoWVBoZndOTC1IWnNJU0NUR0VJZU50RlNjYVVaOEE1MURfTQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/Swu3eGyjTrhJ8GTIeG_jnw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZVc5ek0ya3libk53TjNkek0zUTVZbVJ5WjJvaWZRLklLLUtWX3RsQzB5d19GV3g2cW1yQTNzblVSMm9VaFNKZUUzaWlsMDB5UDg",
@@ -672,10 +595,7 @@
         "name": "Brazil"
       }
     ],
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "current_context": null
   },
   {
@@ -699,9 +619,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.623900193236125,
-    "director_names": [
-      "Martin Scorsese"
-    ],
+    "director_names": ["Martin Scorsese"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/GZPcL5h8qdlnFz-ZfzpzsQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZkbVp1Y3pkeWRtVmpPSFEzTlc1Nk0ySnRiM01pTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuRW5xY3ZhTDBtYzhYZ1dreUxjd3RzSjV0YlJTVlNweUw4UlhWSVoyb1ZPMA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/C9mD24GdbryDl-w8ElqLDQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZG1adWN6ZHlkbVZqT0hRM05XNTZNMkp0YjNNaWZRLmNraEZveV9wUDlEUDlITVFLOFNaQ3puTHQ2NHRjNEhpR1VUMmRZaW52ZE0",
@@ -715,11 +633,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Biography", "Crime", "Drama"],
     "current_context": null
   },
   {
@@ -748,9 +662,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.703015264072009,
-    "director_names": [
-      "Park Chan-wook"
-    ],
+    "director_names": ["Park Chan-wook"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/pste4M8pegfdvdHZoDotig.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiWFoxWVRZekxURTBNemswT0NJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuNW82YVNYQlhFbDEyOWdTT0tqVUY5NmU4OGFndjRROXR3YW14aTcxOFh1RQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/NFXUfE9XEyUYNxFmj5UGYw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlhaMVlUWXpMVEUwTXprME9DSjkubzlKNVpvOGJUc2JCSW1pLVdyb1lIZnlwNUdoVmlTUlVXNU1pbzhKLTVFUQ",
@@ -764,12 +676,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Drama",
-      "Romance",
-      "Thriller",
-      "Periodic Drama"
-    ],
+    "genres": ["Drama", "Romance", "Thriller", "Periodic Drama"],
     "current_context": null
   },
   {
@@ -793,10 +700,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.870531822144725,
-    "director_names": [
-      "Kim Jihwan",
-      "Heo Min"
-    ],
+    "director_names": ["Kim Jihwan", "Heo Min"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/yBW79QEJ7zanjDh4VkX3YA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZNE1USTVNek0yTlRZeE9EazROakkzTkNJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEubWhkU1NHcElhaTdscnkzSi1HS2dpbkZrd202YzNESDEzM3NnNzlqZlgtQQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/uSRK7kNdZXzxkeSexhBqJw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWTRNVEk1TXpNMk5UWXhPRGs0TmpJM05DSjkucW9Odkhoa0V6bVdOREdZc1E3YzZfS2E5MUxnd29BeFVjSThXNzFFVlVxYw",
@@ -810,9 +714,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Documentary"
-    ],
+    "genres": ["Documentary"],
     "current_context": null
   },
   {
@@ -850,10 +752,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Romance",
-      "Animation"
-    ],
+    "genres": ["Romance", "Animation"],
     "current_context": null
   },
   {
@@ -894,11 +793,7 @@
         "name": "UK"
       }
     ],
-    "genres": [
-      "Drama",
-      "Thriller",
-      "TV Drama"
-    ],
+    "genres": ["Drama", "Thriller", "TV Drama"],
     "current_context": null
   },
   {
@@ -936,11 +831,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Romantic comedy",
-      "TV Drama",
-      "Drama"
-    ],
+    "genres": ["Romantic comedy", "TV Drama", "Drama"],
     "current_context": null
   },
   {
@@ -969,9 +860,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.719868636315234,
-    "director_names": [
-      "Choi Dong-hoon"
-    ],
+    "director_names": ["Choi Dong-hoon"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/VJhdMFuvUtksMPvg63ByZg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiVEoyZUdvMExUWXdNemtpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuSkY0TE04dnFoQ2F1Ry00MkNPUzFmb2dZQjBsakZ3LTMzcFJ5U3Y1Mi1Xaw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/nJyfpJCOzp66DcTSq4uEdA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlRKMmVHbzBMVFl3TXpraWZRLmlYOW5pYmtmR0w1RWhBcjFIMUVXMDVQZTBNZFQxQ1hLeUd1NnhzeThUbEU",
@@ -985,11 +874,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Crime",
-      "Action",
-      "Drama"
-    ],
+    "genres": ["Crime", "Action", "Drama"],
     "current_context": null
   },
   {
@@ -1013,9 +898,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.250007935106293,
-    "director_names": [
-      "Mamoru Hosoda"
-    ],
+    "director_names": ["Mamoru Hosoda"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/rmalLmFCY8csF-2lf4ZA8A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZZVzF5ZDNoNWFUTjFhM3BwWm1kNk1XdG1OMlVpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuNVlNSm5wT0VhUVd5SU9JUk1wWVVsdjNaR1ZvNnFPb1E5RTBHb25VYXNabw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/UiC1ivL8385e7n3KK0KfFw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2WVcxeWQzaDVhVE4xYTNwcFptZDZNV3RtTjJVaWZRLkFGaGZmcGtGQ184VmlCSHFSVXR5SnhOX21oTERjWE1tU0VKRnBicWZNQTA",
@@ -1029,12 +912,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "SF",
-      "Fantasy",
-      "Romance"
-    ],
+    "genres": ["Animation", "SF", "Fantasy", "Romance"],
     "current_context": null
   },
   {
@@ -1063,9 +941,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.005899590017478,
-    "director_names": [
-      "Choi Dong-hoon"
-    ],
+    "director_names": ["Choi Dong-hoon"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/nGu7JsQIpVSxReqEWmdqSg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZlWFV4YUhCNFlqSTFaV2s0ZFdKdGIyYzJiRzhpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuMHZBcjQtZFQtWDJUcUtXWjNYaUdHeERCaUhqV2hLS2JoWDNybUtWRmRvaw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/aZFNGQqyCDXtVJ6gR_mVjA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZVhVeGFIQjRZakkxWldrNGRXSnRiMmMyYkc4aWZRLnRET0V4ZERRSTFmN0lvYnBOSEJhTXhHdjNyeHE0SjlvNEpGeEVoNmdMdGc",
@@ -1079,10 +955,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Action",
-      "Drama"
-    ],
+    "genres": ["Action", "Drama"],
     "current_context": null
   },
   {
@@ -1111,9 +984,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.28842813696651,
-    "director_names": [
-      "Catherine Hardwicke"
-    ],
+    "director_names": ["Catherine Hardwicke"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/gwIH8ZmTQMfey3YzLQ1g0g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZjbkYxZDJKd1kzWndkSGcyYm5SdmEzSTBialFpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuT3Q5NVo4ajVWNTROZGlEZUlhTGNIVEpGS1NCRUtRS2xqT1BQVUsxNlRTOA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/QCiX9LXVGVkRYoUaMiI40Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Y25GMWQySndZM1p3ZEhnMmJuUnZhM0kwYmpRaWZRLnF3Y19qSDZxeVBoU2ZDaS0xcGpaM3RGdUQ0emNzWGZjMmNiWDRKblcxOFU",
@@ -1127,11 +998,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
+    "genres": ["Drama", "Fantasy", "Romance"],
     "current_context": null
   },
   {
@@ -1169,11 +1036,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Daily Life"
-    ],
+    "genres": ["Animation", "Comedy", "Daily Life"],
     "current_context": null
   },
   {
@@ -1211,12 +1074,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery",
-      "TV Drama"
-    ],
+    "genres": ["Crime", "Drama", "Mystery", "TV Drama"],
     "current_context": null
   },
   {
@@ -1240,9 +1098,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.687459769442332,
-    "director_names": [
-      "Hirokazu Koreeda"
-    ],
+    "director_names": ["Hirokazu Koreeda"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/6_IyaL_Dzfd0boq4c0heHA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZielJ4Ym1aaFltcDJOSHBqTW5kdWNIUnpObklpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAudmxKT0tGcDBOOFdYT0ZveFllT3c3ZnVoWkFIMVEyMGZkNEVRa2k3RUhjQQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/kDAHo2eIx17RX_spXmr03g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YnpSeGJtWmhZbXAyTkhwak1uZHVjSFJ6Tm5JaWZRLmFwa0xZSUZjRTJYTTFxT3lhdWltQUxKdHNMSUFNd0Y3VzBXR0pPUzlQNTA",
@@ -1256,10 +1112,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Family",
-      "Drama"
-    ],
+    "genres": ["Family", "Drama"],
     "current_context": null
   },
   {
@@ -1283,9 +1136,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.522173314091921,
-    "director_names": [
-      "Na Hong-jin"
-    ],
+    "director_names": ["Na Hong-jin"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/SNrQui4U-th-59ogM5AAxg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiV3M0YlhSdUxUTTVNemNpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuNnpjdi00b1FWQUtZTHNVM3VxQkpDVWNfMXdDV2R6YVJjV19OM1dNWlpfNA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/R35VkhPU8YTNjcKWwFh0Pg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YldzNGJYUnVMVE01TXpjaWZRLmtyck1zSFZKODdQaUxQOEFzY0I2Q3ZKREx1XzVNVmtNYUNkU1RTd25uT0k",
@@ -1299,11 +1150,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Thriller",
-      "Action",
-      "Crime"
-    ],
+    "genres": ["Thriller", "Action", "Crime"],
     "current_context": null
   },
   {
@@ -1332,9 +1179,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.574736907580405,
-    "director_names": [
-      "Kwak Kyung-taek"
-    ],
+    "director_names": ["Kwak Kyung-taek"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/8hetsn7dPe-re860lWGVjw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZaR1Z5T0dwcU9HbHRZWFpzZDNNMGRYZHNlSFVpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuckVKWC0yaW9oc1JfQ2lFM1B6MHozLVVQVVJqQVV4Q1BaSzRGWVI3X0dmTQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/lWU8aL8Qqy9M9ilw1cG4rw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2WkdWeU9HcHFPR2x0WVhac2QzTTBkWGRzZUhVaWZRLi1EaXRUVmZlc0ZkYlpFRjA3SllKN05kVHhRdk44UllIaXF0Yk9vVDdxMDg",
@@ -1348,10 +1193,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Action",
-      "Crime"
-    ],
+    "genres": ["Action", "Crime"],
     "current_context": null
   },
   {
@@ -1369,9 +1211,7 @@
     "badges": [],
     "on_watchaplay": false,
     "ratings_avg": 8.203943564068684,
-    "director_names": [
-      "Jonathan Demme"
-    ],
+    "director_names": ["Jonathan Demme"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/ecmH_pdYoXk3j7i88WEdrg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZME9UY3lOREV3TVRRNE5UVXlNRFV5TUNJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuQ0Q1V3FldXctSlRCRGVqMUpPLWlKRXlqZXJqa2diUFU3SWVtaTVWNFdiWQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/TecEPOv571_-2jsKi31dqg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWTBPVGN5TkRFd01UUTROVFV5TURVeU1DSjkuckoyYWpKbHJwSWlpU0d1THRPLWRqdnNmRWVENl9jeHBEaTJwRVlMSjFqOA",
@@ -1385,12 +1225,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller",
-      "Horror"
-    ],
+    "genres": ["Crime", "Drama", "Thriller", "Horror"],
     "current_context": null
   },
   {
@@ -1414,9 +1249,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.902612148105564,
-    "director_names": [
-      "Woody Allen"
-    ],
+    "director_names": ["Woody Allen"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/XJR7YqgDXEWlXmLI5RFeUg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZkMnAzY1hwMGVXNTViWGs0ZW01dk1qSjNlV2dpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuVXpzZmQyUm9fQVVnUF9PVHdWdmxfdFVEcUd3dzBUcVBDR0RPakRRTnhYVQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/AsaGO4B8o6ZWqfidmAAA8A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZDJwM2NYcDBlVzU1YlhrNGVtNXZNakozZVdnaWZRLmpHSlZPUDlpZUgyclQwczlUUUdnRy1na3JnOVphall5Wl9kREVYMDhjOTA",
@@ -1436,12 +1269,7 @@
         "name": "France"
       }
     ],
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Romantic comedy"
-    ],
+    "genres": ["Comedy", "Fantasy", "Romance", "Romantic comedy"],
     "current_context": null
   },
   {
@@ -1484,13 +1312,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Thriller"
-    ],
+    "genres": ["Animation", "Action", "Adventure", "Fantasy", "Thriller"],
     "current_context": null
   },
   {
@@ -1519,9 +1341,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.109660416224894,
-    "director_names": [
-      "Park Seong-hoo"
-    ],
+    "director_names": ["Park Seong-hoo"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/xHBaB8aKSmcx1nFyIMtyIg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZME5Ea3pPREEwT0RZME5ERTFPVGt5TnlJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuZ1hzZDdJQ0x4bU9ySGhUaUs0UWdfMG02MW1xYmJYcndWU3NNOENwblNUSQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/jYtQt2ltC1g1phw6N-J4sA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWTBORGt6T0RBME9EWTBOREUxT1RreU55SjkuZ2NwUFpVU093NlpaNThVM2pHVHZFaEp3bmVLWk85d0ZGWWtVbV9nVnFsUQ",
@@ -1535,13 +1355,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Thriller"
-    ],
+    "genres": ["Animation", "Action", "Adventure", "Fantasy", "Thriller"],
     "current_context": null
   },
   {
@@ -1570,9 +1384,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.278685515472949,
-    "director_names": [
-      "David Fincher"
-    ],
+    "director_names": ["David Fincher"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/hz_UkRYQi1GMoY5g4J5zVw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiVE42WmpacFpESjJhR0l6Y21kMFptMW5hR2NpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuaHI1SkRZNEM3bC1uaVlHOVRuM0J3eUhDLUJGMVdackxBUEoyYndtZUNlUQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/0CixI1Hp5q2TixrjBXqeOg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlRONlpqWnBaREoyYUdJemNtZDBabTFuYUdjaWZRLkdIUVJ1WWZGYWRrNmFUUTVCMWwxZDBUcTZqUG12Zi1udXdsbmFGNzYyTms",
@@ -1592,10 +1404,7 @@
         "name": "Italy"
       }
     ],
-    "genres": [
-      "Drama",
-      "Action"
-    ],
+    "genres": ["Drama", "Action"],
     "current_context": null
   },
   {
@@ -1619,9 +1428,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.258509180373109,
-    "director_names": [
-      "John Carney"
-    ],
+    "director_names": ["John Carney"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/JX4peXtf4EEi28O7uDjHAw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiV3MwYTNsbkxUazVOemdpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuYlRsWUl4TEZMZ3dCVWdobThNOWtsczk0bWVSQV9OVk1ZRERRS1dUX01Jcw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/9jWE_XnsLP6xWspD-5XWzw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YldzMGEzbG5MVGs1TnpnaWZRLkRRUXp4elZ1OHYzQXJVcF9FbUZSVmJCTXJOa1lJZlNOMjhGSmFNY3ZpZXM",
@@ -1635,12 +1442,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Music",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Music", "Romance"],
     "current_context": null
   },
   {
@@ -1683,12 +1485,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Action",
-      "Fantasy",
-      "Thriller"
-    ],
+    "genres": ["Animation", "Action", "Fantasy", "Thriller"],
     "current_context": null
   },
   {
@@ -1731,11 +1528,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Drama",
-      "Mystery"
-    ],
+    "genres": ["Animation", "Drama", "Mystery"],
     "current_context": null
   },
   {
@@ -1773,9 +1566,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation"
-    ],
+    "genres": ["Animation"],
     "current_context": null
   },
   {
@@ -1799,9 +1590,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.739060663230824,
-    "director_names": [
-      "Kim Jee-woon"
-    ],
+    "director_names": ["Kim Jee-woon"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/PHtvcgqyB2yNRGW0GBMQ6A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiWEpxYldGM0xURTNOVFV6SWl3aWNTSTZPREFzSW5jaU9qRTVNakI5LjBFTi1lNk1pTnBOTlczQmZfbWxpbGVzLWxiaVJWcHJmTUk0RXlCamtTRVk",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/Kqur0yq7dW8Y798UQPjP1Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlhKcWJXRjNMVEUzTlRVekluMC5sYmVVRzlXOHo0a1l3ejNIWHBEdjhzVkQ0Tnp3cWMyZm9FTHBvM180MGd3",
@@ -1815,11 +1604,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "current_context": null
   },
   {
@@ -1843,9 +1628,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.490466244029951,
-    "director_names": [
-      "Denis Villeneuve"
-    ],
+    "director_names": ["Denis Villeneuve"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/-e-MYRD0ynNJEg5Wjtd_rw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZaVFZxYW5jM2MzZHphV2wwTjJ0c01XeDJiMmNpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuaWhRS0cwWktTbTM3WmRMYlYtSGlUajhyNDlRSUtZVjV3Z0lES3lvOUp6OA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/j_7_wXLU7TxNRWSADFPSYg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2WlRWcWFuYzNjM2R6YVdsME4ydHNNV3gyYjJjaWZRLjJuWGNSUDNvdHp0SWhhMEd0c1NJNEltbVpNSl9QYUtvZFdnaThNcWVZZk0",
@@ -1871,13 +1654,7 @@
         "name": "Spain"
       }
     ],
-    "genres": [
-      "Action",
-      "Drama",
-      "Mystery",
-      "SF",
-      "Thriller"
-    ],
+    "genres": ["Action", "Drama", "Mystery", "SF", "Thriller"],
     "current_context": null
   },
   {
@@ -1906,9 +1683,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.015698216231115,
-    "director_names": [
-      "Rian Johnson"
-    ],
+    "director_names": ["Rian Johnson"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/-gQGRf_VWv13I9FSppr8Wg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZd09EY3dNRE0xT1RFek5ERXhNams0T0NJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuZk8xbm5HZjVnNVp1RVd1NWZKcndETnpOY3R3U09pWVlFV2lUN1NkRlB6cw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/4W7N78LaTG5WKw-d1l4Zbg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWXdPRGN3TURNMU9URXpOREV4TWprNE9DSjkuZEt3eWt1T0w4X1Z3NktEVUwtOHkzX2pjei1JaTNkVzdQOTJvRDIweXhRZw",
@@ -1922,13 +1697,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Comedy", "Crime", "Drama", "Mystery", "Thriller"],
     "current_context": null
   },
   {
@@ -1966,10 +1735,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Kids"
-    ],
+    "genres": ["Animation", "Kids"],
     "current_context": null
   },
   {
@@ -2007,12 +1773,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama",
-      "TV Drama"
-    ],
+    "genres": ["Comedy", "Crime", "Drama", "TV Drama"],
     "current_context": null
   },
   {
@@ -2041,9 +1802,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.131148807524353,
-    "director_names": [
-      "Quentin Tarantino"
-    ],
+    "director_names": ["Quentin Tarantino"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/8fHLCXu1WBlc7fdWvqGPxw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiVFZ4TTJJekxURTNNakkzSWl3aWNTSTZPREFzSW5jaU9qRTVNakI5LkdaMTVBQk5vYVhicl80RlhQcUlWel9yYklhemRSVHgyRzJwSWxWS1VhNU0",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/hldR2IRLVgTUiQD5f8Ev3A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlRWeE0ySXpMVEUzTWpJM0luMC5Wd01CMWI1OC1UajdKcXI1akhWNjNieVVGRXcxUlFrZjVWVldzaUY4eXQw",
@@ -2060,11 +1819,7 @@
         "name": "Germany"
       }
     ],
-    "genres": [
-      "Adventure",
-      "Drama",
-      "War"
-    ],
+    "genres": ["Adventure", "Drama", "War"],
     "current_context": null
   },
   {
@@ -2093,9 +1848,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.333156666561743,
-    "director_names": [
-      "Choi Dong-hoon"
-    ],
+    "director_names": ["Choi Dong-hoon"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/SmzTcvYiIilqyNeXUgNCVQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiWEF4Y1hsdUxURWlMQ0p4SWpvNE1Dd2lkeUk2TVRreU1IMC56ZmJCSzVGdUNWTFdEd0hORVZVLWdoS1lxLVAyWFBwU3FEMmRmNnVlVWNz",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/XP1f8bf_WFOi8VxzVJIocA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlhBeGNYbHVMVEVpZlEuU3pUUVE3ZU5vajNYeDYxWkw3aTJUcXg3R2szNGZ0aW54Q1BIaVpnX2FBMA",
@@ -2109,9 +1862,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "current_context": null
   },
   {
@@ -2140,9 +1891,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.038151885037236,
-    "director_names": [
-      "Roger Michell"
-    ],
+    "director_names": ["Roger Michell"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/dbFJ-r45KR_KG252T9IF6A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZlWEJ6WkhVMGJtMWtNbTV6Ym5KNGNIbzFOV2NpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuWkNaMGNDMVU2NjgzNFdRTUhDUHppc04tNVI5NXg2aFREZ2pEdlJFZ1NZMA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/qZFgndWajTO5gBHrC-0cYA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZVhCelpIVTBibTFrTW01emJuSjRjSG8xTldjaWZRLmk3ME9Rby1GbkFYTW15SmtjMzNkb1NZNEFXZzVCaHhER2g1ZHRnX21wZW8",
@@ -2156,10 +1905,7 @@
         "name": "UK"
       }
     ],
-    "genres": [
-      "Romance",
-      "Romantic comedy"
-    ],
+    "genres": ["Romance", "Romantic comedy"],
     "current_context": null
   },
   {
@@ -2202,13 +1948,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Romantic comedy",
-      "Romance",
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Animation", "Romantic comedy", "Romance", "Comedy", "Drama"],
     "current_context": null
   },
   {
@@ -2246,9 +1986,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "current_context": null
   },
   {
@@ -2272,9 +2010,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.4055732427478285,
-    "director_names": [
-      "Mel Gibson"
-    ],
+    "director_names": ["Mel Gibson"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/L3P_n9rmlz4ZpWVsawCl-w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZeU9UYzJOelkxTVRneE56RTRNekF6TmlJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuV3N3M2JELXVKcnhGTWNvOTlmVEhIYVhrSWhwOFlTZWI1cmZkSEtBekwwVQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/acIyy4uirgabrvvvte2gZQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWXlPVGMyTnpZMU1UZ3hOekU0TXpBek5pSjkuUS1KOXRRWkxlWWx2Wllhc2FpTkt3TnBGZ3Zwcmt0OUg1TmY4UllMazlHZw",
@@ -2294,12 +2030,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Action", "Adventure", "Drama", "Thriller"],
     "current_context": null
   },
   {
@@ -2328,9 +2059,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.972988111568358,
-    "director_names": [
-      "Greta Gerwig"
-    ],
+    "director_names": ["Greta Gerwig"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/QmEq7xbdh77Fnkah4a_Ttg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZjV2x1ZWpZNFlteHRkR0p4YkhkcE5ISnpaM2dpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuTzByZk9RUDhYaWxFZ3JZS2l0Z0d1TTZfV3JFWmNraFpXMzY3NGZsZzZKQQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/mT0oXVRpav5gwQoujd6rwA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Y1dsdWVqWTRZbXh0ZEdKeGJIZHBOSEp6WjNnaWZRLjBrOU5xbzFzMWEwcFc5LXhMcVVMb1VoclZFYWxjSXJPcWttUmc5X0x3TmM",
@@ -2344,10 +2073,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "current_context": null
   },
   {
@@ -2385,13 +2111,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Teen Movie",
-      "Romance",
-      "Comedy",
-      "Drama",
-      "TV Drama"
-    ],
+    "genres": ["Teen Movie", "Romance", "Comedy", "Drama", "TV Drama"],
     "current_context": null
   },
   {
@@ -2415,9 +2135,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.047656262502867,
-    "director_names": [
-      "Andrew Niccol"
-    ],
+    "director_names": ["Andrew Niccol"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/pN8JPhIuqh-Kf5FzwxFk_A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiVGN6TjNVMExURXdPVGdpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAua21SQmx4M21tbHhURGtLZl9HenFrRjV6Vm1uTmJLaEtMYlJoM0FrMFh3dw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/dMkol1KaDQ6QSpTn-mKkYg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlRjek4zVTBMVEV3T1RnaWZRLjBVTlg5LUhXN09sMXV6MFVqR0t5Mnc0UFpjcDlHVlMyRTRsa2F5MHpiNmc",
@@ -2431,11 +2149,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "SF",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["SF", "Drama", "Thriller"],
     "current_context": null
   },
   {
@@ -2459,9 +2173,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.945686500469362,
-    "director_names": [
-      "Mamoru Hosoda"
-    ],
+    "director_names": ["Mamoru Hosoda"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/YfKDgKnHQLDLPnqufgujKg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiV1UyTjNRekxUWTJNVGN6SWl3aWNTSTZPREFzSW5jaU9qRTVNakI5LkVLTjZDUmUxX2YwMFEyNnVwZnFzQzNoRnFBc0l4RWlxSUI1NHk1cDZxOVU",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/YtcqFUjHQkhZW0NtHpzwUw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YldVMk4zUXpMVFkyTVRjekluMC43SkRUWUJTYTNVT0lYV2p3N2VsMWRMbTVwTDJzOEtMempqVER0UXpMRUk4",
@@ -2475,10 +2187,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Fantasy",
-      "Animation"
-    ],
+    "genres": ["Fantasy", "Animation"],
     "current_context": null
   },
   {
@@ -2502,9 +2211,7 @@
     ],
     "on_watchaplay": false,
     "ratings_avg": 8.049329266487014,
-    "director_names": [
-      "Quentin Tarantino"
-    ],
+    "director_names": ["Quentin Tarantino"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/vTtQFHOdQ3IsddckR9Gsrg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZlbmx3TVdsNmQyWjRhR3Q1YTJOMVpHVnBjV1FpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuZkcwUExQQW1sWGhnVWpIU2NNRTdmQ1ZOSmJ2U0xnUlNXMHZGc0xBb1lDOA",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/myzzywk752gJ-585OXQLnA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2ZW5sd01XbDZkMlo0YUd0NWEyTjFaR1ZwY1dRaWZRLk41VWNHdWRBeEk2bUVxSnh0TkJfRllPYnlKSkxXd2pUczVpd3pZeGdtQlU",
@@ -2518,10 +2225,7 @@
         "name": "United States"
       }
     ],
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Crime", "Drama"],
     "current_context": null
   },
   {
@@ -2550,10 +2254,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 6.815196008440023,
-    "director_names": [
-      "Lee Haejun",
-      "Kim Byung-seo"
-    ],
+    "director_names": ["Lee Haejun", "Kim Byung-seo"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/g3LB_wssEMlV2QLa4Xc24g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZd09UazVOalkyTmpBME5USTNOekF3TlNJc0luRWlPamd3TENKM0lqb3hPVEl3ZlEuUGpqVEZlbjlrZEdYcEMyamJqU0VWQjIwdDFRWGppMjVRMFRQQU90ejdVVQ",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/uYeDGTU_Iaa1uCVYbz5imw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakl2YzNSdmNtVXZhVzFoWjJVdk1UWXdPVGs1TmpZMk5qQTBOVEkzTnpBd05TSjkuWFNDX05YV29uYlhOTnBfbDJZUlZFNklybDFYdnJKdFJNM2luSXJFWHVkNA",
@@ -2567,12 +2268,7 @@
         "name": "Korea"
       }
     ],
-    "genres": [
-      "Drama",
-      "Action",
-      "Adventure",
-      "Disaster"
-    ],
+    "genres": ["Drama", "Action", "Adventure", "Disaster"],
     "current_context": null
   },
   {
@@ -2601,9 +2297,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 8.598564105316836,
-    "director_names": [
-      "Richard Curtis"
-    ],
+    "director_names": ["Richard Curtis"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/kspSllvvlIDq51li6Wv9Sw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiblE0YjNWaGJ6aDNaM3BvZVcxMmJ6ZDFhMjRpTENKeElqbzRNQ3dpZHlJNk1Ua3lNSDAuWkFQSHFfdDl6c1paME1LSVlNN3h5dEJ3bXltbVRySDM2dTJvLVpCNkx1aw",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/Yl8UutB4ITF67L7nmuJvaQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2Ym5RNGIzVmhiemgzWjNwb2VXMTJiemQxYTI0aWZRLkpzOFRSVVpZU0Z0QjdrNzhIakxLd0Z2d0VRbmNqRTVCcklwV0lKMHFuLXM",
@@ -2617,13 +2311,7 @@
         "name": "UK"
       }
     ],
-    "genres": [
-      "Fantasy",
-      "Drama",
-      "Romantic comedy",
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Fantasy", "Drama", "Romantic comedy", "Comedy", "Romance"],
     "current_context": null
   },
   {
@@ -2652,9 +2340,7 @@
     ],
     "on_watchaplay": true,
     "ratings_avg": 7.941704686074273,
-    "director_names": [
-      "Joe Wright"
-    ],
+    "director_names": ["Joe Wright"],
     "stillcut": {
       "original": "https://an2-img.amz.wtchn.net/image/v2/-r8_mLQCQTxmKx037TLlKg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqRXZiWE16WVd4bUxURTNOalUwSWl3aWNTSTZPREFzSW5jaU9qRTVNakI5LmZpQXVYbS1CNDhwNjd2N0Z5WEF5Uy1UNXN1TXAxQnVHcy05U0RBVU54ZGs",
       "fullhd": "https://an2-img.amz.wtchn.net/image/v2/bHIjgl9EjMfLJQe9kc1uzA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1Ua3lNSGd4TURnd2NUZ3dJbDBzSW5BaU9pSXZkakV2YlhNellXeG1MVEUzTmpVMEluMC5QY3dQNndUYk9scTlfdFdBaUdUd0dTd25IcEZoWWFaeDJkWmNvNVJPWjk0",
@@ -2668,10 +2354,7 @@
         "name": "UK"
       }
     ],
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
+    "genres": ["Romance", "Drama"],
     "current_context": null
   },
   {
@@ -2709,11 +2392,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Comedy",
-      "Drama",
-      "TV Drama"
-    ],
+    "genres": ["Comedy", "Drama", "TV Drama"],
     "current_context": null
   },
   {
@@ -2751,11 +2430,7 @@
         "name": "Japan"
       }
     ],
-    "genres": [
-      "Animation",
-      "Mystery",
-      "Fantasy"
-    ],
+    "genres": ["Animation", "Mystery", "Fantasy"],
     "current_context": null
   }
 ]

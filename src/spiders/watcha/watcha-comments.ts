@@ -1,6 +1,6 @@
 import path from 'path';
 import service from './watcha-service';
-import { MovieArray } from './watcha';
+import { MovieArray, MovieDetailItem } from './watcha';
 import MovieFS from './movie-fs';
 
 //pedia.watcha.com/
@@ -25,18 +25,21 @@ async function delay(ms: number): Promise<NodeJS.Timeout> {
 }
 
 const MAX_COMMENT_NUM = 30;
-async function fetchWatchaCommentListing(movieNum: number): Promise<MovieArray> {
-  const pageMax = Math.ceil(movieNum / MAX_COMMENT_NUM);
+async function fetchWatchaCommentListing(movie: MovieDetailItem, commentNum: number): Promise<MovieArray> {
+  const pageMax = Math.ceil(commentNum / MAX_COMMENT_NUM);
   const result: MovieArray = [];
   let curPage = 1;
-
+  let errorCount = 0;
   while (curPage <= pageMax) {
     console.log(`${curPage}페이지 시도`);
-    const data = await fetchWatchaMovieComment(curPage, MAX_COMMENT_SIZE);
-    console.log(data);
-    process.exit();
+    const data = await fetchWatchaMovieComment(movie, curPage, MAX_COMMENT_SIZE);
+
     if (data.length === 0) {
       await delay(3000);
+      if (errorCount > 2) {
+        break;
+      }
+      errorCount++;
       continue;
     }
     console.log(`성공`);
@@ -52,7 +55,7 @@ if (import.meta.filename === path.resolve(process.argv[1])) {
     const maxNum = process.argv[2] ? parseInt(process.argv[2]) : DEFAULT_COMMENT_NUM;
     const movieArray: MovieArray = MovieFS.loadList();
     for (const movie of movieArray) {
-      const movieCommentArray: any[] = await fetchWatchaCommentListing(maxNum);
+      const movieCommentArray: any[] = await fetchWatchaCommentListing(movie, maxNum);
 
       MovieFS.saveComments(movie.code, movieCommentArray);
       console.log(`${movie.code}-comments  저장 완료`);

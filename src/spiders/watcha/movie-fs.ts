@@ -53,7 +53,7 @@ const MovieFS = {
   },
   loadAll: function (): any {
     const movies = this.loadMovies();
-    movies.map((movie) => {
+    return movies.map((movie) => {
       return {
         ...movie,
         comments: this.loadComment(movie.code),

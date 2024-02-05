@@ -1,0 +1,1922 @@
+[
+  {
+    "code": "zD82XGJKp1E53",
+    "user": {
+      "code": "g64qz8odM5ER0",
+      "name": "성유",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/93mNjuHL8aW7GAAFSXpFVQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTluTmpSeGVqaHZaRTAxUlZJd0wzQnliMlpwYkdVdk1UWTFOemt4TlRNNE5ESXlNREV6TlRnek5DSjkuYjhNb0VTb3BuRzZibjdnTkkzWGpqQUd5dVZMX01lcUVhSUlOdWVQMU11bw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/uTn_RUAVDdu2xTNMVTYX7A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hvNGIyUk5OVVZTTUM5d2NtOW1hV3hsTHpFMk5UYzVNVFV6T0RReU1qQXhNelU0TXpRaWZRLnlpTUs3R3ZtVE5RM09FS0dUR3B4NUN1VzFDNld5cnZoNUh6VG9qUUdGQXM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/pgABgd51N6Stb2z9ytNHZw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hvNGIyUk5OVVZTTUM5d2NtOW1hV3hsTHpFMk5UYzVNVFV6T0RReU1qQXhNelU0TXpRaWZRLmlCUjQtMVNZM3J4WTRkM1gzV2ZzYVR4WTJ0RklKQXJ0bnZmMWhCaU1Vb28"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "어떤 천성들은 억누르기엔 너무 고결하고, 굽히기엔 너무 드높단다.",
+    "likes_count": 2296,
+    "replies_count": 5,
+    "content_code": "m5XK6PL",
+    "user_code": "g64qz8odM5ER0",
+    "watched_at": "2020-02-12T22:12:45+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T21:58:33+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-12T22:12:45+09:00",
+      "user_code": "g64qz8odM5ER0",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "kpeQKqlm5D2YN",
+    "user": {
+      "code": "DgwxAeQYNxrMj",
+      "name": "이동진 평론가",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/p3XJy6kh9GOBMVM31BjjdA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFXVlJXVTU0Y2sxcUwzQnliMlpwYkdVdk1UWXlPVGszTURnM01ESTFOak0zTnpNME5DSjkuLWxvTzcyeXgzSXBaZmVxZ096Z2ZQb2FqQnFMY3dHV1QtM19LMFRFcW90Yw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/gYIGjbMGjBkWyf14oNp7UA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGbFVWbE9lSEpOYWk5d2NtOW1hV3hsTHpFMk1qazVOekE0TnpBeU5UWXpOemN6TkRRaWZRLkNPaFZuVFVad1FkZy04YnFFemlhdWRtN0t3ZS1RTVpDNVFzY2QtTERhZUU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/vWfhipqy6PDn-vgUDouTyg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGbFVWbE9lSEpOYWk5d2NtOW1hV3hsTHpFMk1qazVOekE0TnpBeU5UWXpOemN6TkRRaWZRLm9CUENxSEEwaFFhTjl6TTVLdUx1NVBYNnVPMk90bVgxbHRWcFBxTXFEMEU"
+      },
+      "watcha_play_user": true,
+      "official_user": true
+    },
+    "text": "시대적 한계로 타협했던 원작 결말의 본뜻을 되살려낸, 원작자 올컷보다 더 올컷같은 재해석.",
+    "likes_count": 1340,
+    "replies_count": 4,
+    "content_code": "m5XK6PL",
+    "user_code": "DgwxAeQYNxrMj",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-15T22:42:52+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "DgwxAeQYNxrMj",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "j7kQzmGAWNMl4",
+    "user": {
+      "code": "Mr95nbQ175ZPG",
+      "name": "정재헌",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/2U_IHT69fe_N7uEsXw08iw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlOY2prMWJtSlJNVGMxV2xCSEwzQnliMlpwYkdVdk1UWXpNREF4TkRrMk5URXdNRGN4T0RNek5pSjkuOFp6cnFVa0NNaHpQZHVXck5ybTEwaW1HV21DQTlMVmV0SmxxaHYxQmlsZw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Qm3t7p0F9WgQey0F3eUQ4w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc1aVVURTNOVnBRUnk5d2NtOW1hV3hsTHpFMk16QXdNVFE1TmpVeE1EQTNNVGd6TXpZaWZRLmd6TXNqUEZYM3dSQjNYbGtpbzkwZ0N4TG5lNmUzREtNNXE2aGZNaDFJUlU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/9c1XFXWT4EDf0i5VYVULjA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc1aVVURTNOVnBRUnk5d2NtOW1hV3hsTHpFMk16QXdNVFE1TmpVeE1EQTNNVGd6TXpZaWZRLjRhRGJ3aDh3UjZ0RFdHazU4NGx0bjUycjhuQklqcVJEWVhJdmI1U19jc0E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "굳이 지금껏 여러번 리메이크됐던 <작은 아씨들>을 왜 또 제작 했는지에 대한 의문을 말끔히 해소시켜주는 그레타 거윅.\n \n이 작품의 가장 큰 장점이 있다면 모든 캐릭터들이 매력적이라는 것. 모두가 그저 소비되지 않고 적재적소에 위치하여 저마다의 아름다운 빛깔을 자아내고, 그렇게 또 한 편의 사랑스런 이야기로 관객의 마음을 따뜻하게 가득 채워준다. \n \n무엇보다 시얼샤 로넌의 매력이 이렇게까지나 빛날 수 있다니 거윅에게 너무 감사하다.",
+    "likes_count": 1159,
+    "replies_count": 6,
+    "content_code": "m5XK6PL",
+    "user_code": "Mr95nbQ175ZPG",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-02T01:44:50+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Mr95nbQ175ZPG",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "W9bEBPBN6KMpZ",
+    "user": {
+      "code": "dP8v638205WeJ",
+      "name": "주 혜",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/kkdr4jqwl8Sg2U9unQpNAw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlrVURoMk5qTTRNakExVjJWS0wzQnliMlpwYkdVdk1UY3dNVGN6TVRnNU1qVXlOVGt3TnpBNE1DSjkuVGtLTEpjTXZob2hHTGp5VVg0X0tXeVBxT3NhS1V3MXRUUVBwcDdHaDc0VQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/irGt-XqTewvkzohNhXdRIA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaRkE0ZGpZek9ESXdOVmRsU2k5d2NtOW1hV3hsTHpFM01ERTNNekU0T1RJMU1qVTVNRGN3T0RBaWZRLmFxeDV2QnN2Mjh5bUVmQVdRclMxaUw4Rm1YcTRVclppaHJUUS1SNkltZTQ",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/RbG1QOanFoA4lDB0uwI8Xg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaRkE0ZGpZek9ESXdOVmRsU2k5d2NtOW1hV3hsTHpFM01ERTNNekU0T1RJMU1qVTVNRGN3T0RBaWZRLnFycWVMUDZQaS1DUmVKVzc1TXpjQkFqV192cnJJQU1mWHdhSmFVdFdMQ28"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "난. 조가 되고 싶은 메그. 그 안에 에이미가 살고 있네. \n내 안의 베스를 좀 더 사랑해줘야지.",
+    "likes_count": 943,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "dP8v638205WeJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-05T22:17:31+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "dP8v638205WeJ",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "kpeQKqlzrK2YN",
+    "user": {
+      "code": "OkexJ6dXPxdbw",
+      "name": "황지",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/36geGe4LHzktluaJi1_G4A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNqWmtXRkI0WkdKM0wzQnliMlpwYkdVdk1UWTBOalE1TXpBM09URXdOakE0TURJMU1TSjkuMmRSVWRVaEpidkk3bmx4MFQ5ODRFT2tEYU1Idy1KRmVWTDRLMkUtMnE2SQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/2kUG8NDxKX-KF6Qq5XGwbw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVvMlpGaFFlR1JpZHk5d2NtOW1hV3hsTHpFMk5EWTBPVE13TnpreE1EWXdPREF5TlRFaWZRLk0yOFVFVGhPZ0Z0aFJ0QmYzQXUydFFwUnJNcTh4ZVlsTXRtWER3cVdtaU0",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/MPpt7BmLFLROjqPWYkGPow.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVvMlpGaFFlR1JpZHk5d2NtOW1hV3hsTHpFMk5EWTBPVE13TnpreE1EWXdPREF5TlRFaWZRLjNZSll5eG84dHJsY010cVdvbG0zbXVpN3A4ZC1LY3pMRUdKcXVSLURSRkE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "\"여자들도 마음뿐 아니라 생각이 있고, 영혼도 있고, \n아름다움뿐만 아니라 야망도 가지고 있고, 재능도 있어요. 모든 여자에게 사랑이 전부라고 말하는 게 너무 지겨워요. \n하지만... 너무 외로워요.\"",
+    "likes_count": 767,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "OkexJ6dXPxdbw",
+    "watched_at": "2020-02-21T13:46:50+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-21T13:47:48+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-21T13:46:50+09:00",
+      "user_code": "OkexJ6dXPxdbw",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "WzO2gA5YVYQXZ",
+    "user": {
+      "code": "nb4xkP9bmqOAz",
+      "name": "하원",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/ds2_0_LPsyT8G3qnPjeOUA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1WWpSNGExQTVZbTF4VDBGNkwzQnliMlpwYkdVdk1UWTFOemt3TWpnMU5UTXhPVE14TnpJM09TSjkuVVRzV2RtdVZKM3FmNzg2TDNZZUdxdzdKclB3VTU0TF9ISlpWWUxrdENyMA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/MHSYiZC4IgKkV3ZoItEG9Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibUkwZUd0UU9XSnRjVTlCZWk5d2NtOW1hV3hsTHpFMk5UYzVNREk0TlRVek1Ua3pNVGN5TnpraWZRLnNmblBvNkNVWFBsSlV3OFFzaWtRMTljNjVWd19TRWo4dDlxMDFxdkh3NVU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/lh4U9cUjKgGJzPNaHSg0pw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibUkwZUd0UU9XSnRjVTlCZWk5d2NtOW1hV3hsTHpFMk5UYzVNREk0TlRVek1Ua3pNVGN5TnpraWZRLmJnV3l3VVFjOUxaTHJBLVVwRWNEcUlwbDEtT0hISlNNSGVlV3c2NDBEUGs"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "과거라는 추억은 언제나 따뜻하고, 지금이라는 현실은 너무나도 차갑다. 우리의 삶은 순간의 열정으로 현재의 시련을 녹여 기억할 추억으로 만드는 일이다. 가끔 현실이 너무나도 차가워 손이 얼어 버렸을 때, 추억이라는 난로로 녹일 수 있도록.",
+    "likes_count": 688,
+    "replies_count": 6,
+    "content_code": "m5XK6PL",
+    "user_code": "nb4xkP9bmqOAz",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2019-06-03T05:53:14+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nb4xkP9bmqOAz",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "GO6MZmy6Xb2Nx",
+    "user": {
+      "code": "3BnvwPaL95PAY",
+      "name": "햄튜브",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/AcouAzZ8QfpuBfM3ZueOGQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh6UW01MmQxQmhURGsxVUVGWkwzQnliMlpwYkdVdk1UWXpNREF3TWpnNE9UWTBNalV4T1Rnd09DSjkuS0NQSDRjZzBISU9tV1FKUTM0WnYxVWdkV2p3ZlJwcE5Eb2dadXZJQldPbw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/van_FrDPEVAW2WR0u7O77A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kUVlVdzVOVkJCV1M5d2NtOW1hV3hsTHpFMk16QXdNREk0T0RrMk5ESTFNVGs0TURnaWZRLlJWZVpRdjUzcE1rTGk0MGVEX3F1bjF6aFFwUmxRXzJ3TWJKQzVRdmFxY0k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/PIFrri8e-N4OO8zKZkNkhg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kUVlVdzVOVkJCV1M5d2NtOW1hV3hsTHpFMk16QXdNREk0T0RrMk5ESTFNVGs0TURnaWZRLjBVRnAxVkgtdG56YTdnblpnLTQwVFVDaVN6a2NNM2FUeUZldXJMc2c2MVU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "불여우..뭉쳐~!",
+    "likes_count": 488,
+    "replies_count": 4,
+    "content_code": "m5XK6PL",
+    "user_code": "3BnvwPaL95PAY",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-19T18:13:45+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "3BnvwPaL95PAY",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkxpmN2g5",
+    "user": {
+      "code": "RJgkqlB6a5X0b",
+      "name": "석미인",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/FmfiRRjI336-wvNxCwU8eQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlTU21kcmNXeENObUUxV0RCaUwzQnliMlpwYkdVdk1UWXlPVGM1T0RJNE5qWXhPREE1TkRVNU1pSjkueHdqb0JsUnNjcmo1TGxod3dkaUN3d1FraVp5REVlb05WRE1FODRMNXhYaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/IjPI29IwNbIN88u1UYAjrw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVa3BuYTNGc1FqWmhOVmd3WWk5d2NtOW1hV3hsTHpFMk1qazNPVGd5T0RZMk1UZ3dPVFExT1RJaWZRLkdtbml3LS1oMzAyRVpvaWxBTkJWbWswcy1JUzhQVGk2ZjZpOWtqU2pTdms",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/EqfzGrDmAWfd3LFiDwnn_A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVa3BuYTNGc1FqWmhOVmd3WWk5d2NtOW1hV3hsTHpFMk1qazNPVGd5T0RZMk1UZ3dPVFExT1RJaWZRLjFVbVppRGZYSWhvR1k5RXJKeWVQR3ZlM0hKdGc3S08td3BRNWpRay1rQ2c"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "맨 처음 글을 쓰게 만든 완전한 몰입과 사랑의 기억이 개기일식만큼 드문 것임을 배운 뒤에도 나는 왜 멈추지 않았을까. '달리 할 줄 아는 일이 없어서'가 맞는 대답이다. 사랑하고 사랑받기 위해 할 수 있는 다른 일이 있었다면 나는 그것을 했을지 모르겠다.\n \n보는 내 김혜리 기자의 이 문장들이 맴돌았다. 조가 테디에게 했던 첫 거절은 아직 써보지 않았던 것들을 위한 유예였겠지만 또다시 선택하고 다시 또 쓰게 했던 힘은 무력감이 모든 것을 불살라버린 후에도 타지 않고 남겨진 단단함에서 왔던 거라 믿으니까... 그녀가 품고 있는 온기를 내가 지닐 순 없겠지만 이러한 사람이 있다는 것만으로도, 달리 할 줄 아는 일이 없어서였다는 이 겸양마저도 내겐 큰 힘이어서... 또다시 그리고 다시 또 혜리 기자의 디 아워스 평론을 읽고 싶은 날이었다.",
+    "likes_count": 378,
+    "replies_count": 5,
+    "content_code": "m5XK6PL",
+    "user_code": "RJgkqlB6a5X0b",
+    "watched_at": "2020-02-12T22:01:02+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T22:00:52+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-12T22:01:02+09:00",
+      "user_code": "RJgkqlB6a5X0b",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "jxZQRpBlgN2bq",
+    "user": {
+      "code": "nkPvrb8wrvgar",
+      "name": "Jay Oh",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/31So10WXnzoG-97U-XS0Mw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNtSTRkM0oyWjJGeUwzQnliMlpwYkdVdk16UXpNelF3TmpJM056VTFNak15SW4wLlFNdDNVR2JzV2lIWG1YZk9xS296ZmpPeDhZVXM5ZVRDLWM4Q2UwQjA3ck0",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/aLF3D61H3EDI1EIT_0UqCw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KaU9IZHlkbWRoY2k5d2NtOW1hV3hsTHpNME16TTBNRFl5TnpjMU5USXpNaUo5Lk1KSGJSc2M5bFQ1N2tWQWQ3MzBwQmRhTFpvRmxKZFNSTWo4TkNqUUNLR28",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/1_PP-MoOy0sFnaIRzf5hPQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KaU9IZHlkbWRoY2k5d2NtOW1hV3hsTHpNME16TTBNRFl5TnpjMU5USXpNaUo5LmVzQ2RkdmdpNGJXU3EtVVMwQ093bTZPLVN5djRFMG1oN09uc01KY2I5dEU"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "'작은' 이야기도 아름답고 꼭 필요함을!\n모든 캐릭터와 사랑에 빠지게 되는 마법.\nGracefully interweaves text and the beauty of the ordinary.\n \n+ 셰익스피어가 대중적인 이야기에 자신의 시를 입힌 듯이, 그레타 거윅도 <작은 아씨들>에 새 옷과 중요성을 입혀주었다.",
+    "likes_count": 349,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "nkPvrb8wrvgar",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-27T18:12:06+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvrb8wrvgar",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "5yz2YlBD5aEWj",
+    "user": {
+      "code": "WwRqopwVyvlzB",
+      "name": "Camellia",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/iN5fCMrrOpEqjheVX-BtWw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlYZDFKeGIzQjNWbmwyYkhwQ0wzQnliMlpwYkdVdk1UWXlPVGszTVRZMU16ZzFOVEl6T0RRd01DSjkuRnN2dFlXYmxjd0c2SHNqT3pDX2d6aEdiaVNmZHhpUk9lMVdmenZTVVYtRQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/EdDe3IJi3gvyt5TiSzG2ZA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5d2QxWjVkbXg2UWk5d2NtOW1hV3hsTHpFMk1qazVOekUyTlRNNE5UVXlNemcwTURBaWZRLmhJT3l3cHBHNEdMVEU2Uy16Umg2X1RUdTRVcXFUbGhEakE3aWFpRHZONnM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/jsAREGFN2fq_oCeDCtaZdA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5d2QxWjVkbXg2UWk5d2NtOW1hV3hsTHpFMk1qazVOekUyTlRNNE5UVXlNemcwTURBaWZRLk5oWVZ2cEZ3aTJCT1BYdW5WLUtHYXhDSl95bVBMQWdvZzd5WTNUWUVoajA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "아무도 모르게 가끔 들르던 숲속 우체국에, 오래 기다리던 편지가 도착했다. 썰물에 밀려가지 않고 우리는 이런 것들과 싸웠다고, 그러니 네 책도 네가 가지라고. 펜에 잉크를 채워야겠다. 아마 이 답장도 쉬이 쓰이지는 못할 테지만.",
+    "likes_count": 338,
+    "replies_count": 11,
+    "content_code": "m5XK6PL",
+    "user_code": "WwRqopwVyvlzB",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T14:13:56+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "WwRqopwVyvlzB",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "ZGYMGyBXwbEr8",
+    "user": {
+      "code": "67gdxdYO4qGYJ",
+      "name": "리얼리스트",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/oxLdIt8gsmsZhqXFZdzwLw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgyTjJka2VHUlpUelJ4UjFsS0wzQnliMlpwYkdVdk1UWTVOVGsxTkRnek9ESTJORGt3TlRNek9TSjkuUldpNnROMmtQTm9rbTlfVGNZMFpXZk5POTNHQmwwV1VXYXpUZlEydlk4SQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Hkbz-5zcqOliJUIxjP-oqw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZOamRuWkhoa1dVODBjVWRaU2k5d2NtOW1hV3hsTHpFMk9UVTVOVFE0TXpneU5qUTVNRFV6TXpraWZRLmpLXzRQeEhsX1Y5U3lhNWN5dFNZNU9Qd29XSE16TlA3NDlVVGIyQURqU0k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/JIAUhmZo7Ug0OdSb-rlNUg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZOamRuWkhoa1dVODBjVWRaU2k5d2NtOW1hV3hsTHpFMk9UVTVOVFE0TXpneU5qUTVNRFV6TXpraWZRLmVSdV9mRmYtZG1GVE5YNGFJdkUzSks2bEhYQU53OFZVQzJENEtFYnNuN0k"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "여배우들이 빛나는 고전\n고전적인 영화임에도 불구하고 여성의 이야기에 관한 신선한 전개\n시간을 재구성한 편집이 돋보인다\n(시얼샤 로넌은 고전풍의 영화에서 더 빛나는 듯)",
+    "likes_count": 335,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "67gdxdYO4qGYJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T18:33:49+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "67gdxdYO4qGYJ",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "0ezQynR999Epq",
+    "user": {
+      "code": "2mwvgYmarxMa7",
+      "name": "권혜정",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/8bBTqQkZZ62QzlSs88tmvw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh5YlhkMloxbHRZWEo0VFdFM0wzQnliMlpwYkdVdk1UWXpNRE14TVRrd05UYzVNekkwTVRNME5DSjkuUlhEbXpvR1BOcG45dU54V3VXeG5wcktiS0RJNXg2eXRDYkxYOG0zb1Rtbw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/gTw1NO1AUWmwKAvtAEjwTQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1kWmJXRnllRTFoTnk5d2NtOW1hV3hsTHpFMk16QXpNVEU1TURVM09UTXlOREV6TkRRaWZRLjhyU2FleW5kbGxhMldlcW9GdWItOWdKbUlmdWdZdUJZcUlNZktBdUMyYUU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/6U8aoqcwc6H_gRYMEleUxQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1kWmJXRnllRTFoTnk5d2NtOW1hV3hsTHpFMk16QXpNVEU1TURVM09UTXlOREV6TkRRaWZRLi1leThKV1dPbFZ1dWZ0R2hycm1uQm9aUjlmRHduVGhEVU44b2RsTjVHbVU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "중학교 때 영어학원 선생님이 자기가 수십번 읽었다고 했던 책이 ‘작은 아씨들’이었다. 다이어리와 소설책을 언제나 지니고 다니고 혼자 유학도 다녀온 참 멋있었던 선생님. 당시 내 삶에는 낭만이라고는 없어서 가장 좋아하는 책이 무엇이냐는 선생님의 질문에 잘 대답하지 못한 것이 부끄럽기만 했다. 십여년이 지난 지금 나도 이제는 다이어리를 쓰고 늘 소설책을 끼고 살고 하고 싶은 공부도 시작하는 어른이 되었지만, 나는 그때 제대로 보내지 못한 사춘기를 아직도 겪고 있는 것 같다.\n@cgv죽전",
+    "likes_count": 300,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "2mwvgYmarxMa7",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-17T04:55:48+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "2mwvgYmarxMa7",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "BVoM9kBZxqEP0",
+    "user": {
+      "code": "ZBm5RAJaPvd46",
+      "name": "겨울비",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/U5M3yRZKgdlHEp8XYuSXJQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlhUW0wMVVrRktZVkIyWkRRMkwzQnliMlpwYkdVdk16YzNNakl6TXpZME1Ea3lOVFk0SW4wLko3ZHdPOTdINl9ONVVtcUxrOW5xZmhlVTUydUtYeEM4SFE3NU1Jay00STQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/cTq4AT5JHhOXYvHpqDJA8g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXa0p0TlZKQlNtRlFkbVEwTmk5d2NtOW1hV3hsTHpNM056SXlNek0yTkRBNU1qVTJPQ0o5LjR1bmxTSWRHRXFpNUdDX1ZMbmt2TjhsMktEbW1zSE9zSldaeFVYUlc1YjA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/31SxUJLK-TbSShqpo24otg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXa0p0TlZKQlNtRlFkbVEwTmk5d2NtOW1hV3hsTHpNM056SXlNek0yTkRBNU1qVTJPQ0o5Lkk2Yy0ybG5OUG5VdlZPcVRnVUNGT01YdzJsYUJHYVlZSXNsRmhqeDloc2s"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "플래시백과 현재를 구분하는 따뜻한 색과 차가운 색의 대비, 대사 처음부터 마지막까지 잊을만 하면 나오는 그레타 거윅의 ‘하고 싶은 말’, 그리고 배우들의 연기까지.. 모든게 조화롭고 아름다운 시대극이다\n+얄밉지만 맞는 말만 하는 대고모님\n+의외로 엠마왓슨과 티미가 잘 어울렸다 투샷 아름다워!",
+    "likes_count": 272,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "ZBm5RAJaPvd46",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-25T21:15:54+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "ZBm5RAJaPvd46",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "69oMvn5jO3Mal",
+    "user": {
+      "code": "Qgy51rmX7xDjk",
+      "name": "이건영(everyhuman)",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/cdrarbNhXPU_BVwy5dwIKQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlSWjNrMU1YSnRXRGQ0UkdwckwzQnliMlpwYkdVdk1UWTVPVFk0TXpNek1UUXhPREkxTmpVME5pSjkuQlcwVGdRam1BUEVIRXJMTVdmYlFVeWNjXzQzbmh5Skl5MFNtMW00ZDR0aw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/rHNePg3Zx5t5vQJDSH7qnA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRGeWJWZzNlRVJxYXk5d2NtOW1hV3hsTHpFMk9UazJPRE16TXpFME1UZ3lOVFkxTkRZaWZRLmM2QmUzM2xVZHE0eFhKOURNcndRRmllTjVrUUdYN2t0QzBmd2hmcEthMHM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/d2h0ehUfHgyThxKcCeXcPA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRGeWJWZzNlRVJxYXk5d2NtOW1hV3hsTHpFMk9UazJPRE16TXpFME1UZ3lOVFkxTkRZaWZRLlpoZWJBVzA2MTQ5dVZsck5Ka3VPSUVuMzI0cFk1OC1ROHU2S3RiUjhMV1E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "투닥투닥거리는 밀물과 썰물이 교차하는 지난 날의 소용돌이 속으로.",
+    "likes_count": 257,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "Qgy51rmX7xDjk",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-08T20:22:46+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Qgy51rmX7xDjk",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "7JVEopR0Le29y",
+    "user": {
+      "code": "2mwvg71E9vMa7",
+      "name": "영화고독발버둥치며본다",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/G1jWjvr2U6EryrnItcDnAg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh5YlhkMlp6Y3hSVGwyVFdFM0wzQnliMlpwYkdVdk1UWXpNREF4TWpVek1UYzFPRFF5TlRnMU5pSjkuOENrTFdfbFhIZUpieEJFWFFVeTVzeTBuN09UaExkbTlSQ2xocGk2UFFlSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/taQf6HoUGtfVZz5XpLfwFg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1jM01VVTVkazFoTnk5d2NtOW1hV3hsTHpFMk16QXdNVEkxTXpFM05UZzBNalU0TlRZaWZRLk1DVnN4ZTNGdjFxejFJRTR4LUIzRkNtb2ZxY2lnMHBiMlhiZ0VhS25kZHM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/nJHb3dqAurFlFK0it4VlPg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1jM01VVTVkazFoTnk5d2NtOW1hV3hsTHpFMk16QXdNVEkxTXpFM05UZzBNalU0TlRZaWZRLjlyV2x0emdUd0YtcjZLNlhUWXhIcXJUN0c3b3QtMEM1clVsMXR0ckpoRzQ"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "여자에게는 보내지 않는 편지가 있다...\n보낼수 밖에 없는 사랑에 관한 아름다운 로망스 영화. \n.\n.\n.\nps.기존 원작과 달리 메타 네러티브를 통해 변주하는 스토리텔링이 흥미롭다. 또한 요즘 크게 부각되고 있는 화두(페미니즘)에 주목하고 다소 강압적이게 느껴질 수 있는 청교도적 전통관은 다소 누그러져 있어 부담스럽지가  않다(티모시의 입을 빌려 말한 것과 드레스 옷감에 관한 에피소드의 결말) \n.\nps. 하지만 결말부에 제시된 기독교 세계관의 유토피아 엔딩에서 조의 '행복'이 다소 아쉽게 느껴진다(로망스 소설의 뿌리가 애초에 대중소설이기에 더이상의 것을 바람이 잘못된 것이지만... 그래도 영화가 내내 주목했던 '여성'의 행복이 이런식이라면... 아쉽다.)개인적으론 \"쏘 론리\"라고 외치던 그녀가 사랑의 부재마저 사랑하는 모습을 보여줬더라면 좋지 않았을까 싶다. 또한 대고모에게 독단으로 서 있는 여성의 모습을 주목하며 좀더 입체적인 캐릭터로 만들어 조에게 더 의미있는 유산을 물려줬더라면... \n.\nps.허나 이러한 생각은 깊이 생각하기에 아쉬움일 뿐이지. 영화를 보는 내내 각팍한 현실의 뿔난 마음이 저탄고지마냥 느끼하게 배불러져 이윽고 포만감에 취할 수 있었다. 극장을 나서면서 허구의 인물들에게 행복을 바라는 마음을 가득품고 있는 내가 보인다. \n.\nps. 추가로 덧붙이자면, 정말 톱스타들은 얼굴만 예쁘다고 톱스타가 아닌것 같다. 티모시는 또 달랐고 플로렌스 퓨는 미드소마와 박찬욱 드라마에서 보이던 연기보다 더 단단해졌다.",
+    "likes_count": 237,
+    "replies_count": 5,
+    "content_code": "m5XK6PL",
+    "user_code": "2mwvg71E9vMa7",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-11T13:59:01+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "2mwvg71E9vMa7",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "W4zQrLpbl92w1",
+    "user": {
+      "code": "JgkqlAZDKvX0b",
+      "name": "Pars Ignari",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/KE289zFn9JWlQvwgUry3bA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLWjJ0eGJFRmFSRXQyV0RCaUwzQnliMlpwYkdVdk1UWTNNakl3T1RVd09UY3lOekkxTmpjNU55SjkuQTBFOHVSY25ib0VKT2JqcjJWSUxlOG04VTcyNVJJRFlfRE5KMGZGTVlFaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/ep8Tp8QbdsowcfhykvXGDg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4QldrUkxkbGd3WWk5d2NtOW1hV3hsTHpFMk56SXlNRGsxTURrM01qY3lOVFkzT1RjaWZRLl9CMWpGQUVlSkxReWZCYTFQWWNDbUhtNmRkVDgxdjk0NHY4dFVSTVJ6Z00",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/tF_iTTBZMSZzkXhzPsDJVg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4QldrUkxkbGd3WWk5d2NtOW1hV3hsTHpFMk56SXlNRGsxTURrM01qY3lOVFkzT1RjaWZRLmdUZUVCOEY5c1R2OUVZc091VVNVLTNOWDMzX0FLdGsxRGVqTkRURHJqN0U"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "그레타 거윅은 무슨 감정의 공성추를 들고 영화를 찍는 것 같다. 터치 하나에 심장이 쿵쿵 무너지고 나니 남는건 울고 웃었던 기억들이더라.",
+    "likes_count": 231,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "JgkqlAZDKvX0b",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-02T16:28:55+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JgkqlAZDKvX0b",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "3kNEp6PDBdMOg",
+    "user": {
+      "code": "yKZx3oRl2x4dJ",
+      "name": "애니 홀",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Sx9Q-2DNAlVtCRENEHk6Fg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTk1UzFwNE0yOVNiREo0TkdSS0wzQnliMlpwYkdVdk1UWTRORGswTVRFek16azBPVFl3TlRreU1TSjkueHJLajBydkpka2ZtU1FVemRFN3ZfUFVrNGctd19QaGRYcU9YMlJ6enRaaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Vg3KhEmwvcWOmWJ-X4tlCQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlVXRhZUROdlVtd3llRFJrU2k5d2NtOW1hV3hsTHpFMk9EUTVOREV4TXpNNU5EazJNRFU1TWpFaWZRLldZZ1ExWmszM0Z4SmVjWVZLRHI5U1c5ejZ1aUdiY0FZQ1NmXzdDR3AzU3M",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/kedqlmI9f5alRYFwxnO7yg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlVXRhZUROdlVtd3llRFJrU2k5d2NtOW1hV3hsTHpFMk9EUTVOREV4TXpNNU5EazJNRFU1TWpFaWZRLl9qTzdrSXFkOTQ5akdlUkFVMVN6SHFVc1E0amV3ckRRZjhZMk9RSE5QdWM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "요 며칠 간, 나는 형용할 수 없는 상실감과 돌이킬 수 없는 자괴감에 사로잡혀 내 존재의 이유에 대해 심오하게 생각한 그런 기나긴 시간을 보내왔다. 영화 속 조는 엄마에게 매일 같이 울고 나를 바꾸려고 노력했는데 나는 대체 왜 이러는 거냐고 말을 한다. 그래, 너와 나는 말도 안되게 어설프고 촌스러우며 충동적인 직감과 감성을 가졌지. 그치만 너는 '작은 아씨들'이란 하찮은 불후의 명작을 완성해냈어. 크레딧이 다 올라간 후, 집으로 가는 광화문 길에서 나는 결심했다. 사랑에 실패한 나를 용서하고, 매일 같이 글을 쓰고, 누군가의 태어남을 축복하고, 주변 이를 떠나보내기도 하며, 그렇게 살아가야지. 여전히 미완성일 내 인생을 펜으로, 상상으로 맘껏 그려내는, 이렇게 바보같은 나로써 계속 살아가야지.",
+    "likes_count": 222,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "yKZx3oRl2x4dJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-29T22:40:41+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "yKZx3oRl2x4dJ",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "5yz2Ylo48WEWj",
+    "user": {
+      "code": "OkexJVnVgxdbw",
+      "name": "최성찬",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Na7z9MLFFvNMRLHYbtX8bw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNsWnVWbWQ0WkdKM0wzQnliMlpwYkdVdk1UWXpNREE1TXpFMU1EYzBNREUwTWpBNE1DSjkuclFRX3JPOGc4UDJfWlkzalYtbDdUQlFhSG96dFFadjhsM082Z3FfSkxKQQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/-qoOXQ4QvwaxVmY8e3mxWw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwV2JsWm5lR1JpZHk5d2NtOW1hV3hsTHpFMk16QXdPVE14TlRBM05EQXhOREl3T0RBaWZRLlFaWWlBQlduSkdPanFYVERzbTFFVW54OVU2Q2tWNEN1Vk1tVzVsenBtUDA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/H4l5BYbJ3z5wQc33K9h4mA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwV2JsWm5lR1JpZHk5d2NtOW1hV3hsTHpFMk16QXdPVE14TlRBM05EQXhOREl3T0RBaWZRLkN5WHFkUkhjZzRSYWhQMjBEcHBweFFaMUc4U0RXVmtSVllCRWRucllXN2M"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "이 정도면 책보다 재밌다!\n베스 나오는 씬 마다\n마음이 따뜻해짐",
+    "likes_count": 219,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "OkexJVnVgxdbw",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-15T08:30:05+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "OkexJVnVgxdbw",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "gwVQxKr3VLMB0",
+    "user": {
+      "code": "a9L5P06Kg5wg8",
+      "name": "JY",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/jKPTlz0OD_xGC9_y1lzSCg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTloT1V3MVVEQTJTMmMxZDJjNEwzQnliMlpwYkdVdk1UWTRNekkzTVRZME56QTNNakF3TURVNU15Sjkubl94cHZ4OURrWklwLVZ3cFpnUnktallKcktjam01OU9XWHpXZnV0LXJnNA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/lAs5aqxg10-qR9ThEp5hKw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZBd05rdG5OWGRuT0M5d2NtOW1hV3hsTHpFMk9ETXlOekUyTkRjd056SXdNREExT1RNaWZRLl9MSWVOd3Juem9ZV3NDZnZ3Y2NNZG5qUktWejFHWXFCeWJ0WUx4SWY1ZW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Irz7bhFJK9cD1Y2gpaO6lQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZBd05rdG5OWGRuT0M5d2NtOW1hV3hsTHpFMk9ETXlOekUyTkRjd056SXdNREExT1RNaWZRLjBocVU1bDV3dHp0LThqTWtuc3BHMXp5Wm14Smkya1F1ODRPMHZOUEd1RE0"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "영화같던 삶이 소설이되어\n내 마음속, 나만의 영화와 만나\n교감하여 감정을 증폭시킨다\n희로애락을 유려하게 담아낸 플롯이 자꾸\n그때의 나를 불러내 신경쓰이게 만드는데\n좋은 영화가 우리에게 줄 수 있는\n가장 적절한 인사법 인것 같다\n이 느낌도 오롯이 영화가 되었다",
+    "likes_count": 196,
+    "replies_count": 4,
+    "content_code": "m5XK6PL",
+    "user_code": "a9L5P06Kg5wg8",
+    "watched_at": "2020-01-24T19:30:19+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-24T19:30:10+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-01-24T19:30:19+09:00",
+      "user_code": "a9L5P06Kg5wg8",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkxLAk2g5",
+    "user": {
+      "code": "6ewxam8DpxQ1m",
+      "name": "...",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Jbh4hf7iWU9rszopids_FA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgyWlhkNFlXMDRSSEI0VVRGdEwzQnliMlpwYkdVdk1UWTVPVEV4TURBek56TTNOVGN5TWpNME1pSjkudC1XcTR0eUd4ZzJNRDcteERQZ2VsczdoaEUwcnNnVDN5NGh0d2pnT2o1WQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/HyPu4MVWCrUZWwxamq5CSg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZObVYzZUdGdE9FUndlRkV4YlM5d2NtOW1hV3hsTHpFMk9Ua3hNVEF3TXpjek56VTNNakl6TkRJaWZRLmhlTWZEZldDbktvaTJBdkNJOUZsQmdzUHFvazZ3QmdMWUZkdGVtZXhCZms",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/YBNZrH345tQtJxIQuFYl1Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZObVYzZUdGdE9FUndlRkV4YlM5d2NtOW1hV3hsTHpFMk9Ua3hNVEF3TXpjek56VTNNakl6TkRJaWZRLmhLUXpLRmRFdFRVQTJWb3Fuazk3UWlsZl82NWNFNVFua25tOFFtTkQ3eXM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": ".",
+    "likes_count": 189,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "6ewxam8DpxQ1m",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-15T23:28:24+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "6ewxam8DpxQ1m",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "8n92VyAxZGEAJ",
+    "user": {
+      "code": "nkPvrlYOrxgar",
+      "name": "seulgigomseulgi",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/YScDuJOKA_30bc69u8TOaQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNteFpUM0o0WjJGeUwzQnliMlpwYkdVdk1qQXdPVEF3TVRBeE16RTNPVEU1SW4wLmdiSklHaTlvNk5jZ3JaeDFTakx1YWthWW5LMF9aUTNEbk4tWjU3cWJ1R2M",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/TG4grlgINhD_K0ap17oagA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5Kc1dVOXllR2RoY2k5d2NtOW1hV3hsTHpJd01Ea3dNREV3TVRNeE56a3hPU0o5LkJLcmdqRzJrTlBoeW9QSlFQM3pNbFl1c2p2b0xaZjZCamJDbm5wSERjY0U",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/ZqTwq3wwbzwjcvD_SjMbBg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5Kc1dVOXllR2RoY2k5d2NtOW1hV3hsTHpJd01Ea3dNREV3TVRNeE56a3hPU0o5LlFlbURNYTdtU2pNaGlVdE9PMGFuLXVabTlDZkRNNVFqR2IxbUNUMWxrdFk"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "첫 페이지를 펼친지 얼마나 됐다고\n어느새 온전히 녹아들어\n마치 가문 5남매가 되어 함께 웃고, 함께 울고\n읽고 또 읽다 마지막 장을 덮으면\n금세 그리워지고 그 뒷이야기가 궁금한-😶😀\n.\n살아있는 인물들, 장면 전개, 마법 같은 구성, 배경 음악마저!\n장편 두 작품 모두 다 이렇게 취저 작품 만들어주시다니..!\n거윅 감독님 좋은 영화 감사합니다.👍👏\n.\n꼭 맞는 옷을 입고 훨훨 날아오른\n최애 배우 로넌양의 차기작도 기다립니다❣",
+    "likes_count": 167,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "nkPvrlYOrxgar",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T21:24:06+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvrlYOrxgar",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "69oMvnR5V3Mal",
+    "user": {
+      "code": "OkexJ0w9Pvdbw",
+      "name": "지예",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/lY_lj_sGT725zU-zHiThBg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNqQjNPVkIyWkdKM0wzQnliMlpwYkdVdk1UWXlOekl4TmpJME16a3pNemMxT0RneU9TSjkuTXJOejVaNG56TkFVTkZQbm5OM1hzQlBnaDg4UnY5VHNaaS1ZMl9pQll2WQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Jni-JgX3ILdKJwM--UXtDw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVvd2R6bFFkbVJpZHk5d2NtOW1hV3hsTHpFMk1qY3lNVFl5TkRNNU16TTNOVGc0TWpraWZRLnUtNHZvLVN5NzdxOE9rX1RkMy1DSXQwYmRaM2dxT0lYWVFiVGxpdGI4ZDA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Fm5L3_R_rmuKmNVrOptl8w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVvd2R6bFFkbVJpZHk5d2NtOW1hV3hsTHpFMk1qY3lNVFl5TkRNNU16TTNOVGc0TWpraWZRLmF3c0lJRkpCLXJ0dVBlY0tWdHd2NFhiLVNSUlNxRmxvX0ItdU5zVldyRnc"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "사랑을 받기보다 상처 받지 않기를 노력했다. 단단한 마음엔 빗금 하나도 흉이 되는 걸 알기에. 하얀 두려움이 잉크를 담뿍 먹은 문장으로 옮아갔다. 말끔하게 제본된 행복이 안겼다. 페이지 밖의 삶이 더이상 외롭지 않았다.",
+    "likes_count": 166,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "OkexJ0w9Pvdbw",
+    "watched_at": "2020-02-18T20:17:58+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-18T20:17:54+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-18T20:17:58+09:00",
+      "user_code": "OkexJ0w9Pvdbw",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "W4zQrxdkOJ2w1",
+    "user": {
+      "code": "DgwxABBQMqrMj",
+      "name": "재원",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/CqOS30DcZ3-E3zWYKM4Tkg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFVSkNVVTF4Y2sxcUwzQnliMlpwYkdVdk1UWXpPVGN3T1RjNE56SXlNelE1TWpRd05pSjkuZ0l6dmFlZG5MQlNpdVNtbUxIcE82RmJSbnZQYWRNRU5ydDJFTi1CalVZcw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/vnZ2tAlkWOYmNoJHnPzjXA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGQ1FsRk5jWEpOYWk5d2NtOW1hV3hsTHpFMk16azNNRGszT0RjeU1qTTBPVEkwTURZaWZRLkZmYzdSZWZzRzdFM0ZEWm5DVGl5WTN6MVpvaEthTUlVLTZWSDJOVkxzY1k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/BClLcHcfRnRWBihDDwvZNw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGQ1FsRk5jWEpOYWk5d2NtOW1hV3hsTHpFMk16azNNRGszT0RjeU1qTTBPVEkwTURZaWZRLlY5LTd1ZmRsWGd3WDgyTnZvOHRsVzh6NXF0cVBzRUpFS0NBSGhHX0E1VVk"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "좋다. 네 이야기의 끝은 분명 해피엔딩일 테니\n너는 그저 견디기만 하라고 말해주는 것 같아서.",
+    "likes_count": 158,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "DgwxABBQMqrMj",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2023-11-26T16:15:01+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "DgwxABBQMqrMj",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "0ezQynR1JnEpq",
+    "user": {
+      "code": "Mr95n0WQEkqZP",
+      "name": "혁준",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/wFPJ6rB9zIXNg2go6WmBZQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlOY2prMWJqQlhVVVZyY1ZwUUwzQnliMlpwYkdVdk1UWXpNRFU1TlRnd016TXpPVFUyT0RnNU5pSjkudGJCMUI5MXB6YlphejdTZUx2ci13ZmtGU0RXNWJOaXNCUm1LU3dBX3ZMOA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/vgRYSpvZiIyLKeIZI7xgmA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc0d1YxRkZhM0ZhVUM5d2NtOW1hV3hsTHpFMk16QTFPVFU0TURNek16azFOamc0T1RZaWZRLkJ1RE5pNDNJczZ3dUJua095WnRMX25Od1lNUGZHSU9EcEhiVTlFNGtHYWM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/CdzuLYWEPduswyNOppARsg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc0d1YxRkZhM0ZhVUM5d2NtOW1hV3hsTHpFMk16QTFPVFU0TURNek16azFOamc0T1RZaWZRLkZidFRkRFUxT0lCd3JXWVBhV3JUMXRra3pQWC1WanVhQUxqNGxkazY5eEE"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "달콤한 단조로움이 주는 \n잔잔한 행복의 힘이란.\n서로서로를 바라보던 그 따스한 시선은\n어느새 관객인 내 마음 한구석에도\n쉽게 휘발되지 않을, 온기를 남기고 있었다.",
+    "likes_count": 147,
+    "replies_count": 3,
+    "content_code": "m5XK6PL",
+    "user_code": "Mr95n0WQEkqZP",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T22:03:03+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Mr95n0WQEkqZP",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "OAxM79eZ4ZEbm",
+    "user": {
+      "code": "YMKqm2p7lvloD",
+      "name": "차지훈",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/M61A_UTwVIEGMn4byGvlqw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlaVFV0eGJUSndOMngyYkc5RUwzQnliMlpwYkdVdk1UWXpPVFE1TlRjd01EUXdPVFV5TmpFME9DSjkuSzlNT3ZqWDd5SFR3Qi1aRDZNWXl3cUJJVlV6UklOQzVFQXgyQ3RVQWhaaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/OnLQ5h4b4yywct-grV1b1Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXVTFMY1cweWNEZHNkbXh2UkM5d2NtOW1hV3hsTHpFMk16azBPVFUzTURBME1EazFNall4TkRnaWZRLk9rcEF2WjMyd0pjTUhGOUdmY2R3U2N2U0RlbVBndUNhZDl0VUJoaVlBOVE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/n-0YU-SzbIbNNhowwL3DoA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXVTFMY1cweWNEZHNkbXh2UkM5d2NtOW1hV3hsTHpFMk16azBPVFUzTURBME1EazFNall4TkRnaWZRLnkwTVBZSV9nSzh0b05hTzMxRFpuazN5VEZrM3dScEk4aHBxV3kzWTJYT1k"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "4명의 여배우와 티모시 샬라메를 조명할 줄 아는 거윅.\n단 두편의 장편 제작이지만, 이미 완성형으로 우뚝 섰다.\n슬픔, 분노, 기쁨 등 여러 감정들을 한데 꾹꾹 담아,\n보는 내내 오미자 같은 다채로운 맛에 녹아든다.\n대서사시처럼 느껴지는 풍부한 맛.\n점점 농익어가는 연인 및 인생이야기에\n어디서도 보지 못할 멋진 배경과 세트장들 이에 더해\n멋진 의상들로 인해 2시간동안 눈을 뗄 수 없는 작품.",
+    "likes_count": 147,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "YMKqm2p7lvloD",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T16:01:57+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "YMKqm2p7lvloD",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "P7kEWaVnZxMJ9",
+    "user": {
+      "code": "RE952mNrYZvQ7",
+      "name": "황재윤",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/6E-lgjSYyFwmTp0WwyoiBg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlTUlRrMU1tMU9jbGxhZGxFM0wzQnliMlpwYkdVdk1UWTNPVFkzTkRJNE5UUXlOVFl4T0Rnek5pSjkuSFYwSW9jNFJacElVVmtGV2VwSGNTd1cycnVabGI5VW1yS1R5aUdhY3pKQQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/lmYjHXjyxZErm85z1Zbkaw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVa1U1TlRKdFRuSlpXblpSTnk5d2NtOW1hV3hsTHpFMk56azJOelF5T0RVME1qVTJNVGc0TXpZaWZRLkZJMUcxYndPYmpvN2tEM1JWbEJKeGFSNFdkSDlWVEg2clRRZEdtbjYxdUk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/W9h3jH7sggsrSpZXLKUt2A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVa1U1TlRKdFRuSlpXblpSTnk5d2NtOW1hV3hsTHpFMk56azJOelF5T0RVME1qVTJNVGc0TXpZaWZRLlRPSkItSC1fN3otQV9DaUNQMlZZNDA2VGlqeGFTa3BtQkZjRzRlZmY3MjA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "클래식과 모던을 아우르는 그레타 거윅 감독의 탁월한 재해석.",
+    "likes_count": 144,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "RE952mNrYZvQ7",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-15T00:44:27+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "RE952mNrYZvQ7",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "bW3Qkn0NzbM9p",
+    "user": {
+      "code": "yKZx3nJg254dJ",
+      "name": "윤제아빠",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/2Nfvl40e07MaVDjiPTSg3g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTk1UzFwNE0yNUtaekkxTkdSS0wzQnliMlpwYkdVdk1UWXlPVGd4TWpNeE16ZzJOVEl6TWpFeU9DSjkuc2c3RHZldWRYcHFJTlhWaWJoUXJoZ0xudE1XM2Y2QmtyUER5R1IxdmJKdw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/vhPPBIRRAtOXp5PGQUSUNw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlVXRhZUROdVNtY3lOVFJrU2k5d2NtOW1hV3hsTHpFMk1qazRNVEl6TVRNNE5qVXlNekl4TWpnaWZRLlFSNE84a3NZcFhfXzc2RGFZLThrOWJVUFQ5RVVWNmZEUDg2LUtUZUFjemM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/bQhyvV53EnVVfHhn3JHGbw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlVXRhZUROdVNtY3lOVFJrU2k5d2NtOW1hV3hsTHpFMk1qazRNVEl6TVRNNE5qVXlNekl4TWpnaWZRLmtzMUxiSFJsVXVXdXZqNUs2Z1ZPWXJySFptZUEtcjBSeHVpVVVnNTBhZ1U"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "누군가의 삶을 어떻게 관조 할지 인도하는 \n훌륭한 감독과 배우가 확고한 역량을 발현한다.\n.\n.\n#찬란히빛나는시얼샤로넌의조\n#영화가끝난뒤뒤볼아본내인생\n#나도꽤나버라이어티하긴했네\n#삶의굴곡과아픔시기이별사랑\n#우리삶은이미훌륭한플롯이다\n#원작을안읽어서싱크로는모름",
+    "likes_count": 141,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "yKZx3nJg254dJ",
+    "watched_at": "2020-03-14T13:05:47+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-03-14T13:05:45+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-03-14T13:05:47+09:00",
+      "user_code": "yKZx3nJg254dJ",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "8kXQeKl8de2P6",
+    "user": {
+      "code": "VRZv482M1vr6y",
+      "name": "김병우",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/0GtDetbHQGUJD2kbXGYaTA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlXVWxwMk5EZ3lUVEYyY2paNUwzQnliMlpwYkdVdk1UWXlPVGczTWpJNE9UWXpOakkwTmpjNE5DSjkuY1phOVFtWE5ZbkZCQUp1ekZWZ0hxX2Mwc0JwMWx3RHNVamhKNm1LUDg1QQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/eOC15XzHwCYcmmrpp8MIIw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpRNE1rMHhkbkkyZVM5d2NtOW1hV3hsTHpFMk1qazROekl5T0RrMk16WXlORFkzT0RRaWZRLkhkcS1WeFFWN2Fvd1ZadnZWcXFXRGpEc1F5NlZZTXNzTnZ3c0pHcDFsOTA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/-L09LKFJTBwrS0Sfy5z4ug.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpRNE1rMHhkbkkyZVM5d2NtOW1hV3hsTHpFMk1qazROekl5T0RrMk16WXlORFkzT0RRaWZRLjhvbk12WjZWRThWR1lmUWh0c3J6SVdweWxkYndVTGs1VHBLZUFxT3Z2TFE"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "마치 고전 문학소설을 스크린에 그대로 옳겨놓은 느낌, 오랜만에 만난 감성적이고 따뜻한 영화.",
+    "likes_count": 133,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "VRZv482M1vr6y",
+    "watched_at": "2020-02-12T16:55:35+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T20:23:34+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-12T16:55:35+09:00",
+      "user_code": "VRZv482M1vr6y",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "8n92VyBOxZEAJ",
+    "user": {
+      "code": "a9L5PB1Pgqwg8",
+      "name": "영화봤슈",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/kkb_1C5PqxItGWkEmcTCzg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTloT1V3MVVFSXhVR2R4ZDJjNEwzQnliMlpwYkdVdk1UWXpNREE0TVRrNE16a3hNRGczTWpnek1pSjkuNHVFQnlSZ21RRWxCRXdSYXdTdEVzalpFakxVVFVoTmFRSWNPRFJkR2pjaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/CGn3uuWEiJ3jqt_1vuGe6Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZCQ01WQm5jWGRuT0M5d2NtOW1hV3hsTHpFMk16QXdPREU1T0RNNU1UQTROekk0TXpJaWZRLmFEajJhMlRuT2ZVUE5ObXh0NnpWNjZDWE9CZ0lKRzdwYjE4VFFZYjk2WFE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/ozEQeCANjN9BCL5eo2uGkA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZCQ01WQm5jWGRuT0M5d2NtOW1hV3hsTHpFMk16QXdPREU1T0RNNU1UQTROekk0TXpJaWZRLm9QZmc3NlRQcGVtaWxXZ1lfcW1wMWtyZmxtVDFaN3BIQ0VCNW5taWpjcWM"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "얼마나 아름답고 사랑스러운 바람인가~",
+    "likes_count": 133,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "a9L5PB1Pgqwg8",
+    "watched_at": "2020-02-04T02:41:00+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-06T02:40:30+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-04T02:41:00+09:00",
+      "user_code": "a9L5PB1Pgqwg8",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "jxZQRpBP3N2bq",
+    "user": {
+      "code": "JZ4vBDRXlxRXO",
+      "name": "𝔽.𝕃.𝔽",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/J8Hd3nDk-nrRYytfqwhf6g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLV2pSMlFrUlNXR3g0VWxoUEwzQnliMlpwYkdVdk1UWXpNRE13TnpJeE56QXlORGcyTmpBME9DSjkubnZEbHpYVUZpY0VYZlhfNVFVdU5GRTdoUWUtZnA1N2tncXhSbzUwR1ZDOA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/9NCSPmKNJzCHLwt6eAmbxA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKRVVsaHNlRkpZVHk5d2NtOW1hV3hsTHpFMk16QXpNRGN5TVRjd01qUTROall3TkRnaWZRLm9oVnZsblgwbGN3R0hqOV9wY2FNZnY3Njg3QVpKLTR6dDM2aFpMZXV5VGc",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/3ra89k2hYHPSzdcR2H7voQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKRVVsaHNlRkpZVHk5d2NtOW1hV3hsTHpFMk16QXpNRGN5TVRjd01qUTROall3TkRnaWZRLnY3VlB5ZHk5eVJ3THY1MFU1V2pTbjNjRTN0aDVHbVg0cWZJLWljTEdOUGM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "유년시절을 그리워하며 현재를 살아가는 이들에게.\n.\nCGV 명동역 씨네라이브러리 [2020. 1/26 2:00] 2020 아카데미 기획전",
+    "likes_count": 132,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "JZ4vBDRXlxRXO",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T19:18:29+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JZ4vBDRXlxRXO",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "OAxM79eZ85Ebm",
+    "user": {
+      "code": "nkPvr8BbExgar",
+      "name": "JH",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/z-Zdxq3zalbS_u300UTwXA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNqaENZa1Y0WjJGeUwzQnliMlpwYkdVdk1UWXpNRE0zTWpFME1qQXlPVFV4TWprMk1DSjkucldNN2VJV0Zyb21NUmx4dFh1b3Y0dVJuOUJRb19YZGxkQWFTM09qd1NFQQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/XGE3s51fdvWuxpEamcFgmA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5JNFFtSkZlR2RoY2k5d2NtOW1hV3hsTHpFMk16QXpOekl4TkRJd01qazFNVEk1TmpBaWZRLlVPYzBKbmtpLWZ5RktDUXQ3T3pOaHp6NnhLY1lJaDRMamFKWFBjN0NFWHM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/ZaUTaogK2P2eWNrHYWfGpg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5JNFFtSkZlR2RoY2k5d2NtOW1hV3hsTHpFMk16QXpOekl4TkRJd01qazFNVEk1TmpBaWZRLnd5TjJqbFdXUDBSdTJNQlVFQ3Jsb2xteE92ZTFGU2dKWndZZWsxUTR6U2s"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "인생이 생각하는대로 풀린다면 그만한 행복이 없다. 그렇지 않더라도 불행에 빠져있을 필요는 없다. 시행착오를 겪어가며 성장하는게 우리네 인생이니깐.",
+    "likes_count": 123,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "nkPvr8BbExgar",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T14:12:57+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvr8BbExgar",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "7JVEopROeL29y",
+    "user": {
+      "code": "NP9vLyy8X956k",
+      "name": "하잎솨",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/mm3kjCnCCautlYLrMGcvKA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlPVURsMlRIbDVPRmc1TlRackwzQnliMlpwYkdVdk1UWXpNRFU0TkRrMU1qUTRNelF5TXpRNE9DSjkuYVpack5JazJnS2hFb3BRc1dKY1Awd0g4WXFfUHFxVTN4aHBhYk03SVMtUQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/YoH-6BD1NgZ5V8NTDcjuFg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUbEE1ZGt4NWVUaFlPVFUyYXk5d2NtOW1hV3hsTHpFMk16QTFPRFE1TlRJME9ETTBNak0wT0RnaWZRLkg2dnU5SGtwOFNfTEp1WEdKejIzTGxnX1hXMW4tVi0xZmV6MThILXp2dGs",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/LTfXGFHJI8TR4aYVKELfog.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUbEE1ZGt4NWVUaFlPVFUyYXk5d2NtOW1hV3hsTHpFMk16QTFPRFE1TlRJME9ETTBNak0wT0RnaWZRLkYzVURzSFRST3ZvYjhual9TOUh6dFdtQW5DMnpmd1QzR0VyM1FvMWVxbnM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "제대로 고전 망치기. 재미없는 내용. 설명 부족한 전개. 인물 묘사는 중구난방. 배우들의 사랑스러운 연기를 묻어버리는 편집. 그리고 애매하게 주체적 여성상 우겨넣으려고 했지만 실패. 그나마 ‘주체적 여성’으로 묘사하려던 주인공 조를 갑자기 현실에 타협하는 캐릭터로 바꿔버리다니? 원작 특유의 감성을 잘 살리기라도 하던가.\n제발 날 설득시켜줘ㅠㅠ 사교계 입문하는 메그를 두고 굳이 “여성의 자유로운 선택권” 운운하기. 평 하나 나쁘게 받았다고 울며 도망치는 개복치 조.(내가 아는 원작의 조는 똑똑하고 강한 캐릭터다) 베스의 장례식날이 에이미와 로리의 약혼날. 난 혼자살거야!라더니 로리에게 다시 결혼하자고, 갑자기 또다른 사랑하는 남자가 나타나는 조. 글을 불태운 에이미에게는 매정할정도로 글쓰기를 사랑하지만 출판업자가 소설 바꾸자는대로 바꿔주는 조. ‘하지만 판권은 내가 가질거에요 왜냐면 내꺼니까’ 옛다 그놈의 주체적 뭐시기 가져라 이건가?\n워낙 유명한 고전이기에 관객들은 원작에 묻어있는 혐오성을 굳이 해명하지 않아도 그 시대의 한 페이지로 받아들일 준비는 되어있다. 그리고 혐오가 아닌걸로 해명하고 바꾸지 못해... 이미 고전이잖아! 그냥 받아들여도 충분했을텐데 망쳐도 너무 망쳐놓았다.",
+    "likes_count": 121,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "NP9vLyy8X956k",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-13T23:35:42+09:00",
+    "user_content_action": {
+      "rating": 1,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "NP9vLyy8X956k",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "W4zQrL1POp2w1",
+    "user": {
+      "code": "VRZv4zNNPxr6y",
+      "name": "다솜땅",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/12mbI_vLLGVR33H8SVN33A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlXVWxwMk5IcE9UbEI0Y2paNUwzQnliMlpwYkdVdk1UWTFORE13T0RNeU5ETTVPVGN6T1RNeE5DSjkudXVUdlRtbnJmRHZDTGFqemxwUmU5bDN6M005WTAxSXJQLV93STNnajRNYw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/iodK6yJgz9iwdAv2wJEm1g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpSNlRrNVFlSEkyZVM5d2NtOW1hV3hsTHpFMk5UUXpNRGd6TWpRek9UazNNemt6TVRRaWZRLlJJWTZSVUQ2a1lySlNrRGFfTWhKeU9qNnpLRmdJOTNvYWNHU2hDREI2TTQ",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/uFWP20WLGJNW8WdSGASv9g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpSNlRrNVFlSEkyZVM5d2NtOW1hV3hsTHpFMk5UUXpNRGd6TWpRek9UazNNemt6TVRRaWZRLnlsb3pxdXNKVGtDYnlDeEpzMW5td1VHdDByTEw3akppY2s2MENrV0lRVTQ"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "특별한 굴곡없이 잔잔히 흘러가는 그들의 이야기에 눈물 펑펑 쏟는거, 오랜만인데 ㅠㅠ\n엠마왓슨에 시얼샤 로넌, 정말 쟁쟁한 사람들 많이 넣어놨다. ㅎㅎ\n조를 스토리텔링으로  카메라가 따라간다. 로리를 만나고 좋아하고 베스를 잃고...\n자매들의 꿈들을 따라가는 이야기지만, 결국 행복한 그들의 이야기.\n사연도 있고, 사랑도 있고, 꿈도 있고, 가정도 있고...\n행복한 그들의 이야기 속에 사르르 녹아버리다..ㅎ\n#20.3.14 (620)",
+    "likes_count": 116,
+    "replies_count": 6,
+    "content_code": "m5XK6PL",
+    "user_code": "VRZv4zNNPxr6y",
+    "watched_at": "2020-03-14T03:18:36+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-03-14T03:18:18+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-03-14T03:18:36+09:00",
+      "user_code": "VRZv4zNNPxr6y",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "0ezQylaz93Mpq",
+    "user": {
+      "code": "DgwxAMa03axrM",
+      "name": "STONE",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/E4t_X5K2igDS2_kfW9RDYQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFVMWhNRE5oZUhKTkwzQnliMlpwYkdVdk1UWTVPVFl6TmpZNU1UVXpNemswTVRFek1TSjkuS21WcEpaVXhQeVpzbU5wc3dFVkY3WTJ5UEFEeF95ZG9sRXNOY2JzTHNxSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/G3o2VP11rLQ8prqdRuLYMw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGTllUQXpZWGh5VFM5d2NtOW1hV3hsTHpFMk9UazJNelkyT1RFMU16TTVOREV4TXpFaWZRLjd0ajhNVGNZMm11WFk1dXFQVElhWXBEMjFHNzR3am53OWM4b0Vud0pqQUU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/jTneJYBSd6Un2WKPVzrHPQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGTllUQXpZWGh5VFM5d2NtOW1hV3hsTHpFMk9UazJNelkyT1RFMU16TTVOREV4TXpFaWZRLlFmbkhNT0RFZXE4Zk5SdXJoM1VnNVF3akZjX2txT0Q1WEs4OUstaXpXUWM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "모두에게 낙관적인 동화와 그렇지 못한 소설의 차이를 자신만의 주관을 펼침으로써 메꿔준다.",
+    "likes_count": 97,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "DgwxAMa03axrM",
+    "watched_at": "2023-07-18T22:59:14+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2023-07-19T00:00:23+09:00",
+    "user_content_action": {
+      "rating": 6,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2023-07-18T22:59:14+09:00",
+      "user_code": "DgwxAMa03axrM",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "BglQae8xoBQX0",
+    "user": {
+      "code": "JgkqlRE0Nn5X0",
+      "name": "안녕하세엳",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/G4DFYnD1Td0B-ChcSUrlhA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLWjJ0eGJGSkZNRTV1TlZnd0wzQnliMlpwYkdVdk1UY3dNemMyT1RRM05EQTJNVE01T1RJNU1TSjkudmtQSjNRS0plMVFkZVM2NmllcFdTR1hFTHh1M0FVUExjTExrRHNyYktVZw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/zaJp-c6rJOmdWq0NHN-EmA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4U1JUQk9ialZZTUM5d2NtOW1hV3hsTHpFM01ETTNOamswTnpRd05qRXpPVGt5T1RFaWZRLldPbTQtUTdTZmJ4X1F3Tk5uZDZvdjRXNmZSb1lEbXpyaGpta3VqMW9ka3c",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/LVbWpk1-3xCV6KC2pggvoA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4U1JUQk9ialZZTUM5d2NtOW1hV3hsTHpFM01ETTNOamswTnpRd05qRXpPVGt5T1RFaWZRLnhaZWJ1TkcxZEJPNnJSd1NZTU9BXzd1bmpOb3RBRFhkZ2NtejBaUmhieWs"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "마치(March)가 다시 돌아오지 않을 유년의 겨울을 포근하게 애장하다.",
+    "likes_count": 94,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "JgkqlRE0Nn5X0",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2023-07-27T20:27:59+09:00",
+    "user_content_action": {
+      "rating": 6,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JgkqlRE0Nn5X0",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkBvop2g5",
+    "user": {
+      "code": "a9L5P6mDPqwg8",
+      "name": "konimoji",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/aD-E26zpRv3_zLrXjYXQFA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTloT1V3MVVEWnRSRkJ4ZDJjNEwzQnliMlpwYkdVdk1UWXpNRE13T1RFeU1qWTBNRGt3TWpFME5DSjkudDJMcGdIV0l6MmJyNEdWVW5qY0F6aW1oWVBUdC02eFNTR3Fsa201ZS04cw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/anN0MTKzzUka6YkJgOgPqQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZBMmJVUlFjWGRuT0M5d2NtOW1hV3hsTHpFMk16QXpNRGt4TWpJMk5EQTVNREl4TkRRaWZRLm1Tc0NMUlVha0M1LTBFYjMzM0FIZVVJNUliUTBBOHJkMXp4eldrX2h6d1k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/uZ7oj6DvQCivDk2np3DelA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZBMmJVUlFjWGRuT0M5d2NtOW1hV3hsTHpFMk16QXpNRGt4TWpJMk5EQTVNREl4TkRRaWZRLnRNSXdwdWdNQm9FX1prMHItZ2dNWHBDU2pPc25PZExvM2dPQ09wb0VTNVU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "이 재밌는걸 왜 난 지금까지 모르고 있었던걸까? 원작 소설과 95년 개봉작을 접하지 못하고 이번 그레타 거윅 버전이 나의 첫 \"작은 아씨들\" 경험이 되었지만 분명한 것은 조만간 두번째, 세번째 경험이 이어질 것이라는 사실. 네 자매를 연기한 여배우들의 매력을 스크린에서 극대화시킨 그레타 거윅 감독의 연출력에 감탄하고, 네 배우 모두 좋았지만 (순위를 매기는 것이 무의미할 정도로) 나의 최애 엠마 왓슨이 이 작품에서만큼은 시얼샤 로넌과 플로렌스 퓨에 밀려 상대적으로 존재감이 덜하지 않았나 싶다. 이전 작품들에 이어 엄청난 캐릭터 몰입을 보여주는 시얼샤 로넌과 플로렌스 퓨, 그리고 작은 체구에서 마력을 뿜어내는 티모시 샬라메, 그 외 엄마 아빠 대고모 할아버지 캐스팅 실화냐!! 어벤저스급 주조연 배우들의 활약에 2020 설연휴를 행복하게 시작해본다.",
+    "likes_count": 92,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "a9L5P6mDPqwg8",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-24T18:42:06+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "a9L5P6mDPqwg8",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "XpeMJvBGnXMJn",
+    "user": {
+      "code": "DgwxAX46E5rMj",
+      "name": "진태",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/JNRxZLUEzHnyNM6D5IN5wQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFWZzBOa1UxY2sxcUwzQnliMlpwYkdVdk1UWTNOamd6TkRFM056STFPRGt3TURrd09DSjkucnloOEpJd2ZSSG9UbEN2VXQ1MWFfbmF2LTNNVTRyaUJBSlRFdXZxbnk5QQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/aJ6GO2ZWhJt6_cGMBJQ93A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGWU5EWkZOWEpOYWk5d2NtOW1hV3hsTHpFMk56WTRNelF4TnpjeU5UZzVNREE1TURnaWZRLkJWS1VzT2czRkVOZzdqNEZtemJGVi1jWXZKb3FpeHZOR1RqQVZ4eGs4MnM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Kcfn5afHM1quXmwciWwxtQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGWU5EWkZOWEpOYWk5d2NtOW1hV3hsTHpFMk56WTRNelF4TnpjeU5UZzVNREE1TURnaWZRLllNekE1VVgwbnNjX1dwSVZyMjVidkF1ZktzUDRKMlVGeG85Nl8tblRvc2s"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "우리의 삶 또한 한 편의 예술작품일 터이니.\nCGV 천안",
+    "likes_count": 92,
+    "replies_count": 5,
+    "content_code": "m5XK6PL",
+    "user_code": "DgwxAX46E5rMj",
+    "watched_at": "2020-01-24T22:20:57+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-24T18:24:40+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-01-24T22:20:57+09:00",
+      "user_code": "DgwxAX46E5rMj",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "XpeMJvpWoeMJn",
+    "user": {
+      "code": "87Gv7B6DVqE6o",
+      "name": "이수현",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/IYEl1Rwf9ZMWZ7KBDiG6uA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0TjBkMk4wSTJSRlp4UlRadkwzQnliMlpwYkdVdk1UWXpNREV3TnpNeU5qazJNemM1TlRrMk9DSjkuX0Q4a3Nwd0QwTlRvanczRUtteWI1Vmg0Z1I3aHhoYi1hekZWWEh4SHFGRQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/aNcpDFZGt3rWln-HkZJTaw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkQ05rUldjVVUyYnk5d2NtOW1hV3hsTHpFMk16QXhNRGN6TWpZNU5qTTNPVFU1TmpnaWZRLm42bUJRelRkRjZxSzJZVEl5WUZZaWtRTzJ1M19IOXhJcFFwa0NGc082WEE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/GnXqgQ6tkez_-92CVnEAEw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkQ05rUldjVVUyYnk5d2NtOW1hV3hsTHpFMk16QXhNRGN6TWpZNU5qTTNPVFU1TmpnaWZRLjhJemJPYlBBNnY1Z3JPb21PQThuTUVJVTRoal9lMi1JN2RoUGQzLWJQUGc"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "조 진짜 겁나게 멋있어,,,,, \n그 외로움이 뭔지 알 거 같아서 더 공감갔다,,,\n그리고 처음엔 에이미가 너무 철 없다는 생각에 마음이 가지 않았는데 영화 끝나고 자꾸 생각나는건 의외로 에이미,,, \n베스도 자꾸 생각나고 눈에 띄고,,,\n메그가 살짝 아쉬웠던 거 빼고는 참 좋았다,,,\n내 옆에 메그, 조, 베스, 에이미가 있었다면 나였어도 쭉 함께이고 싶었을듯,, 아마 로리의 마음이 이런 마음이 아니었을까 생각해본다.",
+    "likes_count": 88,
+    "replies_count": 8,
+    "content_code": "m5XK6PL",
+    "user_code": "87Gv7B6DVqE6o",
+    "watched_at": "2020-02-13T00:37:48+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-14T23:19:24+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-13T00:37:48+09:00",
+      "user_code": "87Gv7B6DVqE6o",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "boPQj7RnrNEKL",
+    "user": {
+      "code": "87Gv7PkmJ5E6o",
+      "name": "서경환",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/4x_RIxrjJlrUHmCjP3NYhA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0TjBkMk4xQnJiVW8xUlRadkwzQnliMlpwYkdVdk1UWXlPVGszTURneU16UXdPVGc1TXpnNE9DSjkuaHhSeXM4NjFFTVBmYVo3aEhKTGtBeV9LNFVkNHdJMmx4QzBnWVpUbm9iYw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/c1kETAXNcK_Pwmm_DyCs9w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkUWEyMUtOVVUyYnk5d2NtOW1hV3hsTHpFMk1qazVOekE0TWpNME1EazRPVE00T0RnaWZRLklsMVJ5ckRYQlNWU2c2ODFxSlZPQ0dZUnBlTnY4U1VzSEhtbFJ5cC1fR2M",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/NAJ1JT1zXdpVj7C-KffRhg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkUWEyMUtOVVUyYnk5d2NtOW1hV3hsTHpFMk1qazVOekE0TWpNME1EazRPVE00T0RnaWZRLlFLUnZobVU3dEt3SUlMeVQ5YkVBQmJkbUZYcGtEaFJBTDdHMWxud1hZRVE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "삶의 희노애락이 다 담긴 조세핀과 조세핀의 가족의 이야기가 마지막에 책으로 만들어지는 장면을 보면서 가슴한편이 짠하면서 감동적이었다. 아 그리고 영화속 모든배우들의 연기가 좋았지만 특히 플로렌스 퓨의 연기가 정말 인상적이었다.",
+    "likes_count": 86,
+    "replies_count": 4,
+    "content_code": "m5XK6PL",
+    "user_code": "87Gv7PkmJ5E6o",
+    "watched_at": null,
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T19:11:06+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "87Gv7PkmJ5E6o",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "zD82XGBr7kE53",
+    "user": {
+      "code": "ld0q0Vj7356Xn",
+      "name": "뭅먼트",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/DPMvDgXcaCNgcoZaF_x-Rw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlzWkRCeE1GWnFOek0xTmxodUwzQnliMlpwYkdVdk1UY3dNVFk0TURjek16WTRNREF5TVRjeU5DSjkud2U5M0JvV0dnVzhiNXZ2blhCd0xNYnRnM1pwZGgwS1BrSkwxakZZaV91RQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/-t1HcZOYcfag79eRtjoxBw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiR1F3Y1RCV2FqY3pOVFpZYmk5d2NtOW1hV3hsTHpFM01ERTJPREEzTXpNMk9EQXdNakUzTWpRaWZRLmQ3aXJPSnFSM2lSOWg3Z1V2MmpsNlc2NlJTZndDMjlmU21xV3dxSS0wTW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/EWwEwg0GHi6PJL3eOy3Tig.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiR1F3Y1RCV2FqY3pOVFpZYmk5d2NtOW1hV3hsTHpFM01ERTJPREEzTXpNMk9EQXdNakUzTWpRaWZRLkRBUjN0M1JZNWdEcEpUTFlMaF82WjlvRGI2SEd5c1VReHdZSFNwUzNEWjg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "엇갈리고 교차하는 자매들의 삶에 스며드는 사랑들과 사람들.\n \n모든 것들이 한데 모여 책 한 권에 생명력을 불어넣는다.",
+    "likes_count": 83,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "ld0q0Vj7356Xn",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-05T22:58:02+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "ld0q0Vj7356Xn",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "mkPMnqXyzp2wq",
+    "user": {
+      "code": "JZ4vBgakG5RXO",
+      "name": "주찬",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/7PshW3EPo2C4Nj0-R943Ag.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLV2pSMlFtZGhhMGMxVWxoUEwzQnliMlpwYkdVdk1UWTFNRFE0T1RneU5EazBOVFUwTWprME9TSjkub19tYmtIVWxVMF9haVNTcDg1Zk1UaWJxcm0xYVdRdmk3aXo0czBGd2twZw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/26jk0OY6skton-wQkcctxw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKbllXdEhOVkpZVHk5d2NtOW1hV3hsTHpFMk5UQTBPRGs0TWpRNU5EVTFOREk1TkRraWZRLkpodlZrWjhWRXM2OTExRE1uclpnY2RsdlZ3NUYyTmhlYTRxOFdwQ3NZSkU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/ARa5W7mA2dwr5sfZKDufRA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKbllXdEhOVkpZVHk5d2NtOW1hV3hsTHpFMk5UQTBPRGs0TWpRNU5EVTFOREk1TkRraWZRLlFWSzBwNFJrTnRVTlhQeEl0ci1MZzh4UDdEYzVzbHlXX3pDSXgyT0ZOUmc"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "1.  색감, 인물을 담는 구도 뿐 아니라 영화의 전개에서 과거와 현재를 구분하는 기준 중 하나는 아씨들이 걸어가는 방향이다. 과거로 옮겨갈 땐 그들이 왼쪽으로, 현재로 돌아올 땐 오른쪽으로 걷고 있는 장면이 많다. 서쪽으로 향하는 과거와 동쪽을 향하는 현재가 서로 맞물리듯이. 꼭 파도처럼. 그때 이미 저물어버린 옛날은 찬란하고 동 트기 전 새벽 같은 지금은 파랗고 쓸쓸하다. 그러나 이 영화는 또한, 베스의 말처럼 썰물과 함께 많은 것이 쓸려간 후에도 그 자리에 남아있는 모래알과 다시 그 위를 채워갈 밀물을 함께 노래한다.\n  \n<<스포일러>>\n2. 여자는 무조건 결혼을 해야한다던 편집자의 말에 조는 반박한다. 그는 그런 뻔한 결말이 싫었다. 그런데 결국 그는 결혼을 한다. 그 전환점은 조가 프리드리히를 찾아가 기차역에서 키스를 나누는 장면. 영화는 일부러 직전 쇼트의 가상선을 뛰어 넘으면서까지 이 장면을 어색하게 보여준다. 둘의 키스씬은 완벽한 멜로드라마의 전형으로 묘사된다. (심지어 이어지는 장면에서 편집자의 반응을 넣으며 앞선 장면이 그냥 소설 속의 내용인 건가? 싶게 만들었다.) 멜로드라마는 여자의 감성만을 자극하는 영화라는 비하를 오랫동안 받아온 장르다. 여자에겐 감정 밖에 없다는 말이 싫다고, 여자에게도 생각과 영혼이 있고, 야심과 재능이 있다고 말하며 조는 여자에겐 사랑이 전부라는 말이 지긋지긋하다고도 했다. 그러니 이런 장면이야말로 조가 원하지 않았던 결말이다. 그런데 그는 동시에 너무 외롭다고도 했다. 그건 그가 외면해온 감정. 그걸 솔직하게 받아들이고 그는 직접 프리드리히를 찾아갔다. 그가 바라던 모습은 외로움 따위 느끼지 않고, 독신으로 평생을 멋지게 살아가는 것이었겠지만. 인생이란 그렇지가 않다. 그러나 있는 그대로의 자길 받아들였을 때 조 마치는 더 멋있어졌다. 이 쇼트의 멜로드라마적인 연출은 그러니까 기존의 시선에 대한 당당한 대꾸다. 이건 클리셰도, 뻔한 감성적인 결말도 아닌 단지 조의 이야기라고. 그에겐 생각, 영혼, 야심, 재능과 더불어 소중한 감정도 있다고. 이걸 폄하하지 말라고. 그리고 무엇보다 우린 우리 자신일 때 가장 빛난다는 지극히 당연하고, 당연해서 언제나 아름다운 이야기를 그레타 거윅은 새로운 화법으로 전하고 있다. 그는 에이미의 입을 빌려 \"계속 써야 중요해진다\"고 말했다. 그건 이 오래된 이야기를 다시 한 번 끌어올리면서 그가 하고 싶은 말이었을 것이다. 그레타 거윅은 멋지게 고쳐 썼다.",
+    "likes_count": 82,
+    "replies_count": 9,
+    "content_code": "m5XK6PL",
+    "user_code": "JZ4vBgakG5RXO",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-13T22:25:21+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JZ4vBgakG5RXO",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkBBdp2g5",
+    "user": {
+      "code": "JZ4vBQKwGqRXO",
+      "name": "씨네프레소",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/jzKUbVUq0-Jq2oFPA6fZkw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLV2pSMlFsRkxkMGR4VWxoUEwzQnliMlpwYkdVdk1UWXlPVGsyTkRVeE9UZzRNVGt4TXpNME5DSjkuc3lqZU5ZdlpEbzRoeHR4Z09xRDh4bGU5RFNUZnRlWDhrMU84dmZiaGZlVQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/quQzRiOBS-wNBq38-uLFFg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKUlMzZEhjVkpZVHk5d2NtOW1hV3hsTHpFMk1qazVOalExTVRrNE9ERTVNVE16TkRRaWZRLnJvV2IzbjJ1SVZET2twTmlwTzFxSktvS0RYMlpWTGZjbU92ckEtbTBPZ0E",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/18Kz8XVbnwrkU8MZHKl5WQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKUlMzZEhjVkpZVHk5d2NtOW1hV3hsTHpFMk1qazVOalExTVRrNE9ERTVNVE16TkRRaWZRLnlwZjJYM1B3eVZnV2RNdkt1QjU3MWk0MEFNa1JuV18wR3JTbVdtTGN3RjA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "원작 팬과 일반 관객, 시네필과 평단을 모두 만족시킬 완벽한 리메이크.\n1. 그레타 거윅의 단독 감독 데뷔작 '레이디 버드'(2018)는 누구나 두루 즐길 만한 영화는 아니었다. 기승전결을 구축하기보다는 한 여성의 성장기를 있는 그대로 보여주는 데 집중했기 때문. '여성의 시간'을 천천히 조명하는 여성주의적 시각은 극찬 받았지만, 오락영화로서의 흥미진진함은 떨어졌던 게 사실이다. \n2. '작은 아씨들'은 감독이 전작에서 보여준 장점은 그대로 살린 채 대중성까지 배가한 영화다. 감독은 자매애의 중요성을 강조하면서도 그들 사이에 갈등을 심는 것을 잊지 않는다. 네 자매의 일상을 끈기 있게 응시함과 동시에 가족에게 시련이 될 만한 스토리의 전환점을 곳곳에 심어둠으로써 끝까지 긴장감을 놓치지 않는다. \n3. 시얼샤 로넌과 엠마 왓슨, 플로렌스 퓨와 엘리자 스캔런은 가장 사소한 것에서 날카롭게 부딪히는 자매의 다툼을 현실적으로 그려냈다. 특히, 한국에선 '미드소마'로 탄탄한 팬층을 구축한 플로렌스 퓨의 연기가 흥미롭다. 그가 연기한 막내 에이미는 언니 조(시얼샤 로넌)를 내내 시기하는 인물이다. 그의 미소엔 어린 시절 누군가에게 가려 빛을 못 본 사람의 그늘과, 그렇기에 더 돋보이려고 노력했던 이의 에너지가 공존한다. \n(1월 31일 용산CGV 시사회)",
+    "likes_count": 82,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "JZ4vBQKwGqRXO",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-31T18:44:15+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JZ4vBQKwGqRXO",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "wlL2DgdYgoEyZ",
+    "user": {
+      "code": "WwRqoR4OWxlzB",
+      "name": "나쁜피",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/X_x8JIvd1UmluFOBwXq0VA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlYZDFKeGIxSTBUMWQ0YkhwQ0wzQnliMlpwYkdVdk1UY3dNVEUwTXpZME5UTTNOREl4TWpJeE9TSjkuVXNxUUpmMmpTMlJLUU9wMW5YTzRHSWZPMzdaekV3NjVvYzJGSE54NFhPVQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/If8jElGDnVmUTMrLF4r4Jg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5U05FOVhlR3g2UWk5d2NtOW1hV3hsTHpFM01ERXhORE0yTkRVek56UXlNVEl5TVRraWZRLkxaUWtUcGxSd01WRExJSExtQ3BSNm5oRmh1NHlDclFrTnkyaXI4MnN1M2s",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/1A5h3YSZGz6-DibYrMdsQg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5U05FOVhlR3g2UWk5d2NtOW1hV3hsTHpFM01ERXhORE0yTkRVek56UXlNVEl5TVRraWZRLlJmY251WGY0RGEwWDV6MVBLRGlSQmM0MUpCeEpfc0h4dzJReGk2aVVWaUk"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "편향되지도 모나지 않은, 작지만 중요한, 우리의 이야기다. 이전의 판들보다 등장인물들의 내적 갈등이 개인보다 체제에 근접해 있지만, 그들의 희로애락을 관객에게 제대로 전달하는 착실한 연출 덕에 등장인물의 감정에 따라 울고 웃을 수 있었다.\n이토록 새롭고 훌륭한 리메이크 임에도 오스카 감독상 후보에 밀려난 현실이 작품의 결과 맞닿아 메타유머가 되어버린다. 여성들에게 있어 여전히 온전한 내것을 주장하기에 현실은 녹녹하지 않은 것인가!\n2020-02-13 CGV (015) 명동시네라이브러리 3관 혼자 5천원 할인쿠폰",
+    "likes_count": 80,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "WwRqoR4OWxlzB",
+    "watched_at": "2020-02-13T17:15:49+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-13T17:15:46+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-13T17:15:49+09:00",
+      "user_code": "WwRqoR4OWxlzB",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "zD82XpY8rA253",
+    "user": {
+      "code": "87Gv7mmwDxE6o",
+      "name": "신상훈남",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/z4DuGBNCrg8EVCnyI0A1XA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0TjBkMk4yMXRkMFI0UlRadkwzQnliMlpwYkdVdk1UY3dOREEzT0RjeE9UQXpOakF6TURneE9TSjkuX1Z3MzE3NGhlOXpwaWxPWk9wcGN3cVRaQkVaMDg2TGFzMndSVFZKSThkaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Oe9Bvr5EUyeZlhlfsAAzYA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkdGJYZEVlRVUyYnk5d2NtOW1hV3hsTHpFM01EUXdOemczTVRrd016WXdNekE0TVRraWZRLktOVHJOVFd3dnlkNGFuWTJudy1sU25XVHlBZUdseV9xQ21VT2FCSGU5UEk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Qp5xiCTHxR5DPlUHPaVJ5Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkdGJYZEVlRVUyYnk5d2NtOW1hV3hsTHpFM01EUXdOemczTVRrd016WXdNekE0TVRraWZRLmdNbXhCSmhyUUx3MmlFMVgwd3FUMUd1bmNHLWN4WmljTVpTdl9sM2tJams"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "“우리가 이 땅을 이토록 사랑할 수 있음은 이 땅에서 보낸 유년 시절 때문이며 자그마한 손가락으로 따던 그 꽃들이 봄마다 이 땅에서 다시 피기 때문이다.“\n\n”언니 낭독 좋아하는데 언니가 쓴 이야기 듣는 게 더 좋더라.“\n\n우리들의 인생은 '사랑스러운 행복'으로 이루어져 있다. 그것은 눈부시게 아름답던 유년 시절이었을 수도 있고, 자매간의 따뜻한 사랑일 수도, 늘 꿈꿔왔던 일 대신 인생을 함께 하고 싶은 사람과 떠나게 되는 먼 여정일 수도 있다. 내면을 표현하는 걸 좋아했던, 눈에 보이는 걸 그리는 걸 좋아했던, 아프지 않은 멜로디를 연주하는 걸 좋아했던, 그리고 마지막으로 자신만이 쓸 수 있는 아름다운 이야기를 쓰는 걸 사랑했던 자매의 이야기. 그녀들은 내게 소설처럼 빛날 수 있는 인생의 기회를 알려줬다.\n\n“만족하고 살고 싶은데 쉽지가 않아.\"\n\n만족스럽지 못 한 상황에서 '만족하기'란 쉽지 않았다. 풍족한 유년 시절을 겪고 나서 마주하는 '가난'은 불편했다. '늘 해왔던 것'을 하지 못 하는 '답답함'과 사랑하는 서로가 느끼는 책임감에 대한 '미안함'. 하지만 그들은 그들이 느끼는 감정들에 초연하며 사랑으로 이 상황을 극복하려 한다. 눈물을 흘리며 서로를 안아주고 '함께 할 수 있는' 미래의 희망을 믿는다. 지금은 불만족스러워도 언젠가는 만족하다 못 해 행복해질 수 있는 날만을 꿈꾸며. 메그와 브룩은 정말로 아름다운 사랑을 했다.\n\n“썰물 같은 거야. 천천히 떠나지만 막진 못 해.”\n\n“내가 막을 거야. 전에도 막았잖아.”\n\n베스는 하고 싶은 게 많았지만 '하고 싶다'고 말하지 않았다. 언니들은 모두 그녀를 사랑했다. 각자 걷는 길이 의심스러울 때면 베스만큼은 '맞는 길'이라며 보듬어주는 것만 같았고 유일하게 자매 모두가 공통적으로 다룰 수 있는 '피아노'를 가장 아름답게 연주하는 사람 역시 베스였다. 서로가 서로를 사랑한다는 게 이다지도 아름답다는 것을 가장 먼저 알았을 사람이, 단조로운 아름다움으로부터 가장 먼저 떠나려 한다. 막지 못 한다는 걸 알았을 베스와, 모든 걸 바쳐서라도 막고 싶었을 가족.\n\n“베스가 없으니 집이 어딘가 이상하고, 걔가 없을 걸 아니까 못 들어가겠다.”\n\n[이 영화의 명장면 📽️]\n\n1. 찢어버린 소설\n\n에이미는 막내답게 어리광도 부리고 가장 발랄한 면도 있었지만, 그것은 언니들에게 바라는 점도 많다는 뜻이기도 했다. 자신을 데려가주지 않는 조의 마음을 헤치려 든다. 그녀가 무엇을 가장 아끼고 사랑하는지 알면서도 그것을 배반하는 행동을 한다. '왜 그랬는지'에 대한 이유는 중요하지 않았다. 서로를 너무 잘 알기에 그 점을 악용한다는 것이 얼마나 가슴 아픈 일인지. 불타버린 소설들을 보고 무너져버린 조의 마음이 가늠이 되지 않았다. 사랑하는 언니가 저렇게나 서럽게 우는 걸 보는 에이미의 마음도 마찬가지다.\n\n“언니가 아끼는 건 글밖에 없잖아. 드레스 망가뜨려봤자 화도 안 낼 텐데, 진짜 속상하게 하고 싶었어.”\n\n“쟤는 용서받을 자격 없어요. 이제 싫어할 거예요. 평생 싫어할 거야.“\n\n2. 피아노 선물\n\n베스가 유일하게 '하고 싶다'고 용기를 발휘하는 순간이 있다. 바로 아무도 듣지 않는 로렌스의 집에서 피아노를 치는 것이었다. \"아무도 듣지 않을 거야\"라고 말했던 제임스의 말과는 달리, 그녀의 피아노 소리는 상당히 크게 들린다. '정말 들을 생각이 없었던' 제임스는 순전히 그녀에게 하고 싶은 것을 할 기회를 줬던 것이지만, 이제 그에게 '듣고 싶은 것'이 생긴다. 바로 베스가 만들어내는 아름다운 선율의 피아노 소리였다. 그는 가만히 앉아 듣는다. 자신에게는 '돈'보다도 보물 같았던 딸의 존재였을 것이다. 세상에서 가장 사랑스럽게 피아노를 연주하는 베스의 존재가 얼마나 고마웠을까.\n\n“그 피아노는 네 거야. 진작 줬어야 됐는데.”\n\n세상에서 가장 사랑스러운 이 이야기는\n사랑스러운 사람이 되고 싶게,\n사랑하는 사람이 생기고 싶게,\n사랑으로 가득 찬 행복을 머금고 싶게 만든다\n\n그 이야기를 쓰는 조도 마찬가지였을 것이다\n\n”이젠 못 쓰겠어. 내 이야기에 다들 관심이 없거든.”\n\n“그럼 나를 위해 써줘. 엄마한테 배운 대로 다른 사람을 위해서 해.“",
+    "likes_count": 75,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "87Gv7mmwDxE6o",
+    "watched_at": "2023-07-16T16:04:37+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2023-07-16T16:04:33+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2023-07-16T16:04:37+09:00",
+      "user_code": "87Gv7mmwDxE6o",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "8n92VyAPBoEAJ",
+    "user": {
+      "code": "dP8v6dBrQxWeJ",
+      "name": "Kk",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/ynq4GJCd_dXl3tuCqPBtDw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlrVURoMk5tUkNjbEY0VjJWS0wzQnliMlpwYkdVdk1UWXlPVGcwTlRjNU5USTFNalkxTkRVNU1pSjkuVlMxWVhuWFQyeTFDTWpPczRyVXBkSUNNMTJKUjM5aG1KNnJSQ0Y1MjRuYw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/bXg66-f-6_nesWHhEDLmCg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaRkE0ZGpaa1FuSlJlRmRsU2k5d2NtOW1hV3hsTHpFMk1qazRORFUzT1RVeU5USTJOVFExT1RJaWZRLnZxbUEwX3JrS1pTQUxQVXdpWW5GMTZETFQ2T2h2SXhpRHVqMkNyb2ZkT2s",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Bl8gm6KNtizx-gmQXZscxQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaRkE0ZGpaa1FuSlJlRmRsU2k5d2NtOW1hV3hsTHpFMk1qazRORFUzT1RVeU5USTJOVFExT1RJaWZRLmVHVkFnTTdwOEtjYmlqdUY1VTV1azVmNmh4TW05TGM1Nm41NENOMVNNa2s"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "그레타 거윅에게서 클린트 이스트우드가 떠오른다면 이상한가, 두편의 영화에서 그녀의 진심과 품격이 고스란히 느껴진다.\n.\n레이디 버드에 이어서 그녀의 영화를 보면 나를 언젠가의 나로 고스란히 보내준다. 슬프고, 행복했고, 아팠고, 사랑스러웠던 그 모든게 그립도록. 비단 여성들만의 이야기가 아닌 나같은 남자들까지 한 사람으로서 누구에게나 공감할 수 있다는 듯이. 누군가의 진심을 함부로 재단하지 않는 사려깊은 마음씨, 고마움이 느껴질 정도. 클린트 감독의 영화 이후 감독에게 고마운 마음이 느껴지는건 참 오랜만이다. 연출자의 진심이 참 사랑스럽고 따뜻해서 눈물이 난다.\n.\n시얼샤 로넌의 필모가 점점 더 단단해진다. 어린 나이에 이정도 필모를 쌓은 배우는 참 드물지않던가. 믿고 보는 배우, 그녀에게도 굉장히 잘어울리는 수식어라 생각한다.\n.\n시간이 생겨, 토요일 예매를 취소하고 급하게 봤다. 하루라도 일찍 봐서 다행이다.",
+    "likes_count": 74,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "dP8v6dBrQxWeJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-13T21:47:08+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "dP8v6dBrQxWeJ",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "5yz2YlB6wOEWj",
+    "user": {
+      "code": "36lvXgGy4qXdn",
+      "name": "윤상욱",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/kEtZTLIuM7HIVgM9kGj4Bw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh6Tm14MldHZEhlVFJ4V0dSdUwzQnliMlpwYkdVdk1UWXpNREV4TkRBeU9ESXhNREkyTWpjNE5DSjkuY2hISGtkWVVJcEhhMVY4Y2VkeC1zMGlxQ3lnWW9yX214ZTltcmxHOWNoNA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/mAPJL1U5NIbkCOmsjgA1hg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNelpzZGxoblIzazBjVmhrYmk5d2NtOW1hV3hsTHpFMk16QXhNVFF3TWpneU1UQXlOakkzT0RRaWZRLl9ZN182WWNRVHYzX2w1dlBlUnJoczY4T1Vvc1BCMXVWRFpyQVRzRnZ0QW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/M5rGy2AtXr6qI1_5zAhZEw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNelpzZGxoblIzazBjVmhrYmk5d2NtOW1hV3hsTHpFMk16QXhNVFF3TWpneU1UQXlOakkzT0RRaWZRLk85Q0JVN21JNzZJSndFSEdUMzljOWdoaTlPQ2NpVlNhZmxXN1ZjT3M0a00"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "우리의 삶은 한 편의 소설보다 더 아름답다. little big women",
+    "likes_count": 73,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "36lvXgGy4qXdn",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-08T20:41:38+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "36lvXgGy4qXdn",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "BglQapjYggMX0",
+    "user": {
+      "code": "JgkqlLb6DqX0b",
+      "name": "토르아빠",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/bQHq11OJkTPWsA0oz1Y5yQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLWjJ0eGJFeGlOa1J4V0RCaUwzQnliMlpwYkdVdk1UWXlPVGs0TmpZeE9UVXdPREF3TlRnNE9DSjkudC00dDExT3RrVTVoeERVQnFkSldGcUNpMkROc0JaTktMUHdON3JzZlV5cw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/PT8CJDh_ZGCgXm0IZlOC5Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4TVlqWkVjVmd3WWk5d2NtOW1hV3hsTHpFMk1qazVPRFkyTVRrMU1EZ3dNRFU0T0RnaWZRLkJ5ZXVCQk1RX3hCbWFNSC1KZGp2d0NTSHdzNDB1RlRUSC1HdTlOT2F5OGc",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/20B8sb_-fIv70EaXkuBe-A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4TVlqWkVjVmd3WWk5d2NtOW1hV3hsTHpFMk1qazVPRFkyTVRrMU1EZ3dNRFU0T0RnaWZRLmRmdUZVVVNIaUJBRzEwQm56RjFreXZaTDdzVE9PSzRPMUpaVXAxbURoc2s"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "엠마왓슨이 첫째라고 받아들일 때까지 시간이 오래 걸렸어요. 그것만 빼면 너무 따뜻한 영화.",
+    "likes_count": 72,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "JgkqlLb6DqX0b",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-22T01:26:27+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JgkqlLb6DqX0b",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "7JVEopR8N929y",
+    "user": {
+      "code": "nb4xkEGKbvOAz",
+      "name": "블루",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/FHJ8aCeq-5y3lTTzvxqgWQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1WWpSNGEwVkhTMkoyVDBGNkwzQnliMlpwYkdVdk1UWXpNREE0T0RjNE9ESTNPVGswTnpjM05pSjkuY01kLTJXa2t2ZDZPVmw1VDR2dFIzb0NhREhwZjVncHhxM2RWS05WOHg2QQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/53qu5Sn3I84kVcZmRT8Lgg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibUkwZUd0RlIwdGlkazlCZWk5d2NtOW1hV3hsTHpFMk16QXdPRGczT0RneU56azVORGMzTnpZaWZRLmluX3Z5WW4zVkZGYWJTOVo1QmN2ZUtCZEtLRDhUSmRUZmhSczJrbVNjVEE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/2L7SBYl1YUwt19AEEEkKAw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibUkwZUd0RlIwdGlkazlCZWk5d2NtOW1hV3hsTHpFMk16QXdPRGczT0RneU56azVORGMzTnpZaWZRLnhqdk0tZkRSV1lTN1NCcmMwWVB1eVdLdEpmYXNSSi16LVZJbm1icEF1VHM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "그레타 거윅의 작품을 보면 여성으로서 자신을 용서하고 성장할 수 있는 솔직한 언어를 만나게 된다. 세상 속에서 타협하더라도 여성이 여성의 이야기를 계속 써나가고 그것은 중요한 일이라고 명명하는 것, 꺾을 수 없는 고결함과 거스를 수 없는 썰물과도 같은 보편성에 대해",
+    "likes_count": 68,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "nb4xkEGKbvOAz",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-15T22:17:06+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nb4xkEGKbvOAz",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xkPEm4RZ0WQK3",
+    "user": {
+      "code": "OkexJZgB4xdbw",
+      "name": "Dh",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/jV2gX5cUtj26gIwjSKqsTQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNscG5RalI0WkdKM0wzQnliMlpwYkdVdk56RXhPVFk0T1RZNU5qQTNOVGd4SW4wLnMyeHhYejVqRlN3Y3hVVnRmU3M4UzlMNWg0dDMzLV9jb1hGemp0TjdBQXM",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/maf-WKApBudjBApuIC8juA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwYVowSTBlR1JpZHk5d2NtOW1hV3hsTHpjeE1UazJPRGsyT1RZd056VTRNU0o5LjZPMWZoRTBRbE4yVE8xYjBVVmlUSi02bXNYajVOcE1EMFY2M2NXZ21SUVU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/KgAkK1z8dthHOc63Wy-PVg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwYVowSTBlR1JpZHk5d2NtOW1hV3hsTHpjeE1UazJPRGsyT1RZd056VTRNU0o5LjBCVTFVNl9YZk4zYWg5d3EwMWpzam5nV0hSX3dFc21lMzVaS3plUFQ4WHM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "다이내믹한 작은 아씨들의 성장, 사랑, 아픔 그리고 성숙\n#포근히 감싸 안다\n#CGV",
+    "likes_count": 68,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "OkexJZgB4xdbw",
+    "watched_at": "2020-02-12T21:41:05+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T21:40:59+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-02-12T21:41:05+09:00",
+      "user_code": "OkexJZgB4xdbw",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "3WB2qL0XjNEpj",
+    "user": {
+      "code": "g64qzjX8eqER0",
+      "name": "film fantasia",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/O3ttzJvPvo3q-QrS1mxiiw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTluTmpSeGVtcFlPR1Z4UlZJd0wzQnliMlpwYkdVdk1UWXpNREk1TWpVMU5qTTBPVEUzT1RZME9DSjkuZVlhaEVNQlh1VFdSSDJGOEtKNWNTTGwzLWtWdDgxOC0yaWtBdktVaF9maw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/B22us2tnvCHpysRClWQYMg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hwcVdEaGxjVVZTTUM5d2NtOW1hV3hsTHpFMk16QXlPVEkxTlRZek5Ea3hOemsyTkRnaWZRLjktblF2Q2ZLZEIzWFVsUlJMbXRrSXhsUGIxR09vc1lCMEtfS25mUy1PZDA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/T04vTWvjQj_wqDzCTTe_TA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hwcVdEaGxjVVZTTUM5d2NtOW1hV3hsTHpFMk16QXlPVEkxTlRZek5Ea3hOemsyTkRnaWZRLlUtSjc4SXZFZ3pVMFZTc1J1cEw1ejNTcEVvVE5ad2tWX21iOFdyei1SLU0"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "별것 아닌 이야기, 그래도 우리들의 이야기를 품고 살아갈 수 있다는 희망. 조가 끝내 넘겨주지 않은 것은 그의 유년기와 추억이다. 과거에 그저 묻어두는 추억이 아닌 앞으로 나아갈 힘이 되는 추억. 재능, 열정, 그리고 무엇보다 따뜻한 사랑, 그게 전부라는 것.\n+) 94년도 작품을 보고 재관람하니, 그레타 거윅의 작은아씨들은 굉장히 미래지향적이고 시대에 맞는 대사들로 뛰어나게 각색되었다는 생각이 든다. 드라마적인 편집과 전환이 잦아도 난해하지 않은 플롯구성까지, 앞으로 이 감독의 행보가 너무 기대된다!",
+    "likes_count": 66,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "g64qzjX8eqER0",
+    "watched_at": "2020-01-26T14:07:43+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T14:07:40+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2020-01-26T14:07:43+09:00",
+      "user_code": "g64qzjX8eqER0",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkBRry2g5",
+    "user": {
+      "code": "4WLxZjz7ExroA",
+      "name": "조항빈",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/I0Bec9BciXYTPhpl_aHBkA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgwVjB4NFdtcDZOMFY0Y205QkwzQnliMlpwYkdVdk1UWXlPVGd4T0RFME9UQTRNek0zT0RrME5DSjkuRWJqQmRHZl9VaHBJZTdyMW9WU0hjUEpRS3FuMkZYRnBaVkdpU0ZPaHBKZw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/BdLK24KJUql5kyFx1YivpA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZORmRNZUZwcWVqZEZlSEp2UVM5d2NtOW1hV3hsTHpFMk1qazRNVGd4TkRrd09ETXpOemc1TkRRaWZRLk16YXNDaVFPdnQ3WF9qMXI2aTdXNWFQbE9BbV9PZEEwUmZmelBOWC1LYms",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/nnekMQPgQ9OEa8uH5516jg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZORmRNZUZwcWVqZEZlSEp2UVM5d2NtOW1hV3hsTHpFMk1qazRNVGd4TkRrd09ETXpOemc1TkRRaWZRLmpBVE5MMGtaVTkxcFFJeDVaTXhETkR5d2lHYTlOQ08zdnpFbHEyZlEyU0E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "'작은 아씨들'은 유명 고전 소설을 영화화한 그레타 거윅의 작품이다. '레이디 버드'로 감독으로서 환상적인 발걸음을 내딛은 그레타 거윅은 이번 작품에서는 엄청난 캐스팅을 바탕으로 상당히 자주 각색되고 리메이크된 이야기를 자신만의 방식으로 이야기하며, 이 이야기가 왜 시간을 초월하는 고전이 됐는지를 제대로 보여준다.\n \n'작은 아씨들'의 이번 버전이 가진 가장 큰 특징은 아무래도 과거와 현재를 오가는 구조에 있는 것 같다. 이 영화를 보기 전에 94년도의 '작은 아씨들'을 관람하며 어느 정도의 준비를 해갔는데, 시간 순서대로 쭉 이야기를 진행했던 94년 영화는 이야기가 조금 물리는 감이 어느 정도 있었다. 하지만 이 영화는 기본적으로는 현재 (소설 기준 2부)의 이야기를 기본으로 진행하지만, 어떤 중요한 인물 간의 관계나 긴장감을 설명하기 위해 과거 (1부)로 플래시백하는 유연한 모습을 보여준다. 두 시간대의 전환은 색감과 인물들의 외모나 의상의 비교를 통해 쉽게 알 수 있기 때문에 관객으로서 계속 집중하게 되기도 하면서 번거로운 설명 없이도 자연스럽게 영화의 흐름을 따라가게 된다. 이러한 구조를 통해 자매들이 겪고 있는 사랑과 인생의 성장통을 훨씬 깔끔하게 정리하는 효과가 일어났다. 이 이야기의 가장 주인공이라고 할 수 있는 조 마치가 메인 플롯이라면, 메그, 에이미, 베스 모두 각자 서브 플롯을 맡게 되며, 메인 플롯의 흐름과 서브 플롯의 흐름을 이 플래시백들을 통해 조화롭게 엮을 수 있게 됐다.\n \n메인 플롯과 서브플롯, 다시 말해 주연과 조연들의 이야기가 모두 조화롭게 전개되는 덕에 자연스럽게 조연들의 비중도 상당히 높아졌다. 94년작에서는 약간 너무 조 마치 위주로 구성됐다면, 이 영화에서는 나머지 자매들에게도 많은 시간을 할애하며 이들이 겪는 일들과 심리를 조명하기도 하지만, 무엇보다 이들의 이야기들을 통해 영화의 주제를 훨씬 강화시킨다. 화려한 사교계를 좋아하고 가정에서 최선을 다하는 메그, 부모님의 정신을 가장 잘 이어받으며 천사와도 같은 순수함을 가진 베스, 말썽도 많이 부리고 철도 없지만 한편으로는 막내로서의 서러움도 많은 에이미, 그리고 독립적이고 야망도 많은 당돌한 조. 각자만의 성격과 개성을 가진 이 네 자매의 이야기에서 그레타 거윅은 이들의 사랑과 꿈에 대한 묘사와 그에 대한 이 인물들의 생각을 섬세하게 묘사한다. 그리고 이를 통해 이 영화는 여성주의 문학의 대표작인 원작이 가진 메시지의 핵심, 가정에 충실한 아내나 어머니가 되던, 아니면 세상에 족적을 남기는 위대한 예술가가 되던, 자신이 추구하는 행복과 꿈과 사랑을 후회없이 마음껏 이룰 수 있는 희망이 어떤 모습인지를 마치 자매들을 통해 보여준다.\n \n이 네 인물들은 각자의 이야기 뿐만 아니라 함께 있을 때도 빛난다. 아니, 이들이 함께 있을 때가 가장 아름다운 순간들이다. 시얼샤 로넌, 플로렌스 퓨, 엠마 왓슨, 엘리자 스캔런 뿐만 아니라 티모시 샬라메, 로라 던, 크리스 쿠퍼, 밥 오덴커크 모두 마치 가족과 친구들이 이뤄내는 인간미와 가족애와 사랑의 따스한 세계를 완벽하게 구축한다. 과거 이야기에서 그레타 거윅은 이 모든 인물들이 같이 행복하게 먹고 마시고 노는 풍경을 하나의 구도나 숏 안에 다 담고 있으며, 요릭 르 소 촬영감독은 그 풍경을 따스하고 노스텔직한 색감으로 담아낸다. 한편 현재에는 모든 자매들이 각자 고난과 위기를 겪고 있다는 점을 보여주기 위해 창백하고 차가운 색감으로 대비하며, 이야기가 진행되며 서서히 다시 서로를 사랑하는 가족이 돼가는 과정 속에서 이 색감이 변화되며 시각적 스토리텔링을 이어간다. 그레타 거윅은 가족의 끈끈한 연에 집중을 하며 모두가 함께 있던 순간들의 매 프레임을 하나의 가족 사진을 찍듯 구성하며, 이들이 흩어진 시간과 극명하게 대비를 시켜 모든 인물들이 가진 가족애와 웃음과 장난이 넘치던 그 시절에 대한 그리움을 강조한다. 거기에 알렉상드르 데스플라의 스코어는 이전 작들만큼 개성이 있진 않지만, 고전적인 느낌으로 굉장히 아름답고 감성적이고 따뜻하게 느껴진다.\n \n이 영화에 내가 가진 유일한 아쉬움은 플로센스 퓨와 티모시 샬라메의 캐스팅에 관한 문제인 것 같다. 이 두 배우들의 연기는 더할나위 없이 최고였다. 하지만 아무리 그래도 플로렌스 퓨는 13살 여자아이를 연기하는 것은 무리였다. 13살다운 어리광과 심술을 잘 표현하긴 했지만, 어쨌든 배우 본인은 성인이니 좀 이상하게 느껴질 수 밖에 없었던 것 같다. 티모시 샬라메는 반면에 현재 시점의 로리를 연기하기에는 너무 어려보였다. 94년작은 에이미 역에 배우를 두 명 캐스팅하고 로리 역의 크리스찬 베일에게는 수염을 기르도록 하며 이를 해결했지만, 이 영화는 설정을 바꾸지 않았음에도 불구하고 그런 시도가 없었다는 점이 다소 아쉬웠다. 어찌보면 시간대마다 결이 다른 연기를 보여주며 시간의 흐름을 표현한 두 배우들의 연기력이 얼마나 대단한지를 보여주는 대목이기는 했지만, 결과적으로는 좀 무리한 캐스팅이 아니였나 싶다. 덧붙여 루이 가렐을 독일인으로 캐스팅한 것도 다소 의아했다. 딱 들어도 프랑스 쪽인 억양으로 연기를 하니 더욱 그랬고 말이다.",
+    "likes_count": 65,
+    "replies_count": 4,
+    "content_code": "m5XK6PL",
+    "user_code": "4WLxZjz7ExroA",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T20:45:21+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "4WLxZjz7ExroA",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "W4zQrLRj192w1",
+    "user": {
+      "code": "nkPvrb9ylvgar",
+      "name": "CHAEYOOE",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/-FXwH2VWukXMS6mfvQcyJw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNtSTVlV3gyWjJGeUwzQnliMlpwYkdVdk1UWTRNakEyTmpFeE9EazVPRFkyTmpVMU1TSjkuZnVucFg1Y3ZRdHExZEtjSmdQM2thLVdaanpzMUlNOEJhUDJkS3dMYWNCSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Zmiofv3ZUUnaRm0I68FvWw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KaU9YbHNkbWRoY2k5d2NtOW1hV3hsTHpFMk9ESXdOall4TVRnNU9UZzJOalkxTlRFaWZRLjVacXZUTmgwUzJ6am5SbV9RMVVzbm93UG1CV2dEVHZvVlVLMHd2eThpMEU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/X1-1ZiVLM-pfLmAaA4B9Kw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KaU9YbHNkbWRoY2k5d2NtOW1hV3hsTHpFMk9ESXdOall4TVRnNU9UZzJOalkxTlRFaWZRLjRkbGs2bVFkTnlUWEZ5WE5kdFlKTGhSNE1WY1dUR0FPd2ZJbXFGT1dIUGs"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "등장하는 모든 인물들의 볼에 입을 맞추고 싶다.",
+    "likes_count": 64,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "nkPvrb9ylvgar",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-15T13:43:18+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvrb9ylvgar",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkxRwk2g5",
+    "user": {
+      "code": "zNM5NdaR3q26j",
+      "name": "이상해씨",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/oM7cxHG7a4OUWQOhmyTwJw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTk2VGswMVRtUmhVak54TWpacUwzQnliMlpwYkdVdk1UWXpNRFEyTlRRd01EZzJNemt5TURZME1DSjkuZURjUlpGUFg4dHZVQmJ2OVROV1B6dGxHUEJ6d3E1VFdLTFpvT2d4dzhtcw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/4hirX4_Tm4CEI-lgrgrDxQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlazVOTlU1a1lWSXpjVEkyYWk5d2NtOW1hV3hsTHpFMk16QTBOalUwTURBNE5qTTVNakEyTkRBaWZRLnF2cUNqdGI5cWlaMEtwZktBdkl1TlRaN0FDcXRiZTh4ekNwY1A4OGZpNjQ",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/DIuUzJd2SiuHGpqCCCjkVQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlazVOTlU1a1lWSXpjVEkyYWk5d2NtOW1hV3hsTHpFMk16QTBOalUwTURBNE5qTTVNakEyTkRBaWZRLjVoSWduYlZMMUE3anNpNGRQVUxtNzRNM0pxSjNwcG0yOWpZeU5wZ1hTZW8"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "꿈과 가족의 사이\n관계와 재능의 사이\n그 사이에서 헤엄치다",
+    "likes_count": 64,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "zNM5NdaR3q26j",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-13T16:51:17+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "zNM5NdaR3q26j",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "lP0E8J6nBPMbx",
+    "user": {
+      "code": "6ewxaBeAGqQ1m",
+      "name": "Cinephile",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/5OnVp3vKWDWTd1xq1SxlTw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgyWlhkNFlVSmxRVWR4VVRGdEwzQnliMlpwYkdVdk1UWXpNREExTURFMU56ZzJNakkyT1RrMU1pSjkuQzVuQ3J2VGtleWlId3E0TGlmRzVJSTZERWlNUFBZcThrZ1RCT1p1dDRITQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Fh1OuUzM_5EEfFuZxZpgeA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZObVYzZUdGQ1pVRkhjVkV4YlM5d2NtOW1hV3hsTHpFMk16QXdOVEF4TlRjNE5qSXlOams1TlRJaWZRLjhDX25pWE9VUFJkRlBMYlFDTFptTzVOLVI2YVU2YkxoSGVKekI0b0R3WXc",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/8lLbH3XkAypboEo6oiyOxg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZObVYzZUdGQ1pVRkhjVkV4YlM5d2NtOW1hV3hsTHpFMk16QXdOVEF4TlRjNE5qSXlOams1TlRJaWZRLmRlSW1qd2hjRzVHTF9id2JIQnMtZE9PUWlJVENpOVZ0dWhZLWlremR1cHc"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "은유법을 잊고 내달리는 전개와 산만한 플래시백 구성 탓에 극의 중심 정서가 얕지만, 그 와중에 살아있는 젊은 남녀의 경쾌한 교감을 통해 자존감과 사랑의 공존을 이끌어낸다. 시대극이 부자연스러운 배우 앙상블과도 부드러운 화폭을 그려낸 미술 감각이 좋다.",
+    "likes_count": 61,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "6ewxaBeAGqQ1m",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-13T21:27:14+09:00",
+    "user_content_action": {
+      "rating": 6,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "6ewxaBeAGqQ1m",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "6GWQ1LlvwLMJ5",
+    "user": {
+      "code": "YaR5YG9D4qgX1",
+      "name": "임판호",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/b-UBacFkR6nYza_RxOBpww.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlaWVZJMVdVYzVSRFJ4WjFneEwzQnliMlpwYkdVdk1UWXpNREF6TURVNU1qUTROVGd5TlRVek5pSjkuS0ZGYjRHMVlBUVAzVHdSLUhLX3ZVbUNLZHYxczJwajNWZFRZVm9FNFdmUQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Buc7UTVIRHl03wDfJnB3cA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXV0ZTTlZsSE9VUTBjV2RZTVM5d2NtOW1hV3hsTHpFMk16QXdNekExT1RJME9EVTRNalUxTXpZaWZRLjZwSS1zc2FOWG9iRDI5bk1vMm9zUHFMVHExTVZDUjdxR3ZqSEJqcHlMeFE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/KJl1KoOBwiLETln6M-y21Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXV0ZTTlZsSE9VUTBjV2RZTVM5d2NtOW1hV3hsTHpFMk16QXdNekExT1RJME9EVTRNalUxTXpZaWZRLnQ5RngyaVV4U3BOSHBxZVJ6MjRVOUtncHd1dDJxb1pScDJSOUZQRjJQTDg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "꿈은 자신의 삶에 주체가 되어가는 첫걸음이다.\n덧! 가끔씩 내 스스로에 진절머리가 날 때마다 품속에 온풍을 달아주는 그레타 거윅이 전하는 성장담.",
+    "likes_count": 60,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "YaR5YG9D4qgX1",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T22:27:06+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "YaR5YG9D4qgX1",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "xzaQAkBRkZ2g5",
+    "user": {
+      "code": "j4PxO7NVAxp0Q",
+      "name": "적설",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/yQ_5M7mTgGvjWiuF8DVXQg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlxTkZCNFR6ZE9Wa0Y0Y0RCUkwzQnliMlpwYkdVdk1UY3dNelV4TkRJeU1qTTRNemMxTkRnMU5TSjkuZzVsU015NTdRYzJTeC0xN3pCQlpmVUU2YVl6ZXVOM2J0TnBvd2czdUVUbw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Ki8BggBJ1ZD8Haosd3IqKg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhalJRZUU4M1RsWkJlSEF3VVM5d2NtOW1hV3hsTHpFM01ETTFNVFF5TWpJek9ETTNOVFE0TlRVaWZRLkRqclNWQ3JpcEFkWWU3MVB0QjZEX2lWWFhTbnlTaDA2NGVMS1hTcU9UY3M",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/JaIkGuAmjb2p9n5s9KvIzA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhalJRZUU4M1RsWkJlSEF3VVM5d2NtOW1hV3hsTHpFM01ETTFNVFF5TWpJek9ETTNOVFE0TlRVaWZRLkNrckNkU2xKUXNjeDhRNnVNS2NHTm9FWWhCVktlSnVXbkJ5aTRxRndxT00"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "지금이 1990년도, 2000년도 아니고, 2020년인데...... 감독님 정말로 이게 최선이었나요. 보면서 계속 마음이 갑갑해졌다.",
+    "likes_count": 60,
+    "replies_count": 4,
+    "content_code": "m5XK6PL",
+    "user_code": "j4PxO7NVAxp0Q",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-01-26T18:26:51+09:00",
+    "user_content_action": {
+      "rating": 6,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "j4PxO7NVAxp0Q",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "3kNEp6xO1NMOg",
+    "user": {
+      "code": "VRZv4J0Pwxr6y",
+      "name": "장태준",
+      "photo": {
+        "original": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_large-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg",
+        "large": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_large-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg",
+        "small": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_small-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "어렷을때의 나의 모습과 영화의 순간들이 일치되는 순간 이 영화를 사랑하게 됐다.",
+    "likes_count": 59,
+    "replies_count": 2,
+    "content_code": "m5XK6PL",
+    "user_code": "VRZv4J0Pwxr6y",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-03-10T18:40:22+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "VRZv4J0Pwxr6y",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "gwVQxKRWk9MB0",
+    "user": {
+      "code": "OkexJjB3Pxdbw",
+      "name": "simple이스",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/AkPq7_CFf9OxslRJ89K2wQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNtcENNMUI0WkdKM0wzQnliMlpwYkdVdk1UWXpNREV4TkRjM05EQTRNVGs0TnpnME1DSjkuY0ZMSUhaQ1k5M19IU3VDSnpXT0hOa1V1WS1WNW5FMEN1U0hzdHZhbFNfZw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Ipjekgr5N6FVTdk5pqw0ug.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwcVFqTlFlR1JpZHk5d2NtOW1hV3hsTHpFMk16QXhNVFEzTnpRd09ERTVPRGM0TkRBaWZRLjRHVUZPMjJjcWNMdlNUUXlqeTE4WkJVb0VjU3cwdzhMYmk4a1I4RUhWVG8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/K-laGjPqJptZZkPL-szTuQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwcVFqTlFlR1JpZHk5d2NtOW1hV3hsTHpFMk16QXhNVFEzTnpRd09ERTVPRGM0TkRBaWZRLlczMW1na2FwUlktdEtib0FhS3daOGVYZXhoYnJNbWtmelJGczZWT2hEXzg"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "인생 참 뭐 같고 겪어 가는 성격은 더 뭐 같다 느끼는 나에게 위로를 건네는 삶 지침서이자 에세이.\n 결판 난 엔딩에 여성의 고뇌를 들여다보는 탁월함",
+    "likes_count": 59,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "OkexJjB3Pxdbw",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T13:22:17+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "OkexJjB3Pxdbw",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "boPQj7Rn7qEKL",
+    "user": {
+      "code": "oOkexJGWDqdbw",
+      "name": "크리스 X 엔터테인먼트",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/3xWOhC8r1PhNQEc1z4MJzA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl2VDJ0bGVFcEhWMFJ4WkdKM0wzQnliMlpwYkdVdk1qZ3lNRE14TWpNeE5qTTVORFUzSW4wLkltUUR5MTRzSDZ2cnlVakR4aGxYTjJzbjF0VlBkM3hmRV9yMTBLOEYwS3M",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/9Rqjhzu5UrCNcobnfBdNKw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiMDlyWlhoS1IxZEVjV1JpZHk5d2NtOW1hV3hsTHpJNE1qQXpNVEl6TVRZek9UUTFOeUo5LlZFZlVld1RPMWpqYi1td0xnS3hJUlBCTS1kSzhZLUZtMzlpbVNWTTdTQkU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/2A-e8jeu3lBKd9BKSMlV1A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiMDlyWlhoS1IxZEVjV1JpZHk5d2NtOW1hV3hsTHpJNE1qQXpNVEl6TVRZek9UUTFOeUo5Li1hdFFuUG0tZ3pEYkxIamlFMG5JMU1ZSkcyTV9fUFhMclVQSkZYN2JCNEU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "눈물짜는 영화 백날봐도 무덤덤한 편인데 이 영화 보면서는 몇번 울컥했다. 잔잔하게 사람 감정 흔드는 영화",
+    "likes_count": 58,
+    "replies_count": 0,
+    "content_code": "m5XK6PL",
+    "user_code": "oOkexJGWDqdbw",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-12T12:51:40+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "oOkexJGWDqdbw",
+      "content_code": "m5XK6PL"
+    }
+  },
+  {
+    "code": "NXnE50eymmQzG",
+    "user": {
+      "code": "YaR5YKErEqgX1",
+      "name": "이진구",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/PqGXKQXLX2POByoWP1tafw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlaWVZJMVdVdEZja1Z4WjFneEwzQnliMlpwYkdVdk1UWTRPRFUzTkRBd01ESXlOamsxTURRM055SjkuUEF5aHVLMVBpeENRdHhlS19pSmZ2bU8wUWdZWnZReTk2c21FUk9oSzhkOA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/3J93O_P6YxCM3fuyi6h6eg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXV0ZTTlZsTFJYSkZjV2RZTVM5d2NtOW1hV3hsTHpFMk9EZzFOelF3TURBeU1qWTVOVEEwTnpjaWZRLnItdGlYbXFPOHRJdHlVSEhtVE5lNkctRkhwald1VzVackZObVlQMTRpaGc",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/-H8_7aAYyLIfDl2FyirlOg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXV0ZTTlZsTFJYSkZjV2RZTVM5d2NtOW1hV3hsTHpFMk9EZzFOelF3TURBeU1qWTVOVEEwTnpjaWZRLm5LdlBqLWc4dDdWbWZGMFlaVDJFR2d1ZjlTREhyWXJWM3lnd1BqOWpxRWc"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "시얼샤 로넌에게서 시종일관 뿜어져 나오는 줄리 앤드류스의 아우라",
+    "likes_count": 56,
+    "replies_count": 1,
+    "content_code": "m5XK6PL",
+    "user_code": "YaR5YKErEqgX1",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-02-03T00:30:27+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "YaR5YKErEqgX1",
+      "content_code": "m5XK6PL"
+    }
+  }
+]

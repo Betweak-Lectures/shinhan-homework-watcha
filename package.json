@@ -8,7 +8,8 @@
     "crawl:watcha-list": "node --loader ts-node/esm src/spiders/watcha/watcha-list.ts",
     "crawl:watcha-detail": "node --loader ts-node/esm src/spiders/watcha/watcha-detail.ts",
     "crawl:watcha-comments": "node --loader ts-node/esm src/spiders/watcha/watcha-comments.ts",
-    "notebook": "node --loader ts-node/esm src/spiders/watcha/index.ts",
+    "movie-template": "node --loader ts-node/esm src/spiders/watcha/movie-template.ts",
+    "comment-template": "node --loader ts-node/esm src/spiders/watcha/movie-template.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sys",

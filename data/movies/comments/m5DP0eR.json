@@ -1,0 +1,1922 @@
+[
+  {
+    "code": "lP0E8mBn8Y2bx",
+    "user": {
+      "code": "DgwxAeQYNxrMj",
+      "name": "이동진 평론가",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/p3XJy6kh9GOBMVM31BjjdA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFXVlJXVTU0Y2sxcUwzQnliMlpwYkdVdk1UWXlPVGszTURnM01ESTFOak0zTnpNME5DSjkuLWxvTzcyeXgzSXBaZmVxZ096Z2ZQb2FqQnFMY3dHV1QtM19LMFRFcW90Yw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/gYIGjbMGjBkWyf14oNp7UA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGbFVWbE9lSEpOYWk5d2NtOW1hV3hsTHpFMk1qazVOekE0TnpBeU5UWXpOemN6TkRRaWZRLkNPaFZuVFVad1FkZy04YnFFemlhdWRtN0t3ZS1RTVpDNVFzY2QtTERhZUU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/vWfhipqy6PDn-vgUDouTyg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGbFVWbE9lSEpOYWk5d2NtOW1hV3hsTHpFMk1qazVOekE0TnpBeU5UWXpOemN6TkRRaWZRLm9CUENxSEEwaFFhTjl6TTVLdUx1NVBYNnVPMk90bVgxbHRWcFBxTXFEMEU"
+      },
+      "watcha_play_user": true,
+      "official_user": true
+    },
+    "text": "파란색으로도 보이고 녹색으로도 보이는 그 옷처럼, 미결과 영원 사이에서 사무치도록.",
+    "likes_count": 5606,
+    "replies_count": 68,
+    "content_code": "m5DP0eR",
+    "user_code": "DgwxAeQYNxrMj",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-03T20:26:28+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "DgwxAeQYNxrMj",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xzaQAmGkRLQg5",
+    "user": {
+      "code": "3BnvwamXgxPAY",
+      "name": "공실",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/s06Cn97NvJk5GqBg0SL_eQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh6UW01MmQyRnRXR2Q0VUVGWkwzQnliMlpwYkdVdk1UWTROak0zTURFME5UVTNPRFEzTlRjNE9DSjkuQUo4MEtvcVZvYUtZZjEwenR6bVZTaXdhbWhyZFkwbDc1OEw3QmlNRHpNdw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/8RtOS8jHHIKaMAhIqBwTPw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kaGJWaG5lRkJCV1M5d2NtOW1hV3hsTHpFMk9EWXpOekF4TkRVMU56ZzBOelUzT0RnaWZRLjd0QVdrUTEwaG9sVU9ISHNRRk93R0VENVJZaGIwSUZpem9QUDgxQUc0LVE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/81zbNYCJTfX8YKhlLQNykw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kaGJWaG5lRkJCV1M5d2NtOW1hV3hsTHpFMk9EWXpOekF4TkRVMU56ZzBOelUzT0RnaWZRLjFDSkhVbXp3ZW9WTjIzYm9uWjlrRUE0ZGw5NW5wMWNNTEYxTDFsSGgzVW8"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "사랑한다고 말한적 없지만\n분명 사랑한다고 했다",
+    "likes_count": 5154,
+    "replies_count": 12,
+    "content_code": "m5DP0eR",
+    "user_code": "3BnvwamXgxPAY",
+    "watched_at": null,
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T11:13:05+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "3BnvwamXgxPAY",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "OAxM70OxvmQbm",
+    "user": {
+      "code": "87Gv7N8ELqE6o",
+      "name": "손정빈 기자",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/QLh7A1H1pmvxgNrT39rh2g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0TjBkMk4wNDRSVXh4UlRadkwzQnliMlpwYkdVdk1UWXlPVGd4TVRjM09USXdNVGs1TURreE1pSjkuemgtd3ZOTFZfOU94RklobTBPcUkwOXZjRGJfNllnSGRmM2dScjBaUnE5SQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/v8pf7fXjjpaKwQ4gFjJZ-g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkT09FVk1jVVUyYnk5d2NtOW1hV3hsTHpFMk1qazRNVEUzTnpreU1ERTVPVEE1TVRJaWZRLk5rck9nOG9pNXZfMk5lNnU1dnlId000eG9uRmhLZ09sbVlPUVR2WG92YW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/0L9lP-lmfUeKLqGMQgVE6A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkT09FVk1jVVUyYnk5d2NtOW1hV3hsTHpFMk1qazRNVEUzTnpreU1ERTVPVEE1TVRJaWZRLkpMUHhNWERsS1pOVmV4UVBqc202dUlLbWtsNlczNFFWZ3h0UHN4Sjl2WmM"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "품격과 위엄의 사랑, 전복과 붕괴의 걸작\n\n박찬욱 감독의 새 영화 '헤어질 결심'에는 흔치 않은 품위가 있다. 단 하나의 숏(shot)에서도 위엄을 잃지 않으려는 이 작품은, 더이상 새로운 사랑영화는 없다는 사람들에게 로맨스영화가 다다를 수 있는 또 다른 장소를 내보인다. 품위와 위엄을 내세우며 도달한 이 경지는 단정(斷定)하지 않는 태도에 기반하는 것 같다. '헤어질 결심'은 스릴러를, 멜로를 단정하지 않는다. 소통과 관계를 단정하지 않는다. 가해와 피해도 단정하지 않는다. 그리고 사랑을 단정하지 않는다. 대신 골똘히 들여다본다. 138분을 그렇게 응시한 뒤에 관객에게 묻는다. '이 정도라면 판단할 수 있겠습니까.' '헤어질 결심'은 짙게 깔린 안개의 영화이고, 몰아치는 파도의 영화이고, 높이 솟은 산의 영화이고, 떴다 진 태양에 관한 영화이다. 이 작품은 박찬욱의 최고작인가. 그건 모르겠다. 다만 걸작인 건 분명하다.\n\n'헤어질 결심'은 필름 누아르를 전복한다. 죽은 남편, 용의선상에 오른 아내, 사건을 수사하는 형사의 구도는 전형적이다. 이제 그 치명적 매력의 용의자 아내에게 마음을 뺏기고만 형사가 파멸의 길로 들어서고, 아내 역시 몰락의 운명을 맞이하게 되면 이 누아르는 완성될 것이다. 박 감독의 새 영화는 얼개만 보면 이 클래식한 이야기를 답습하는 것 같다. 그러나 이 클리셰에 가까운 껍데기를 들춰내고 속을 들여다보면 흔히 말하는 누아르라는 것의 상투성이 뒤엎어져 있는 걸 목격하게 된다. 이런 방식은 박 감독의 주특기이다. 그의 영화는 원작이 되는 작품에서 일부 요소를 차용하는 대신 그것들을 손에 쥐고 예상치 못한 길로 진입하며 관객에게 새로운 경험을 선사하곤 했다. '올드보이'가 그랬고 '박쥐'가 그랬으며 '아가씨' 역시 그랬다.\n\n그러면서 이 영화는 로맨스를 뒤틀어 놓는다. 단번에 타올라 걷잡을 수 없이 번지는 게 흔한 사랑영화의 도식이라면, '헤어질 결심'은 그런 사랑은 진실과 거리가 멀다는 듯 자꾸만 어긋나고 때로는 지연되는 감정의 양상을 펼쳐놓는다. 서래(탕웨이)와 해준(박해일)의 관계는 시작과 끝이 불분명하고, 관계의 정체 역시 불명확하다. 대신 이 영화는 정교하게 쓰인 대사들과 세심하게 다듬어진 행위들로 그들이 나눈 감정을 에둘러 설명하고 흐릿하게 정의한다. 그래서 '헤어질 결심'에는 '사랑한다'는 식으로 해석되는 대사는 있어도 \"사랑한다\"는 대사는 없다. 이렇게 이 영화에는 시종일관 좀처럼 잡히지 않는 마음들이 떠다니지만, 이상하게도 마지막 장면까지 다 보고나면 결국 절절한 사랑을 느끼게 된다. 그리고 그 사랑의 개척자가 겪어야 했던 불행과 그럼에도 불구하고 내보인 존엄에 자꾸 마음이 아리다.\n\n누아르를 뒤엎고 로맨스를 비틀면서 '헤어질 결심'이 단행하는 일은 타자화 된 여성을 구원하는 일이기도 하다. '헤어질 결심'은 그저 악녀로, 종종 팜파탈이라는 그럴싸한 말로, 남편 잡아먹은 여자라는 모욕으로 뭉뚱그려진 수많은 여성 캐릭터를 바로 세운다. 그래서 서래는 그저 '독한 것'이 아니라 어떤 일에도 고꾸라지지 않을 정도로 강인하고, 무슨 일이 벌어지더라도 자신을 지켜내기 위해 용기를 내며, 자신이 추구하는 단 하나의 가치를 위해 모든 것을 걸 정도로 담대하다. 말하자면 이 영화는 한 여성이 격조 있는 인간성을 무기로 남성 권력의 무지몽매한 폭력에 맞서는 이야기이기도 하다. 그래서 서래는 \"내가 그렇게 만만하냐\"고 화를 내며 뭉개진 자존심이나 들먹이는 남자에게 오히려 되묻는다. \"내가 그렇게 나쁩니까.\"\n\n박 감독은 서래와 해준에 관해 말하기 위해 만물을 활용한다. '헤어질 결심'은 산에서 시작해 안개를 경유해 바다에서 끝나는 이야기이다. 하늘 높이 떠올랐다가 마치 땅 아래로 사라지듯 스스로 자취를 감춰버리는, 태양처럼 살았던 한 존재에 관한 작품이기도 하다. 그렇게 보면 산과 안개와 바다와 하늘과 땅과 태양이 모두 있는 이 영화의 포스터는 '헤어질 결심'의 요약본으로 보이기도 한다. 박 감독은 서래와 해준의 마음에 관해 이야기하기 위해 인간의 모든 활동을 모두 끌어다 쓴다. 이 영화에는 보고 듣고 말하고 먹고 자는 등 인간 행위 전체가 빠짐 없이 있다. 다만 동시에 볼 수 없고, 똑같이 들을 수 없으며, 틀림 없이 말할 수 없고, 정확히 느낄 수 없을 뿐이다. 그래서 누군가는 기어코 산에 오르고, 누군가는 바다에서 갈팡질팡하며, 누군가는 결국엔 땅을 파고 들어간다. 사랑의 비극은 늘 그렇듯 딱 들어맞지 않는 타이밍 때문에 발생한 것들이었다.\n\n'헤어질 결심'에서 박 감독이 보여주는 연출의 정수(精髓)는 언어와 스마트 기기에 있다. 스마트 기기는 다른 언어를 사용하는 서래와 해준을 연결하는 매개체이기도 하지만 두 사람의 소통을 가로막는 장애물이기도 하다. 이 최첨단 장비의 전격적인 활용은 이 작품을 고전적이면서도 동시대성을 가진 예술로 격상한다. 스마트 기기의 통역 앱은 두 사람이 대화할 수 있게 해주지만 그들의 감정 일부를 차단한다. 스마트 기기의 녹음 기능과 검색 기능은 두 사람이 서로의 마음을 마침내 확인할 수 있게 해주지만 감정의 교환을 지연하고 정체시킨다. 스마트 기기의 위치추적 기능은 상대의 대략적인 위치를 가늠할 수 있게 해주지만 정확하게 짚어주지는 못해서 만남을 유도하면서도 만남을 확답하지 못한다. 말하자면 '헤어질 결심'은 계속해서 근접하려고 하지만 어쩔 수 없이 불완전하고 불명확한 스마트 기기의 한계가 결국 사랑의 속성이라고 보고 있는지도 모른다.\n\n혹자는 '헤어질 결심'을 두고 앨프리드 히치콕 감독의 '이창'(1954)이나 '현기증'(1959)을 언급하지만, 그런 시각은 지엽적인 것을 가지고 자칫 이 작품의 정체를 규정할 수 있다는 점에서 좋은 비교는 아니다. 어떤 레퍼런스를 언급하더라도 이 영화는 명백히 박찬욱의 영화다. 그의 영화는 언제나 모순과 모호로 가득차 있었다. 다만 그 부조리한 세계에 그대로 남거나('복수는 나의 것' '올드보이') 부조리를 제거하고 탈출하느냐('박쥐' '아가씨')의 차이만 있었을 뿐이었다. 그리고 '헤어질 결심'은 어떤 이는 남겨놓고 또 어떤 이는 탈출시킨다. 이렇게 보면 이 영화는 정훈희의 노래 '안개'와 김승옥의 소설 '무진기행'의 박찬욱 버전이라고 보는 게 가장 적절할 것이다(노래 '안개'는 김수용 감독이 1967년에 내놓은 영화 '무진기행'의 주제곡이기도 했다).\n\n배우 탕웨이와 박해일은 대체 불가한 연기를 한다. 탕웨이는 불행했지만 한 인간으로서의 위엄을 끝내 지켜낸 서래를 특유의 신비로움과 올곧음으로 보여준다. 그의 연기는 높으면서 깊고 게다가 넓기까지 하다. 이런 종류의 카리스마를 가진 배우는 탕웨이 외에는 잘 떠오르지 않을 정도다. '헤어질 결심'은 '색, 계'(2007) '만추'(2011) '지구 최후의 밤'(2019)과 함께 탕웨이의 대표작으로 남을 것이다. 박해일은 그가 얼마나 섬세한 배우인지를 다시 한 번 증명한다. 마치 캐릭터를 세공하는 듯한 그의 연기는 이 작품의 뒤를 든든히 받친다. 몇 몇 장면에서는 새삼 그의 눈이 얼마나 영화적이었는지를 다시 한 번 생각하게 되기도 한다. 고경표·김신영·박용우 등은 짤게 등장하는데도 큰 존재감을 드러내는 연기를 한다.\n\n'헤어질 결심'의 마지막 장면은 박 감독의 전작에 있는 그 어떤 엔딩보다 아름답다. 그리고 아름다운 것 이상으로 고통스럽다. 이 장면에는 누군가에게 결코 해결되지 않을 사건으로 남겨짐으로써 사랑하는 사람이 무너지고 깨어지는 걸 필사적으로 막기 위해 애쓰는 마음이 있다. 마침내 합일하기를 간절히 원했으나 결국에는 심장을 뺏는 데 실패한 사람의 체념이 있다. 그럼에도 불구하고 삶의 유일한 이유가 되어준 사랑을 만날 수 있었서 다행이었다는 안도가 있다. 이제 관객은 한 단어로 설명할 수 없는 이 오묘한 마지막 시퀀스를 보고나서 극장을 나선 뒤에 한동안 서래와 해준에 관해 생각하게 될 것이다.",
+    "likes_count": 3469,
+    "replies_count": 58,
+    "content_code": "m5DP0eR",
+    "user_code": "87Gv7N8ELqE6o",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-23T17:32:00+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "87Gv7N8ELqE6o",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "wlL2DvOnJPQyZ",
+    "user": {
+      "code": "Mr95nB6L7N5ZP",
+      "name": "Magnolia",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/d9kapGmJECfwGrPv9ZHlTQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlOY2prMWJrSTJURGRPTlZwUUwzQnliMlpwYkdVdk1UWTBNakUwTWpZMk9ESXhNemd4T1RBek1pSjkuNVF2N25fWWpQZDBvS3NnY2t5V1E0elJWZDd4TzgzOGwzUzJpM0p1RmNKNA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/yGlQH9_4wJNomxvtkIYeCw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc1Q05rdzNUalZhVUM5d2NtOW1hV3hsTHpFMk5ESXhOREkyTmpneU1UTTRNVGt3TXpJaWZRLjJDZEJFekFnM2RLanVZY0U1R1VrVk5RTXd6WHVsc3JMcFhISENkeWxmdTg",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/oCD4bpSVVVEzgOrg70xkjg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc1Q05rdzNUalZhVUM5d2NtOW1hV3hsTHpFMk5ESXhOREkyTmpneU1UTTRNVGt3TXpJaWZRLnJwVTdJUkl4RlN1aU54NGtFSUxfUGN2S0tjbkFISFNrbURFRm9PLWxGOUE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "나에게로부터 해방시킴으로써 영원히 속박시키다.",
+    "likes_count": 2047,
+    "replies_count": 13,
+    "content_code": "m5DP0eR",
+    "user_code": "Mr95nB6L7N5ZP",
+    "watched_at": "2022-06-23T21:59:20+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-23T21:59:18+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-23T21:59:20+09:00",
+      "user_code": "Mr95nB6L7N5ZP",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "3kNEpnDqA0MOg",
+    "user": {
+      "code": "6ewxad2LO5Q1m",
+      "name": "밤커피",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/AyoifHSUNT-kG_2UpGybgQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgyWlhkNFlXUXlURTgxVVRGdEwzQnliMlpwYkdVdk1UWXlPVGd3TXpnMU1USTVORGc0TkRnMk5DSjkuM3hwMkVBU0x3MW5fRTd4NlBPWGhwbGw2V3BoTWVkQ04wUmd2U0k5RVkydw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/7TUq4bT2TpurA5SlcG1bpQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZObVYzZUdGa01reFBOVkV4YlM5d2NtOW1hV3hsTHpFMk1qazRNRE00TlRFeU9UUTRPRFE0TmpRaWZRLlVZdktvblhUWW5Oek1zR2E4ay1LYURYa0pWc2lES0tpakVUVWVBQkloNWM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/ym23EQtNaS6y28tjefmCLA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZObVYzZUdGa01reFBOVkV4YlM5d2NtOW1hV3hsTHpFMk1qazRNRE00TlRFeU9UUTRPRFE0TmpRaWZRLmY3Q0RSdmJRQW05LXRNWUZhMThWbTJBYm05VUlBT3ktMEhZSlZkLW9VTWc"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "Siri 끄고 보세요",
+    "likes_count": 1815,
+    "replies_count": 48,
+    "content_code": "m5DP0eR",
+    "user_code": "6ewxad2LO5Q1m",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-23T22:45:39+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "6ewxad2LO5Q1m",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xzaQAmGJjpQg5",
+    "user": {
+      "code": "zNM5NnXL7526j",
+      "name": "손진강",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Anl9YpJCCmKqVGQKRpykTg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTk2VGswMVRtNVlURGMxTWpacUwzQnliMlpwYkdVdk1UWXpNREk1T0RBNU9UWXdOalEzTVRFMk9DSjkuaEh3MHBzc2RvdVp1bi1JY1FncTlGVXdwRFk5aUI2b1E2RVh3TjFuaEJPOA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/ldRmQJ541QTW1EabEWtKxQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlazVOTlU1dVdFdzNOVEkyYWk5d2NtOW1hV3hsTHpFMk16QXlPVGd3T1RrMk1EWTBOekV4TmpnaWZRLkJOTXY1V0VRMmZrWVdjcWZ1bVNJako3cjUxbVVVNGpRZ2Q0UnAwYzBlSEk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/JtbZgLsXo8uj8JEu805xTw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZlazVOTlU1dVdFdzNOVEkyYWk5d2NtOW1hV3hsTHpFMk16QXlPVGd3T1RrMk1EWTBOekV4TmpnaWZRLndWQ2xsZzRaRW9rTFFsZWNhVmh4bzUtMHR3TUdUZ3VRcC1xZ3htMmZzRk0"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "나는 그 여자에게 ‘사랑한다’고 말하고 싶었다. 그러나 ‘사랑한다’라는 그 국어(國語)의 어색함이 그렇게 말하고 싶은 나의 충동을 쫓아 버렸다.\n- 김승옥, <무진기행>",
+    "likes_count": 1795,
+    "replies_count": 9,
+    "content_code": "m5DP0eR",
+    "user_code": "zNM5NnXL7526j",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T01:06:31+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "zNM5NnXL7526j",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "8n92VyeKZvEAJ",
+    "user": {
+      "code": "nkPvrDmGExgar",
+      "name": "juu",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/qdU1jTtGEPJsrlJglKr0mg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNrUnRSMFY0WjJGeUwzQnliMlpwYkdVdk1UWTFNRFkyTWpZMU1EWTBOVFEzTnprME9TSjkuazllbnZ0RFNybThxcUFBUTdVeW8zWlVvSHo1dUVhRS1Ub0JTanR3Mk9BQQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Gmva-n2uDflDRqwYiIFw2w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KRWJVZEZlR2RoY2k5d2NtOW1hV3hsTHpFMk5UQTJOakkyTlRBMk5EVTBOemM1TkRraWZRLllZMGFTTkE1V0F1Z0ZlNjVCNmN1STQxdExkTU11RUtGQnJpMlRRQ0JvZTA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/iFWfgPkI4ifD8AIpobW6sw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KRWJVZEZlR2RoY2k5d2NtOW1hV3hsTHpFMk5UQTJOakkyTlRBMk5EVTBOemM1TkRraWZRLk0xY0pXcHdwVFJrVzg4UXRaSVpNU2lmQ0RRajFtaXdkeTFtdzc3MEFDR2s"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "당신을 사랑한다는 말을 괄호로 하는 영화\n징징거리는 가짜 집착광공, 가짜 사랑놀음들은 가라\n고요하고 꼿꼿하게 미결로 남는 서래씨가 “진짜”다",
+    "likes_count": 1740,
+    "replies_count": 5,
+    "content_code": "m5DP0eR",
+    "user_code": "nkPvrDmGExgar",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-11-18T06:53:12+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvrDmGExgar",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "NXnE5PR07BQzG",
+    "user": {
+      "code": "36lvX8XXgPvXd",
+      "name": "박서하",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/nzAz5fNRur8s3hzQKLcG5Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh6Tm14MldEaFlXR2RRZGxoa0wzQnliMlpwYkdVdk1UWXpNVFEyTlRJMU16TTFOemM1T1RReU5DSjkuRTl6YkhIRnB4bXE3UUJyVURaVWxBM3NMclpKa1NTQ3pMa1BFU2Q3Z1FDdw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/iVI8QIMyTixF4khH03t4sg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNelpzZGxnNFdGaG5VSFpZWkM5d2NtOW1hV3hsTHpFMk16RTBOalV5TlRNek5UYzNPVGswTWpRaWZRLllneXBfMFdfUjdwZi0wcjZpbWhDdGlJS0xvVER6dEo2bnNKVUc1QmpZUEU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/jbK43J809D3Qyc1_J9NmTg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNelpzZGxnNFdGaG5VSFpZWkM5d2NtOW1hV3hsTHpFMk16RTBOalV5TlRNek5UYzNPVGswTWpRaWZRLms0dnAyM2M2Vl9RZVZjZzlpcW9iLV9ZSENsQU45aGRoTHdvTjhUanFhVTg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "138층에서 지하 1층으로. 아이스크림을 퍼듯이 세련되게 구덩이를 파다.",
+    "likes_count": 1582,
+    "replies_count": 15,
+    "content_code": "m5DP0eR",
+    "user_code": "36lvX8XXgPvXd",
+    "watched_at": "2022-06-29T12:41:36+09:00",
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T12:22:28+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T12:41:36+09:00",
+      "user_code": "36lvX8XXgPvXd",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "3WB2qnbmPxMpj",
+    "user": {
+      "code": "Mr95nJ9mj75ZP",
+      "name": "정현",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/fpXjNkSj8pwupXjgOw0G_A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlOY2prMWJrbzViV28zTlZwUUwzQnliMlpwYkdVdk1UWXpNRFUxTmpRd05qY3lNalExTnpZd01DSjkuZnJnaXR6Vm9RR0l5eEd2ZmcyYXA5aTlFaVFCX05idXlGVFIyMnBaczNzdw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/fbZisCF2ZjDAZVctzKO7LQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc1S09XMXFOelZhVUM5d2NtOW1hV3hsTHpFMk16QTFOVFkwTURZM01qSTBOVGMyTURBaWZRLk95UGNlOTF6Um0wZW5XblFFU0tISkphMFpyajZfTUZoTDJFLWdSTDE0NFk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/NxblEUMDL7uG-4nX_zUY_g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUWEk1Tlc1S09XMXFOelZhVUM5d2NtOW1hV3hsTHpFMk16QTFOVFkwTURZM01qSTBOVGMyTURBaWZRLkpTbXRFYXlrQS1aS2xqRV9TMVZOZ2NPZHVYdUdtNTBDOFc2SExQVnhGb3c"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "자라에 물리면 물 속으로 넣어야 합니다.",
+    "likes_count": 1243,
+    "replies_count": 5,
+    "content_code": "m5DP0eR",
+    "user_code": "Mr95nJ9mj75ZP",
+    "watched_at": "2022-06-29T11:33:25+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-05-29T04:44:54+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T11:33:25+09:00",
+      "user_code": "Mr95nJ9mj75ZP",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "7JVEodgxGe29y",
+    "user": {
+      "code": "DgwxABBQMqrMj",
+      "name": "재원",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/CqOS30DcZ3-E3zWYKM4Tkg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFVSkNVVTF4Y2sxcUwzQnliMlpwYkdVdk1UWXpPVGN3T1RjNE56SXlNelE1TWpRd05pSjkuZ0l6dmFlZG5MQlNpdVNtbUxIcE82RmJSbnZQYWRNRU5ydDJFTi1CalVZcw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/vnZ2tAlkWOYmNoJHnPzjXA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGQ1FsRk5jWEpOYWk5d2NtOW1hV3hsTHpFMk16azNNRGszT0RjeU1qTTBPVEkwTURZaWZRLkZmYzdSZWZzRzdFM0ZEWm5DVGl5WTN6MVpvaEthTUlVLTZWSDJOVkxzY1k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/BClLcHcfRnRWBihDDwvZNw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGQ1FsRk5jWEpOYWk5d2NtOW1hV3hsTHpFMk16azNNRGszT0RjeU1qTTBPVEkwTURZaWZRLlY5LTd1ZmRsWGd3WDgyTnZvOHRsVzh6NXF0cVBzRUpFS0NBSGhHX0E1VVk"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "찾지를 못하면 잊지도 못하는 그대인 걸 알기에\n영원히 끝나지 않을 숨바꼭질을 시작해 볼까 해.\n마침내 그대 기억 속에 불멸의 여운으로 남는 게\n이 지옥 끝에 남겨진 내 최선의 선택일 것 같으니.",
+    "likes_count": 1147,
+    "replies_count": 14,
+    "content_code": "m5DP0eR",
+    "user_code": "DgwxABBQMqrMj",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T13:08:48+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "DgwxABBQMqrMj",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "zD82Xp8Wrb253",
+    "user": {
+      "code": "a9L5P06Kg5wg8",
+      "name": "JY",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/jKPTlz0OD_xGC9_y1lzSCg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTloT1V3MVVEQTJTMmMxZDJjNEwzQnliMlpwYkdVdk1UWTRNekkzTVRZME56QTNNakF3TURVNU15Sjkubl94cHZ4OURrWklwLVZ3cFpnUnktallKcktjam01OU9XWHpXZnV0LXJnNA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/lAs5aqxg10-qR9ThEp5hKw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZBd05rdG5OWGRuT0M5d2NtOW1hV3hsTHpFMk9ETXlOekUyTkRjd056SXdNREExT1RNaWZRLl9MSWVOd3Juem9ZV3NDZnZ3Y2NNZG5qUktWejFHWXFCeWJ0WUx4SWY1ZW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Irz7bhFJK9cD1Y2gpaO6lQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZZVGxNTlZBd05rdG5OWGRuT0M5d2NtOW1hV3hsTHpFMk9ETXlOekUyTkRjd056SXdNREExT1RNaWZRLjBocVU1bDV3dHp0LThqTWtuc3BHMXp5Wm14Smkya1F1ODRPMHZOUEd1RE0"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "138층의 산에서\n바다로 아래로\n결심을 행하는\n138분의 시간",
+    "likes_count": 825,
+    "replies_count": 14,
+    "content_code": "m5DP0eR",
+    "user_code": "a9L5P06Kg5wg8",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-02T10:33:12+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "a9L5P06Kg5wg8",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "j7kQzYgm9dMl4",
+    "user": {
+      "code": "djaxbzpz7xLw8",
+      "name": "서진",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/NAL1u2Mz0LMxWXhpr4nlIw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlrYW1GNFlucHdlamQ0VEhjNEwzQnliMlpwYkdVdk1UWTVNVEF5TXprek1UazFPVFExTkRjeE9TSjkuMlJBNFh5SmQxaFdNaExZQ1ZHbWtfdGVoREtSNGZRUENPenBlaWtpS0E0WQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/nC3YdiGhVTWNR7Zr6_4guA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaR3BoZUdKNmNIbzNlRXgzT0M5d2NtOW1hV3hsTHpFMk9URXdNak01TXpFNU5UazBOVFEzTVRraWZRLjZlbi1UYzloYXlvd29aZ2pTa3V2NU92UkxoWFlkSlFrRVFjNE5ZQmhIOUU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/0tnZcblOpn8R6IjgEyr0bA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaR3BoZUdKNmNIbzNlRXgzT0M5d2NtOW1hV3hsTHpFMk9URXdNak01TXpFNU5UazBOVFEzTVRraWZRLnNmVGJaTnZqUXJHTE9qM3E4Sk4xS1NBM2RQRzBrd1FWbDQwdDBoLTV2WHM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "붕괴(崩壞) : 무너지고 깨어짐\n\n\"나는요, 완전히 붕괴됐어요.\" -해준",
+    "likes_count": 694,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "djaxbzpz7xLw8",
+    "watched_at": null,
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T18:53:18+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "djaxbzpz7xLw8",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "6GWQ14RbLRMJ5",
+    "user": {
+      "code": "djaxb44zMvLw8",
+      "name": "박준영 (영화 담다)",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/B99SD1a1W1SPMO76OS63EA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlrYW1GNFlqUTBlazEyVEhjNEwzQnliMlpwYkdVdk1UWXlPVGd5T1RRNU1qUTVORFl4TURRek1pSjkuTHhUdzBFNndpS3dka3ZBalJNTkhtR0ZMQzFXa2xvMjJPNXF5U1diWlVaaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/tSz6jpaJuZe4IusfKXjt8w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaR3BoZUdJME5IcE5ka3gzT0M5d2NtOW1hV3hsTHpFMk1qazRNamswT1RJME9UUTJNVEEwTXpJaWZRLmh4ZG81d0JOWlVvQWJwdzlhbmlyOHFjenh0cXFpMUZ1eE4wTnRKaFU3V2s",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Rdrmg0oO_E_meUg0TbP1sQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaR3BoZUdJME5IcE5ka3gzT0M5d2NtOW1hV3hsTHpFMk1qazRNamswT1RJME9UUTJNVEEwTXpJaWZRLjNkX0MzQkZEWGxVSWFPdTFQcHdOTWNybGx2NlAyLTlxRWxEdE43RFRyOVE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "기존 박찬욱 감독의  색깔과는 전혀 다른 새로운 스타일과 새로운 시도, 그의 영화에서는 전혀 볼 수 없던 새로운 플롯에 창의적인 카메라 기법 등 이전과 조금은 동떨어져 아주 신선한 느낌까지 준다.\n장르적 독특함으로 인해 극히 대중적이진 않지만 한국영화의 자신만의 영역을 확실히 갖춘 거장이 신선한 감각으로 신선한 시도에 도전했다는 생각에 영화적 카타르시스까지 느껴진다.\n\n-6월 29일 청주 cgv서문에서 언택트톡 관람-",
+    "likes_count": 686,
+    "replies_count": 8,
+    "content_code": "m5DP0eR",
+    "user_code": "djaxb44zMvLw8",
+    "watched_at": "2022-06-29T23:09:32+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T00:35:02+09:00",
+    "user_content_action": {
+      "rating": 7,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T23:09:32+09:00",
+      "user_code": "djaxb44zMvLw8",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "wlL2DvrvjqQyZ",
+    "user": {
+      "code": "RJgkqlB6a5X0b",
+      "name": "석미인",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/FmfiRRjI336-wvNxCwU8eQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlTU21kcmNXeENObUUxV0RCaUwzQnliMlpwYkdVdk1UWXlPVGM1T0RJNE5qWXhPREE1TkRVNU1pSjkueHdqb0JsUnNjcmo1TGxod3dkaUN3d1FraVp5REVlb05WRE1FODRMNXhYaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/IjPI29IwNbIN88u1UYAjrw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVa3BuYTNGc1FqWmhOVmd3WWk5d2NtOW1hV3hsTHpFMk1qazNPVGd5T0RZMk1UZ3dPVFExT1RJaWZRLkdtbml3LS1oMzAyRVpvaWxBTkJWbWswcy1JUzhQVGk2ZjZpOWtqU2pTdms",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/EqfzGrDmAWfd3LFiDwnn_A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVa3BuYTNGc1FqWmhOVmd3WWk5d2NtOW1hV3hsTHpFMk1qazNPVGd5T0RZMk1UZ3dPVFExT1RJaWZRLjFVbVppRGZYSWhvR1k5RXJKeWVQR3ZlM0hKdGc3S08td3BRNWpRay1rQ2c"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "보고싶어요 코멘트\n결심했단 소식 들은 지 2년도 넘은 거 같아요. 그냥 계속 사귀시는 건가용\n//\n결심은 파도가 오기 전에 하는 일",
+    "likes_count": 667,
+    "replies_count": 13,
+    "content_code": "m5DP0eR",
+    "user_code": "RJgkqlB6a5X0b",
+    "watched_at": "2022-06-29T15:09:08+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-02-03T19:19:32+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T15:09:08+09:00",
+      "user_code": "RJgkqlB6a5X0b",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "lP0E8mJZmY2bx",
+    "user": {
+      "code": "3Bnvww6ljvPAY",
+      "name": "맛스타",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Rx5ZFRQgrb1nVwZQMrMR3A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh6UW01MmQzYzJiR3AyVUVGWkwzQnliMlpwYkdVdk1UWXlPVGd6TnpVNU9ERTRPVEk0TWpNd05DSjkuUC1ETHEwaHlNc0ZxSDVnUzRDMDUzQkRQd21sSHluS1puNmRSM0tnaXR5RQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/vo91Fdx4f0QvNWOQCWO1Gw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kM05teHFkbEJCV1M5d2NtOW1hV3hsTHpFMk1qazRNemMxT1RneE9Ea3lPREl6TURRaWZRLkVoWk9STHB4RlRLdDVaVVhKUWY0YlFFZURvSG5lVlVRYk94ZnJDS0lxZm8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/bwsCTkQJ0mO35LRIRWbQlw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kM05teHFkbEJCV1M5d2NtOW1hV3hsTHpFMk1qazRNemMxT1RneE9Ea3lPREl6TURRaWZRLnc0dmoxT1A1OVBHRkZFeVFWV05hUGVPZVNpeFdPemRfemhCU1VHVW1CUVE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "나를 파괴하러 온 구원자.. 는 이게 진짜네..\n\n박찬욱은 아주 기냥 멜로장인이여..",
+    "likes_count": 574,
+    "replies_count": 6,
+    "content_code": "m5DP0eR",
+    "user_code": "3Bnvww6ljvPAY",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2021-04-12T03:01:09+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "3Bnvww6ljvPAY",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xzaQAmG7BpQg5",
+    "user": {
+      "code": "3BnvwPaL95PAY",
+      "name": "햄튜브",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/AcouAzZ8QfpuBfM3ZueOGQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh6UW01MmQxQmhURGsxVUVGWkwzQnliMlpwYkdVdk1UWXpNREF3TWpnNE9UWTBNalV4T1Rnd09DSjkuS0NQSDRjZzBISU9tV1FKUTM0WnYxVWdkV2p3ZlJwcE5Eb2dadXZJQldPbw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/van_FrDPEVAW2WR0u7O77A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kUVlVdzVOVkJCV1M5d2NtOW1hV3hsTHpFMk16QXdNREk0T0RrMk5ESTFNVGs0TURnaWZRLlJWZVpRdjUzcE1rTGk0MGVEX3F1bjF6aFFwUmxRXzJ3TWJKQzVRdmFxY0k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/PIFrri8e-N4OO8zKZkNkhg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNMEp1ZG5kUVlVdzVOVkJCV1M5d2NtOW1hV3hsTHpFMk16QXdNREk0T0RrMk5ESTFNVGs0TURnaWZRLjBVRnAxVkgtdG56YTdnblpnLTQwVFVDaVN6a2NNM2FUeUZldXJMc2c2MVU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "5점줄 결심",
+    "likes_count": 544,
+    "replies_count": 5,
+    "content_code": "m5DP0eR",
+    "user_code": "3BnvwPaL95PAY",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-12T00:15:29+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "3BnvwPaL95PAY",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xkPEm7Y4RwMK3",
+    "user": {
+      "code": "OkexJPYOXrvdb",
+      "name": "오늘은너에게로",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/OZYoygcSeoBG5ODK0lh3_w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNsQlpUMWh5ZG1SaUwzQnliMlpwYkdVdk1UWTNPVEUwTVRjMU1UUTJNVGt3TXpVNU9TSjkuWXE4NVFpbUwwRnFTTjl4bm1IWjhqV216M2thX3NlQkN4TFhWajNhTnVuWQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/xl39uy-euU9O2tytWx27kg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwUVdVOVljblprWWk5d2NtOW1hV3hsTHpFMk56a3hOREUzTlRFME5qRTVNRE0xT1RraWZRLkQzZm5fVU9DU194b1IwZnZKdHpwbEFhdl8xeGdzLTROaTVNdkQwZS13eDQ",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/bzsJ7aBepDI6n2P2UtBKug.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwUVdVOVljblprWWk5d2NtOW1hV3hsTHpFMk56a3hOREUzTlRFME5qRTVNRE0xT1RraWZRLnlQTnVBdlJ1NnpSNmp6bHFoMTJieGNlRFBWY25zT1djTWJBM1FkTGFGQ2M"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "처음부터 이루어질 수 없었던 사랑이고, 마침내 이루어지지 못한 사랑이다. 원하던 대로 마음 속의 사랑은 영원히 두 사람 밖에 모른다.",
+    "likes_count": 544,
+    "replies_count": 4,
+    "content_code": "m5DP0eR",
+    "user_code": "OkexJPYOXrvdb",
+    "watched_at": "2022-06-29T17:03:11+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T15:30:13+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T17:03:11+09:00",
+      "user_code": "OkexJPYOXrvdb",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "7JVEodgOBz29y",
+    "user": {
+      "code": "2mwvgYmarxMa7",
+      "name": "권혜정",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/8bBTqQkZZ62QzlSs88tmvw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh5YlhkMloxbHRZWEo0VFdFM0wzQnliMlpwYkdVdk1UWXpNRE14TVRrd05UYzVNekkwTVRNME5DSjkuUlhEbXpvR1BOcG45dU54V3VXeG5wcktiS0RJNXg2eXRDYkxYOG0zb1Rtbw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/gTw1NO1AUWmwKAvtAEjwTQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1kWmJXRnllRTFoTnk5d2NtOW1hV3hsTHpFMk16QXpNVEU1TURVM09UTXlOREV6TkRRaWZRLjhyU2FleW5kbGxhMldlcW9GdWItOWdKbUlmdWdZdUJZcUlNZktBdUMyYUU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/6U8aoqcwc6H_gRYMEleUxQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1kWmJXRnllRTFoTnk5d2NtOW1hV3hsTHpFMk16QXpNVEU1TURVM09UTXlOREV6TkRRaWZRLi1leThKV1dPbFZ1dWZ0R2hycm1uQm9aUjlmRHduVGhEVU44b2RsTjVHbVU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "사랑에는 형태가 없어서, 사랑한다는 말은 언제나 공허한데, 언어로 정의할 수 없는 사랑의 형태를 제시하는 영화.",
+    "likes_count": 531,
+    "replies_count": 4,
+    "content_code": "m5DP0eR",
+    "user_code": "2mwvgYmarxMa7",
+    "watched_at": "2022-06-29T00:00:00+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-03T18:45:27+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T00:00:00+09:00",
+      "user_code": "2mwvgYmarxMa7",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "boY2lK7WL6EWO",
+    "user": {
+      "code": "ZBm5RRXyN5d46",
+      "name": "잡채는원래착하다",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/QNlraJdb_5ciM56yjKBhiA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlhUW0wMVVsSlllVTQxWkRRMkwzQnliMlpwYkdVdk1UWTVPVFE1TVRreE5UYzFPVFl5TXpJMU1pSjkuTkMweG9yR1I2UDByMk0taXZpcHpGVmppb2JxU0xSQ2dtc01WYW9yc04xMA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/F3CA7bdjTtgEiTLkmROABg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXa0p0TlZKU1dIbE9OV1EwTmk5d2NtOW1hV3hsTHpFMk9UazBPVEU1TVRVM05UazJNak15TlRJaWZRLmRjWVRrQUR0M1c0TmpXMHp5eXoxOHFJWHNQajNRaEF2S0lYVlFpRzNybXM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Yt5ph94FBUvnlYFg75zaXw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXa0p0TlZKU1dIbE9OV1EwTmk5d2NtOW1hV3hsTHpFMk9UazBPVEU1TVRVM05UazJNak15TlRJaWZRLkg0bUQzMG9sUFZ0ckQ2aEZYVURLaDUzMWludUpjMUI4b3FfZFZSUjdnSGs"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "박쥐 보면 알잖아... 박찬욱 로맨틱하다니까...?\n☺\n.\n4.5주고 자리에서 일어났는데 화장실와서도 계속계속 곱씹게 된다. 5.0은 어쩔 수 없었ㄷ ㅏ... 아마 잉크처럼 계속 번질 것 같은 영화가 될 것 같단 생각이 든다.\n박찬욱이 가진 특유의 클래식한 짜임과 그 안에서 뒤틀리는 사랑스러움들이 좋다.\n난 오히려 pta의 팬텀스레드가 생각나더라. 둘 다 미친 사랑이긴 하지만 그 짜임새와 함께 뭐랄까. 한 컷 한 컷, 숨소리까지 살 떨리게 만드는 거장의 위엄 ••• 이 느껴진다고 하면 오바스럽다고 할 수 있지만... 뭐 난 박찬욱을 사랑하니까 어쩔 수 없는 부분...\n아무튼 열심히 쌓아올려서 완벽하게 붕괴시켜버리는 모습이 변태같을정도로 사랑스러웠다. 마지막 장면은 정말 밤마다 생각날 것 같아요 . . 역시 박찬욱. 다음번엔 청불로 만들어주세요...\n(그래도 아쉬운 점을 꼽자면••• 탕웨이가 더 매력적이길 바랬다면 내 욕심 이겟 . 지.. ? )",
+    "likes_count": 526,
+    "replies_count": 8,
+    "content_code": "m5DP0eR",
+    "user_code": "ZBm5RRXyN5d46",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2021-01-03T01:32:43+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "ZBm5RRXyN5d46",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "XpeMJAKo4x2Jn",
+    "user": {
+      "code": "mK6Exjd0XvX1O",
+      "name": "양기연",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/3KbeO5JSYReCHaIfQGYuKg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl0U3paRmVHcGtNRmgyV0RGUEwzQnliMlpwYkdVdk1UWTVPREExTmpnNE1qa3lNalk1TmpVeU55SjkuRjNJZGl6THFxV0hTTThTTXhlM2JVZWluRG1yZkpDNXAxMmJfaC1BWUZEaw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Pjpow0PVNHJPcIBiiqc9aw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiVXMyUlhocVpEQllkbGd4VHk5d2NtOW1hV3hsTHpFMk9UZ3dOVFk0T0RJNU1qSTJPVFkxTWpjaWZRLkFzTy05LVE4dm5MY0tncEJZc09pcUc3dXRwSEZzZ05TZU55YVZiUkMtSzA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/azO7HYqVP_vw3SkjtwhoHA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiVXMyUlhocVpEQllkbGd4VHk5d2NtOW1hV3hsTHpFMk9UZ3dOVFk0T0RJNU1qSTJPVFkxTWpjaWZRLmFkQTJralJIZWx0SDdQQ2J6ZFYxU1ptdkRTZUR2Qm5OQXZkRmp6bEtab28"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "영화는 그들의 사랑을 구원할 수 있을까?\n.\n(스포일러)\n.\n형사는 사건의 진상을 알고 싶다. 형사는 죽은 자의 등반 루트를 모사하며 암벽을 오른다. 이러한 재현으로 그는 사건의 진상에 다다를 수 있을까? 형사는 눈에 인공 눈물을 넣고 눈을 부릅뜬다. 그렇게 눈이 맑아지면 그는 사건의 진상에 다다를 수 있을까? \"좋은 이어폰을 끼셨네.\" 죽은 자의 귀에 꽂힌 이어폰을 보며 다른 형사가 말한다. 만약 귀가 밝았다면 사건의 진상에 좀 더 다다를 수 있을까? 형사가 눈을 부릅뜨고 아래를 내려다 보는 숏 뒤에, 꼭 그처럼 눈을 부릅뜨고 죽은 자의 시점을 카메라가 대신한 시점 숏이 역숏으로 따라붙는다. 카메라가 이처럼 숏-역숏으로 두 인물을 연결할 때 이는 그들 간의 어떤 내밀한 연결의 담보가 될 수 있을까?\n.\n형사는 사건을 수사하는 과정에서 다양한 시각적, 청각적 증거들을 수집하고 이를 바탕으로 사건의 전말을 나름의 해석하에 재현한다. 작가는 영화를 완성하는 과정에서 다양한 시각적, 청각적 재료들을 조합하고 이를 바탕으로 현실을 나름의 해석 하에 재현한다. 우리는 상대를 이해하고 사랑에 이르는 과정에서 상대에 대한 다양한 시각적, 청각적 편린들을 그러모아 이를 바탕으로 서로의 감정의 궤적을 나름의 해석 하에 재현한다. 박찬욱의 신작 <헤어질 결심>은 '안개'라는 노래를 모티브 삼아 안개가 자욱한 도시를 무대로, 형사 수사물과 로맨스물의 익숙한 조합을 빌려오되(아마도 히치콕에게 가장 많이 빚졌으리라.) 그 아래에서 저 갖가지의 방식으로 저마다의 안개를 걷어보려 하는 세 가지의 재현 방식이 얼마나 서로 맞닿아 있는지를 탐구한다.\n.\n작가가 카메라 등을 이용하여 시각적으로 이미지들을 프레임 안에 담아내고 청각적으로 사운드를 녹음하면, 이는 필름 혹은 디지털 매체에 새겨진다. 관객은 그 필름 혹은 디지털 매체가 영사되어 스크린 위에 이미지가 맺히고 스피커를 통해 사운드가 들려오면 이를 통해 재현된 이미지와 사운드로써 영화를 접하게 된다. 관객의 눈(귀)-스크린(스피커)-필름 등 매체-카메라 렌즈(마이크)-작가의 눈(귀)-재현 대상까지. 이렇게 수많은 레이어를 거쳐야 관객이 알고 싶은 그 대상이 관객의 눈과 귀에 닿을 수 있다. 그렇다면 관객은 그 재현 대상을 과연 온전히 파악할 수 있을까?\n.\n형사는 항상 사건에 사후적으로 접근할 수밖에 없다. 누군가가 어떤 행동을 했고, 그 흔적이 남으면, 형사는 그 흔적들에서 시청각적 증거를 모아 역으로 누군가가 어떤 행동을 하였을지 그 전말을 재현해 내야 한다. 결국 형사가 접하는 시청각적 증거들은 몇 개의 레이어를 거쳐 스크린에 맺힌 이미지이자 스피커로 들려오는 사운드이다. 이조차 다시 형사의 추리라는 레이어를 거쳐야 한다면, 형사가 죽은 자나 용의자의 행동을 모사해 보고 눈과 귀가 더 밝아진다 한들 과연 온전한 사건의 전말에 다다를 수 있을까?\n.\n형사가 여자를 처음 만나는 장면. 여자가 화면 안으로 들어서고, 여자의 목소리가 들리지만, 여자는 뒷모습만 프레임 구석에 포커스아웃되어 보일 뿐, 프레임의 중심이자 포커스가 맞추어진 부분은 여전히 형사의 얼굴이다. 그러니까 관객들은 여자의 첫 등장을 여자의 얼굴이 아닌 여자에 대한 형사의 리액션으로(마치 스크린에 맺힌 이미지로 그 대상을 파악하듯) 처음 접할 수밖에 없는 것이다. 카메라는 형사와 여자의 옆모습을 한 프레임에 담아낸 숏을 거친 뒤에야, 형사와 여자를 숏과 역숏으로 연결하는 시도에 나선다. 형사가 가장 핵심적인 진술을 해줄지 모를 피해자의 아내이자, 어쩌면 가장 유력한 용의자일지도 모를 그 여자와 '영화적으로 마주보기 위해서는' 그처럼 여러 개의 숏이 필요한 것이다. 마치 사건의 진상에 다다르기 위해서는 더욱 수많은 레이어가 필요하다는 암시처럼.\n.\n형사가 여자를 취조하는 과정에서도 카메라는 부러 몇 개의 레이어를 관객과 여자 사이에 둔다. 관객이 바라보는 스크린이자 카메라의 프레임 안에, 조사 과정을 담는 또 다른 카메라의 프레임이 존재하고, 그 너머에 여자가 존재한다. 그리고 그 과정을 거울벽 밖에서 지켜보는 또 다른 형사들이 있다.\n.\n형사가 여자 집 밖에서 잠복할 때에도 영화는 여러 개의 레이어를 강조한다. 형사는 자신의 눈으로 여자를 바로 보지 못하고, 쌍안경의 렌즈를 통해, 다시 유리창 너머의 여자를 바라보아야 한다. 그리고 관객은 이를 다시 또 하나의 프레임과 스크린 너머로 보아야 한다.\n.\n영화는 이밖에도 거울 이미지를 굉장히 빈번하게 사용한다. 또한, 문자 메시지를 관객에게 제시할 때조차도 부러 문자 메시지를 이미지로 프레임 위에 제시함으로써 또 하나의 레이어를 덧댄다.\n.\n비단 시각적인 영역에서뿐만 아니라 청각적인 영역에서도 영화는 두 인물 간에, 그리고 다시 그들과 관객 사이에 여러 개의 레이어의 존재를 상기시킨다.\n.\n여자는 자신이 중국인이라 한국어가 서툴다는 사실을 극중 인물들에게 여러 번 주지시킨다. 그리고 실제로도 그녀는 조금만 말이 막히면 중국어를 사용하곤 한다. 여자가 중국어를 사용할 때 형사와 여자 사이에는 '화자가 의미하고자 하는 바-화자의 언어-통역기-청자의 언어-청자가 이해하는 바'로 여러 개의 레이어를 거쳐야 한다. 그리고 관객의 입장에서는 여자가 중국어를 말할 때 종종 한국어 자막이 스크린 위에 시각화됨으로써 여분의 레이어가 하나 더 끼어들게 된다.\n.\n여자가 한국어를 사용할 때조차도 여자의 한국어가 능숙하지 않으므로 그들 사이의 간극은 크게 줄어들지 않는다. 영화는 부산과 이포라는 두 가지 무대를 제시하면서, 형사는 늘 표준어를 쓰게 하면서 그 곁에 늘 사투리를 사용하는 여자 형사를 배치함으로써 한국어 안에서도 간극이 존재함을 늘 상기시키곤 한다. 이로써 그 간극이 형사와 중국인 여자 사이에서는 한층 더 벌어짐을 강조하는 것이다.\n.\n심지어 두 인물이 전화 통화를 하거나 녹음된 음성을 듣는 장면에서는, 여기서 레이어가 하나 추가되니 두 인물 간의 간극은, 그리고 그들과 관객 간의 간극은 더욱 벌어지는 셈이다.\n.\n이처럼 수많은 레이어들이 시청각적으로 끼어들어 벌려놓은 간극으로 인해, 형사는 사건의 전말에 접근하기 힘들어지고, 관객은 영화를 통해 그 재현 대상의 실체에 이르기 어려워진다. 이와 마찬가지로 두 사람은 그들 사이의 그토록 깊은 간극으로 인해 서로를 사랑한다고 느끼면서도 서로에게 온전히 다가설 수 없다.\n.\n형사는 나름 아내와의 관계를 개선해 보려는 의도 하에 이포로 이사를 왔음에도, 그간 얼굴도 알 수 없었던 놈에게 아내를 빼앗겨야 하며, 심지어 자라와 석류마저 그놈의 차지가 되어야 한다. 아무리 곁에 있는 사람일지라도 그와의 사이에 놓인 간극으로 인해 상대가 결혼 생활에 지쳤는지조차 파악하지 못한 셈이다. 그러면 그보다 더 미묘한 감정의 흐름에 대해서는 더 말할 것도 없을 것이다.\n.\n형사가 수사하던 또 다른 사건의 진범 홍산오는 자신의 범죄가 사랑 때문이라 말한다. 그리고 형사는 어렴풋하게나마 그 심정에 공감하는 듯도 하다. 그러나 홍산오는 사랑하는 감정에도 불구하고 그 사랑을 온전히 표현할 줄 몰라 사랑하는 여자를 해하는 남자들을 살해하는 방식으로 자신의 사랑을 표현한다. 그리고 형사 역시 자신의 사랑을 여자의 범죄를 숨겨주는 방식으로 표현한다. 이처럼 상대방에게 온전히 가 닿을 수 없고 그 때문에 사랑을 온전히 이해할 수 없는 이들의 사랑은 필연적으로 실패할 수밖에 없다.\n.\n형사가 여자의 행적을 뒤쫓거나 여자의 범죄 과정을 추리하는 씬들에서, 카메라는 종종 서로 다른 시공간에 존재하는 두 인물이 마치 한 시공간에 위치해 있는 것처럼 영화적인 기교를 부리곤 한다. 카메라가 그들 사이의 시공간적인 간극을 뛰어넘는 이 순간, 어쩌면 사건의 수사도, 우리의 사랑과 서로에 대한 이해도 영화의 품 안에서 그 모든 간극을 뛰어넘을 수도 있지 않을까 하는 희망을 품고 싶어진다.\n.\n하지만 영화는 자신이 제시한 환상에 퍽 냉소적이다. 영화 초반, 형사는 굳이 죽은 자의 궤적을 따라 암벽을 등반하여 자신과 죽은 자 사이의 시공간적 간극을 뛰어넘어 보려 했으나 이는 별 소득이 없었다. 마찬가지로 영화가 두 인물 간의 시공간적 간극을 각 씬에서 압축하여 무화시켜 본들, 다음 씬으로만 넘어가 보아도 그 간극은 여전히 그대로이지 않은가.\n.\n형사가 여자와 함께 산을 오르고 여자의 가족들의 유해를 뿌려주고 눈이 흩날리는 와중에 서로 입맞추는 순간, 그들은 모든 간극을 뛰어넘고 사랑을 이룬 듯하다. 그러나 산을 내려오고 형사가 자신을 떠나는 아내와 마주했을 때, 아내는 형사와 여자가 보았던 그 눈에 대해 전혀 알지 못한다. 결국 그들의 사랑이 이루어진 순간은 찰나의 환상에 불과했는지 모른다.\n.\n결국 그 간극으로 인해 그들의 사랑은 파국으로 치닫는다. 여자는 형사가 자신에게 '사랑한다'고 말했다고 한다. 그러나 형사는 사랑한다고 말한 기억이 없다. 여자는 형사가 자신의 범죄를 숨겨주는 그 순간이 사랑한다고 말한 순간이나 다름없다고 여겼기에 그 '내포된 의미'의 차원에서 그렇게 말한 것이다. 그러나 형사는 내포된 의미의 차원까지 다다르지 않고 '\"사랑한다\"는 발화 그 자체'의 차원에 천착하느라 여자를 이해하지 못한다. 결국 여자가 던진 죽음의 신호를 남자는 제대로 인지하지 못한다.\n.\n사랑 때문에 살해했다고 말한 홍산오는 미용실에서 일하는 여자를 사랑했는데, 마지막 순간 그 사랑하는 여자의 목소리를 듣고는 그 사랑하는 여자의 도구(가위)로 스스로 죽음에 이른다. 여자는 홍산오가 그랬듯 그 사랑하는 형사의 목소리(음성 녹음)를 듣고는 그 사랑하는 형사의 도구(그 음성 녹음 중 형사의 \"더 깊은 물 속에 묻으라\"는 발화 그 자체)로 스스로 죽음에 이른다. 형사가 '발화 그 자체'에 천착하여 그 '내포된 의미'에 다다르지 못하였으니, 여자는 역으로 '형사의 발화 그 자체'를 수행에 옮김으로써 그들의 사랑의 한계를, 그 사랑이 끝났음을 표현한다. 그리고 이번엔 반대로 형사가 그 '내포된 의미'인 '사랑의 끝'에 집착하여 두려워 떠느라 당장 자신이 발딛고 선 바로 근처에서 익사해 가는 여자를 발견하지 못한다. 영화는 그들의 간극을 좁힐 수 없었다. 결국 영화는 그들의 사랑을 구원할 수 없었다.",
+    "likes_count": 515,
+    "replies_count": 7,
+    "content_code": "m5DP0eR",
+    "user_code": "mK6Exjd0XvX1O",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T01:16:03+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "mK6Exjd0XvX1O",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "droQ09RBjrEyN",
+    "user": {
+      "code": "DyKZx31lRv4dJ",
+      "name": "백수골방",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/OM7dN3LQJjjvcNW7slAxWg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFZVV0YWVETXhiRkoyTkdSS0wzQnliMlpwYkdVdk1UWXlPVGM1TWpjNU1qRTNNemN4TkRZNE9DSjkudXJzZ0IzQUhkMWRVd1diZXJ4X0FFUXIxNU1ob3ZjSUo4Uk5EMkNMdDhvVQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/zO9HVPPapccd_rQD8VqtQQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSSGxMV25nek1XeFNkalJrU2k5d2NtOW1hV3hsTHpFMk1qazNPVEkzT1RJeE56TTNNVFEyT0RnaWZRLmJZbFBMdzVhNlgydjJOMkllZTlwLWdvLWplSUN5MDZUbjhObmkzN3lIcm8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/GsSBdSj9b6iLV3p6o3kPeA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSSGxMV25nek1XeFNkalJrU2k5d2NtOW1hV3hsTHpFMk1qazNPVEkzT1RJeE56TTNNVFEyT0RnaWZRLlFDRGFJR0ZQVzkwVk52OTF2WDQ1S1ZxQzUtYk5DN0lndUNldWVzS2pkR2s"
+      },
+      "watcha_play_user": true,
+      "official_user": true
+    },
+    "text": "파도처럼 밀려와 잉크처럼 스며든다",
+    "likes_count": 428,
+    "replies_count": 1,
+    "content_code": "m5DP0eR",
+    "user_code": "DyKZx31lRv4dJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T01:59:11+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "DyKZx31lRv4dJ",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "lP0E8JP9lPMbx",
+    "user": {
+      "code": "6NW5QraB6x1Yo",
+      "name": "D.K.o.V",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Bwn-fwOW5aOc_OcgvzI9Hg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgyVGxjMVVYSmhRalo0TVZsdkwzQnliMlpwYkdVdk1UWTNNelUwTXpNd016UTJOVGszTmpnNU5pSjkuUFdYZ0x6ZTRtbTMxeC1kZVctbU1MRHFWTzR3b1BlNzBNREl4T3Nrb0V2bw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/ZwT6XQsosTYVAM_hcK22wg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZOazVYTlZGeVlVSTJlREZaYnk5d2NtOW1hV3hsTHpFMk56TTFORE16TURNME5qVTVOelk0T1RZaWZRLk9iVHg2VlU4RllMNFhqMEJyQzBFMHNfWHBsZmJhOWJ0SzlRb0xDVDBmSnc",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Yk25n1_DJYlhHOBi_EA7rQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZOazVYTlZGeVlVSTJlREZaYnk5d2NtOW1hV3hsTHpFMk56TTFORE16TURNME5qVTVOelk0T1RZaWZRLnJzclZFNXYwMEFJQ0xKQk00OFpzZi1yRUtaXzB2Z1RKc19HVWZHYTVzblk"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "감출수록 더욱 알고 싶은 그대의 진심.",
+    "likes_count": 412,
+    "replies_count": 8,
+    "content_code": "m5DP0eR",
+    "user_code": "6NW5QraB6x1Yo",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2020-06-05T14:36:49+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "6NW5QraB6x1Yo",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "P7kEW6GaGAQJ9",
+    "user": {
+      "code": "ld0q0Vj7356Xn",
+      "name": "뭅먼트",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/DPMvDgXcaCNgcoZaF_x-Rw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlzWkRCeE1GWnFOek0xTmxodUwzQnliMlpwYkdVdk1UY3dNVFk0TURjek16WTRNREF5TVRjeU5DSjkud2U5M0JvV0dnVzhiNXZ2blhCd0xNYnRnM1pwZGgwS1BrSkwxakZZaV91RQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/-t1HcZOYcfag79eRtjoxBw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiR1F3Y1RCV2FqY3pOVFpZYmk5d2NtOW1hV3hsTHpFM01ERTJPREEzTXpNMk9EQXdNakUzTWpRaWZRLmQ3aXJPSnFSM2lSOWg3Z1V2MmpsNlc2NlJTZndDMjlmU21xV3dxSS0wTW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/EWwEwg0GHi6PJL3eOy3Tig.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiR1F3Y1RCV2FqY3pOVFpZYmk5d2NtOW1hV3hsTHpFM01ERTJPREEzTXpNMk9EQXdNakUzTWpRaWZRLkRBUjN0M1JZNWdEcEpUTFlMaF82WjlvRGI2SEd5c1VReHdZSFNwUzNEWjg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "바다 위로 쌓아올린 나의 산을 붕괴시키는 것은 오직 당신만이 할 수 있었던 그 결심이기에, 마침내 우리는 서로에게 깊숙이 던져졌다.",
+    "likes_count": 372,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "ld0q0Vj7356Xn",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T14:30:25+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "ld0q0Vj7356Xn",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "BVoM97RqW3EP0",
+    "user": {
+      "code": "WwRqopwVyvlzB",
+      "name": "Camellia",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/iN5fCMrrOpEqjheVX-BtWw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlYZDFKeGIzQjNWbmwyYkhwQ0wzQnliMlpwYkdVdk1UWXlPVGszTVRZMU16ZzFOVEl6T0RRd01DSjkuRnN2dFlXYmxjd0c2SHNqT3pDX2d6aEdiaVNmZHhpUk9lMVdmenZTVVYtRQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/EdDe3IJi3gvyt5TiSzG2ZA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5d2QxWjVkbXg2UWk5d2NtOW1hV3hsTHpFMk1qazVOekUyTlRNNE5UVXlNemcwTURBaWZRLmhJT3l3cHBHNEdMVEU2Uy16Umg2X1RUdTRVcXFUbGhEakE3aWFpRHZONnM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/jsAREGFN2fq_oCeDCtaZdA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5d2QxWjVkbXg2UWk5d2NtOW1hV3hsTHpFMk1qazVOekUyTlRNNE5UVXlNemcwTURBaWZRLk5oWVZ2cEZ3aTJCT1BYdW5WLUtHYXhDSl95bVBMQWdvZzd5WTNUWUVoajA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "그렇게 억울한 듯이 고백하지 말아요. 첨벙거리며 떠난 줄도 모르고 난 이제 막 얼굴을 담갔으니까. 좋아요. 늦었지만 바다에 버릴게요. 깊이깊이 가라앉아 떼어낼 수도 없이 녹을 거야, 당신 밤에.",
+    "likes_count": 342,
+    "replies_count": 7,
+    "content_code": "m5DP0eR",
+    "user_code": "WwRqopwVyvlzB",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T21:08:20+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "WwRqopwVyvlzB",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "droQ09L8N7EyN",
+    "user": {
+      "code": "Qgy51QKN75Djk",
+      "name": "재윤",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/FeZjQ6xLsWZgCR2IEOGCGA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlSWjNrMU1WRkxUamMxUkdwckwzQnliMlpwYkdVdk1UWXlPVGszTXpFd05UWTROREkzTkRFM05pSjkuZkEwWTZsbmppTmNZTnluMnRYNFJjZDdfMG5JSW93eXNSU090MUtwek93aw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/N6aDDpT-Y-Csxhe4Rv9j8g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRGUlMwNDNOVVJxYXk5d2NtOW1hV3hsTHpFMk1qazVOek14TURVMk9EUXlOelF4TnpZaWZRLkNrOHBYem9FVWxQM2dCNmEybGJoS2l3RVB3bk02UFhCck1STnJMbmVKT2c",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/VjpEYuoU2BAY-csQoUSt3w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRGUlMwNDNOVVJxYXk5d2NtOW1hV3hsTHpFMk1qazVOek14TURVMk9EUXlOelF4TnpZaWZRLmQ3YTdQZUtMRFMzMEdIVjZJd0t1eFptdjU1OXNVWGQtSTV0dzFRZXVIbDg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "감정을 차곡차곡 쌓아올리고 마지막에 완벽하게 무너뜨릴 때에는 숨을 못 쉴 정도였다.",
+    "likes_count": 336,
+    "replies_count": 1,
+    "content_code": "m5DP0eR",
+    "user_code": "Qgy51QKN75Djk",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-23T21:53:48+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Qgy51QKN75Djk",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "PkvE69OxdyQpg",
+    "user": {
+      "code": "g64qzjX8eqER0",
+      "name": "film fantasia",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/O3ttzJvPvo3q-QrS1mxiiw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTluTmpSeGVtcFlPR1Z4UlZJd0wzQnliMlpwYkdVdk1UWXpNREk1TWpVMU5qTTBPVEUzT1RZME9DSjkuZVlhaEVNQlh1VFdSSDJGOEtKNWNTTGwzLWtWdDgxOC0yaWtBdktVaF9maw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/B22us2tnvCHpysRClWQYMg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hwcVdEaGxjVVZTTUM5d2NtOW1hV3hsTHpFMk16QXlPVEkxTlRZek5Ea3hOemsyTkRnaWZRLjktblF2Q2ZLZEIzWFVsUlJMbXRrSXhsUGIxR09vc1lCMEtfS25mUy1PZDA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/T04vTWvjQj_wqDzCTTe_TA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hwcVdEaGxjVVZTTUM5d2NtOW1hV3hsTHpFMk16QXlPVEkxTlRZek5Ea3hOemsyTkRnaWZRLlUtSjc4SXZFZ3pVMFZTc1J1cEw1ejNTcEVvVE5ad2tWX21iOFdyei1SLU0"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "독한것들",
+    "likes_count": 332,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "g64qzjX8eqER0",
+    "watched_at": "2022-06-21T00:00:00+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-22T11:48:18+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-21T00:00:00+09:00",
+      "user_code": "g64qzjX8eqER0",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "0ezQylAV43Mpq",
+    "user": {
+      "code": "nkPvrb8wrvgar",
+      "name": "Jay Oh",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/31So10WXnzoG-97U-XS0Mw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNtSTRkM0oyWjJGeUwzQnliMlpwYkdVdk16UXpNelF3TmpJM056VTFNak15SW4wLlFNdDNVR2JzV2lIWG1YZk9xS296ZmpPeDhZVXM5ZVRDLWM4Q2UwQjA3ck0",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/aLF3D61H3EDI1EIT_0UqCw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KaU9IZHlkbWRoY2k5d2NtOW1hV3hsTHpNME16TTBNRFl5TnpjMU5USXpNaUo5Lk1KSGJSc2M5bFQ1N2tWQWQ3MzBwQmRhTFpvRmxKZFNSTWo4TkNqUUNLR28",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/1_PP-MoOy0sFnaIRzf5hPQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5KaU9IZHlkbWRoY2k5d2NtOW1hV3hsTHpNME16TTBNRFl5TnpjMU5USXpNaUo5LmVzQ2RkdmdpNGJXU3EtVVMwQ093bTZPLVN5djRFMG1oN09uc01KY2I5dEU"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "산이 바위로, 돌로, 모래로 해어져 마음 사이사이를 채우고 나서 보니 해가 졌더군요.\nIn the mood for intrigue. Or love, was it?",
+    "likes_count": 329,
+    "replies_count": 3,
+    "content_code": "m5DP0eR",
+    "user_code": "nkPvrb8wrvgar",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-25T00:11:25+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvrb8wrvgar",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "kpeQK8Wy1JEYN",
+    "user": {
+      "code": "nkPvr4VNdjxga",
+      "name": "장염",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/euJfDMiuePOYwHpZnrcIJg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1YTFCMmNqUldUbVJxZUdkaEwzQnliMlpwYkdVdk1UWTFOVFl3TmpnNE5UVTFOemd4TURjM05pSjkuRGhEcVVVTEtXT1dnY1NFQmV1OXQxVlNJMHBUZUhfUGpPdllMWTNCLUhCRQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/-GKCDvV7VFAX-ShZb92N9g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5JMFZrNWthbmhuWVM5d2NtOW1hV3hsTHpFMk5UVTJNRFk0T0RVMU5UYzRNVEEzTnpZaWZRLlRvcGh2NUNTRjFNcEZaSm5EMW1Fc1VIaUhtWE5qa01uazRwdkJRMzM5eVk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/SA8P9VTbheFwM1fypVHaVQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibXRRZG5JMFZrNWthbmhuWVM5d2NtOW1hV3hsTHpFMk5UVTJNRFk0T0RVMU5UYzRNVEEzTnpZaWZRLmY0M1Y1d0Z1QW94aFJNZ3RXbGYtUlRuYXZrNlVsSFRqRkItN0w2WjAxRG8"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "그저 예쁘게 꾸며놓은 불륜\n날 앞에두고 내로남불중 내가 하면 로맨스 스토리를 장황하게 2시간동안 떠벌거리는걸 내가 들어준 기분\n결국은 불륜이네 하면 뭐하나 안해본 니가 뭘 알겠어ㅋㅋ? 라는 식의 영화다 완전 어쩌라고..",
+    "likes_count": 316,
+    "replies_count": 27,
+    "content_code": "m5DP0eR",
+    "user_code": "nkPvr4VNdjxga",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T01:01:20+09:00",
+    "user_content_action": {
+      "rating": 1,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nkPvr4VNdjxga",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "bW3Qk4gn1DE9p",
+    "user": {
+      "code": "8nPvyQYA76vYo",
+      "name": "미지근",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/EvJdjPh6mmxUHzWrZQIXoQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0YmxCMmVWRlpRVGMyZGxsdkwzQnliMlpwYkdVdk1UY3dNRE00TWpnMk1URXhNREkzTlRJM09TSjkuOTVHRHdSMUFZZnRqcndRZGlmZ0N4RzM4aUg0LTBzdHVqMWVsSVVHSFN0Zw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/ziTA7yrSwZReSqLcJgDiGA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRzVRZG5sUldVRTNOblpaYnk5d2NtOW1hV3hsTHpFM01EQXpPREk0TmpFeE1UQXlOelV5TnpraWZRLlRQLW9NLTUxa3R3dVc5QUxzRFBXTG8zMjBnQWstYks4SnRwZXB2eVh3Rzg",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/faDS--9-umkk8unngJSyQg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRzVRZG5sUldVRTNOblpaYnk5d2NtOW1hV3hsTHpFM01EQXpPREk0TmpFeE1UQXlOelV5TnpraWZRLm9PMklDT0RXeE1iV0lHbVVYM0dSNkJmSnFhVzVUaERJNUlUU3p2c0pLOVU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "순애야말로 진정한 이상성욕이다 ..",
+    "likes_count": 306,
+    "replies_count": 6,
+    "content_code": "m5DP0eR",
+    "user_code": "8nPvyQYA76vYo",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T16:12:53+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "8nPvyQYA76vYo",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xzaQAmk7gyQg5",
+    "user": {
+      "code": "2mwvgel9JxMa7",
+      "name": "이진수/(Binary)",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/7yDLdCVkoC1q7uZi46PXYQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTh5YlhkMloyVnNPVXA0VFdFM0wzQnliMlpwYkdVdk1UWTROemsyTnpnd016azBNRFl4TlRFM05TSjkuaU9vOWdUaXVUdWw3ekZYX2tXNk9jem9TVHZwYzVoSnpuNVQ3Y3dxbVVuMA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/kUZMG-nouIHgwxb2BGXxtA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1kbGJEbEtlRTFoTnk5d2NtOW1hV3hsTHpFMk9EYzVOamM0TURNNU5EQTJNVFV4TnpVaWZRLlQ5bVRGci1yR2dERHNGc3drT3hiOFhBNlVVU1A5NFhsTVdsVlFNMThTNTg",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/m3KQl2YlZv0WgqMT4rurPA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZNbTEzZG1kbGJEbEtlRTFoTnk5d2NtOW1hV3hsTHpFMk9EYzVOamM0TURNNU5EQTJNVFV4TnpVaWZRLm5aNXpyMC1jT25XYkc2UXpjWmpncFVOWE53VHNsaHhHQXpzbEtCdklZWlU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "모나리자가 미완으로\n영원토록 아름답게 봉인된 것처럼\n\n#굳건하고 꼿꼿한 척 연기하며\n거짓된 삶을 살아온 \"산\"(해준)이\n\n본인의 습성이자 서식지인 \"바다\"(서래)를 만나 침수되고 완전히 붕괴되어 해파리로 환생하며\n마침내 구원받는 이야기\n\n#당신을 데워줄 연탄이 되어 살아갈게요\n\n당신의 모래시계 속 모래가 되어\n흩어져 가는 시간 속에 살아갈게요\n\n당신의 모나리자 되어\n기억 속에서 살아갈게요\n\n아무도 내가 누군지 기억 못 해도\n당신은 잊지 못하겠죠\n\n그렇게 영원속에서 살아갈게요\n미결 속에서 만나요\n\n#\"지혜로운 자는 물을 좋아하고\n어진 자는 산을 좋아한다\n\"지혜로운 자는 움직이며 즐겁게 살고\n어진 자는 고요하며 오래 산다\"\n\n子曰: \"知者樂水, 仁者樂山; 知者動, 仁者靜; 知者樂, 仁者壽.\"\n(자왈: \"지자요수, 인자요산; 지자동, 인자정; 지자락, 인자수.\")\n\n#바다와 산이 함께하자 그들의 구분이 없어지고 경계가 사라졌다. 그렇게 아름다움은 지켜진다\n\n*내 인생을 망치러 온 나의 구원자.\n나의 미결사건\n나의 고향과 무덤. 바다\n송서래\n\n#종결된 사건에서 미제 사건으로 되돌아가, 미완은 영원속에 봉인되고, 사랑은 재수사를 통해 반복되며 기억된다\n그렇게 사랑은 죽지 않고 지켜진다\n\n\"다른 남자와 헤어질 결심을 하려고 했어요\"\n\n*100년이 지나더라도\n관객의 마음속에 살아 숨 쉴 불멸의 이야기\n\n*한국 영화의 바다와 산이 하나가 되어 합쳐지는 기적같은 순간\n\n\"사랑이 산에서 태어나 바다에 파묻혀 마침내 가슴속에서 피어나기까지\"\n\n#안개가 우릴 이어줬고 우릴 갈라 놓는다\n\n다시 우릴 맺어준다. 우리가 처음 만난 산에서, 영원히 함께할 바다에서 마침내 하나로 봉인된다\n\n#더 깊은 바다에 버려요\n#\"이 영화랑 헤어질 용기가 나지 않는다, 영원히 붙들고 싶다\"\n\n마지막 엔딩 장면에서\n내가 극 속으로 들어가\n서래를 찾아 나설 수 있다면\n얼마나 좋을까.\n\n지금 살고 있는\n현실이 아니라\n이 영화가 흘러나오는\n극장 안에서 살아가다\n나이 들어 죽어가고 싶다\n\n그렇게 죽으면\n헤어질 결심의 세계 안으로\n들어가\n\n평생 서래를 그리워하며\n아파하고 싶다\n\n눈과 코가 없는 해파리가 될 때까지\n그 차디찬 파도를 맞으며\n평생을 찾아 나서고 싶다\n\n영원한 사랑을 느끼고 싶다\n그런 사랑을 하는 나 자신을 보고 싶다\n\n이 세상에서 단일한 영화였고\n영원히 기억하고픈\n재생하고픈 행복하고 아픈 영화였다\n\n박찬욱의 영화를 볼 수 있는\n세상에 태어난 걸 감사하고\n한국인으로 태어나\n모국어로 이 영화를 들을 수 있었음에\n행운이었다고 생각한다\n\n#형벌과 영원 그 사이에서\n\n죽었던 사랑을 되살리는 유일한 방법은 사랑도 사건도 모두 미결(ing)의 상태로 돌려놓는 것\n그렇게 영원히 재생되게 만드는 것\n\n#서래의 마지막 선택으로 인해\n사랑과 사건 모두를 미결로 되돌리며 역설적으로 사랑을 영원속에 봉인하는 승리의 순간을 맞이하게 된다\n(*영화 역사상 가장 독창적인 사랑, 이별 혹은 맺어짐에 관한 영화)\n\n#어떤 사랑은 슬픔이 파도처럼 밀려오고\n어떤 사랑은 슬픔이 잉크처럼 천천히 번져 마침내 붕괴시킨다\n\n#박찬욱의 모나리자. 그가 도달한 정점. 최고작\n\n\"또, 홀로 존만치 앞서간 박찬욱 감독의 어떤 경지\"\n-영화감독 김지운-\n\n#마침내 그녀는 해파리가 되고\n물속에 용해되어 자유로워졌을까\n\n#해준은 서래의 마음을 애타게\n알고 싶어서 계속 캐들어가다가\n\n결국 그 끝에 알게 된 건 서래의 마음이기도 하지만 자신의 마음을 들여다보게 되었다\n\n임을 얼마나 사랑하는지\n임에게 사랑한다고 고백했던 걸\n마침내 뒤늦게서야 깨닫고 말았다\n\n#이런 근사한 영화를 볼 때마다\n다시 영화감독이 되고 싶어진다\n\n그 꿈이랑 헤어지기로 다짐하고 다짐했었는데 말이다\n\n이젠 헤어지지 않기로 했다\n내가 죽든 살든\n평생 함께 하기로 했다\n강이라면 건널 테고 산이라면 넘을 거다\n\n#헤어질 결심을 했다는 거 자체가\n절대 헤어지지 못하겠다는 뜻도\n내포하고 있다 생각한다\n\n마지막 서래의 선택으로\n육체적으론 헤어지지만\n정신적으론 언제나 함께하기에\n정말 잘 지은 탁월한 제목으로 보인다\n\n나는 완전히 붕괴됐어요. 바다 깊숙한 곳에 아무도 모르게 휴대폰을 버려요 (해준)\n\n나는 어쩌면 해준 씨의 미결 사건이 되고 싶어서 이포에 왔나 봐요 (서래)\n\n#만조가 내게 빼앗아 간 모든 것\n#역대 최고 한국 영화 중 한편\n#두 사람은 헤어진 걸까 맺어진 걸까\n\n\"그 꿈이 좋은 꿈이었으면 좋겠어요\"\n-영화 박하사탕(2000)-\n\n\"똑바로 보려고 노력해요\"\n\n\"안개 속에 눈을 떠라\n눈물을 감추어라\"\n\n#안개를 걷어냈다면, 의심을 덜어내고 똑바로 볼 수 있었다면 우리의 결말은 달랐을까\n\n---------------------------------------------------——\n그래, 내가 낮은 곳에 있겠다는 건\n\n너를 위해 나를 온전히 비우겠다는 뜻이다\n\n나의 존재마저 너에게 흠뻑 주고 싶다는 뜻이다\n\n잠겨 죽어도 좋으니 너는\n물처럼 내게 밀려오라\n-----------------------------------------------------\n사랑 속에 얼굴 담그고\n누가 더 오래 버티나 시합을 했지\n넌 그냥 져주고 다른 시합하러 갔고\n난 너 나간 것도 모르고\n아직도 그 속에 잠겨있지\n(유시명 시인, 잠수)\n\n-----------------------------------------------------\n낮은 곳에 있고 싶었다\n\n낮은 곳이라면 지상의 어디라도 좋다\n\n찰랑찰랑 고여들 네 사랑을\n\n온몸으로 받아들일 수만 있다면\n\n한 방울도 헛되이 새어나가지 않게 할 수 있다면\n\n그래, 내가 낮은 곳에 있겠다는 건\n\n너를 위해 나를 온전히 비우겠다는 뜻이다\n\n나의 존재마저 너에게 흠뻑 주고 싶다는 뜻이다\n\n“잠겨 죽어도 좋으니 너는 물처럼 내게 밀려오라”\n\n​<이정하, 낮은 곳으로>\n-------------------------------------------------\n#나는 완전히 붕괴됐어요. 바다 깊숙한 곳에 아무도 모르게 휴대폰을 버려요 (해준)\n\n나는 어쩌면 해준 씨의 미결 사건이 되고 싶어서 이포에 왔나 봐요 (서래)\n\n넌 정말 훌륭한 사람인데\n왜 엉망진창인 남자들과 결혼하는 거야? (해준)\n\n다른 사람과 헤어질 결심을 해서 그랬다 (서래)\n\n당신에게 내 잠을 빼주고 싶네요.\n건전지 처럼/ 그 친절한 형사의 마음을 가져다 주세요\n(서래)\n\n(다른 언어로 사랑을 속삭여 통역의 시간이 걸려 마침내 도착했을 때, 뒤늦게서야 마음을 알아차렸을 때, 더 깊어지는 마음, 길어지는 여진)\n\n#당신이 나를 사랑한다고 말을 했을때\n당신의 사랑은 끝이 나게 되었고\n당신의 사랑이 끝이 나자\n나의 사랑은 시작되었다\n\n#아무도 찾을 수 없는 곳에 너와 나의 사랑을 봉인한다. 미결로 봉인해 영원으로 남겨 지켜내기 위해서\n\n“이제 내 사진을 붙여놓고 잠도 자지 못한 채\n계속 나 생각만 하게 될 거야”\n\n#“내가 목숨을 걸고 당신을 찾아오지 않으면\n내가 어떻게 당신을 만날 수가 있습니까?”\n\n#“미결이기에 아름답게 완성되고 미결이기에 붕괴되고야 마는 사랑 이야기”\n\n#해결된 사건을 미제 사건으로 되돌려 미결로 봉인해 우리의 사랑을 영원으로 남을 수 있게. 불멸의 사랑으로 이뤄질 수 있게\n\n그 사람은 감옥 갈 걸 감수할 정도로 그 사람을 사랑했던 거네\n\n죽을만큼 사랑한거네\n\n————————————————————\n나는 당신만 있으면 너무 행복한데\n당신은 나만으로 부족하고\n살인이 있어야 되고 피가 있어야 되잖아\n-정안(이정현 배우) <헤어질 결심> 中-\n\n#모래알이 바윗덩어리가 되어 결국 나를 가라앉힌다. 마침내 붕괴시킨다\n#내 인생을 망치러 온 나의 구원자, 나의 미결, 나의 결심\n#“가엽고도 가엽구나. 진짜한테 마음을 뺏기다니”\n\n<겉으로 끝나 보이는 수많은 사건들 속 붕괴된 작은 빈틈, 감추고 감추어도 벌어지는, 그 아름다운 미결은 누가 매듭지어 왔을까>\n\n바람이여 안개를 걷어 가 다오\n그 사람은 어디에 갔을까\n안개 속에 눈을 떠라\n눈물을 감추어라\n(정훈희 선생님 1967 안개)\n\n“아직도 내가 그렇게 나쁩니까”\n\n*엔딩 크레딧의 배우의 이름이 주연-조연 순서가 아닌 영화 등장 순서대로 나옵니다\n* 러닝타임은 138분인데, 138이라는 숫자는 영화 속에서 중요한 의미를 담는다.\n\n(위대한 영화를 보았습니다 그렇지만 이 작품은 영화의 슬픔이 잉크처럼 천천히 번져  마.침.내 제 모든 걸 붕괴시켰을 때 별점을 주려고 합니다)\n--------------------------------------------------\n\n#네가 궁금해 찾아 나섰는데 극 길의 끝엔 나를 만나게 되는구나. 내가 널 어떻게 생각했는지 네가 나한테 어떤 존재였는지/ 당신이 날 어떻게 생각해왔는지\n\n연극이 끝나고 난 뒤\n혼자서 객석에 남아\n조명이 꺼진 무대를 본 적이 있나요\n\n#붕괴 崩壞\n무너지고 깨어짐.\n붕괴 위험.\n\n#세상에 존재하는 모든 미결엔 저마다 이야기가 있다\n\n미결 未決\n아직 결정하거나 해결하지 아니함.\n\n————————————————————-\n“세상에서 가장 고통받는 동물이 웃음을 발명했다”\n-독일의 시인, 철학자 프리드리히 빌헬름 니체-\n\n“안개속에 눈을 떠라. 눈물을 감추어라”\n\n“네가 죽였니?”\n-이정현 배우-\n——————————————————————-\n제발 우리 일을 그렇게 말하지 말아요\n\n--------------------------------------------\n“소년과 소녀는 바늘과 실이었지”\n\n\"마침내 나는 완전히 붕괴됐다\"\n형체를 알아보기 어려울 만큼\n산산조각이 나서 이 세상에 왔다 간적 없는 것처럼\n—————————————————————\n그 사람은 어디에 갔을까\n안개 속에 외로이 하염없이\n나는 간다\n\n안개 속에 눈을 떠라\n눈물을 감추어라\n\n-정훈희 안개 (1967)-\n*엔딩 크레딧에 송창식, 정훈희의 듀엣으로 안개가 흘러 나온다\n\n“품위는 어디에서 나오는지 알아요.? 자부심이에요!\"\n\n——————————————————————-\nDecision to leave\n\n“내가 그렇게 나쁩니까”\n“우리 일을 그렇게 말하지 말아요”\n\n#짙어지는 의심\n깊어지는 관심\n\n#내가 애플워치가 없어 사랑을 못하나\n#한번도 만나지 못했던 사람, 이야기\n모든면애서 독보적인 한국역사에 기록될 작품\n\n——————————————————————-\n나 홀로 걸어가는 안개만이\n자욱한 이 거리\n그 언젠가 다정했던 그대의 그림자 하나\n생각하면 무엇하나\n지나간 추억\n그래도 애타게 그리는 마음\n아 아\n그 사람은 어디에 갔을까\n안개 속에 외로이 하염없이\n나는 간다\n간주중\n돌아 서면 가로막는\n낮은 목소리\n바람이여 안개를 걷어 가 다오\n아 아\n그 사람은 어디에 갔을까\n안개 속에 눈을 떠라\n눈물을 감추어라\n\n“당신이 사랑한다고 말할 때 당신의 사랑이 끝났고 당신의 사랑이 끝났을 때 내 사랑이 시작됐다”\n\n#박찬욱은 계속해서 진화한다\n#당신이 인생의 동력으로 삼아왔던 품위와 편견 그것들로부터 헤어질 결심, 하셨습니까\n—————————————————————————\n이걸로 재수사해요. 붕괴 이전으로 돌아가요.\n\n#화양연화와 팬덤 스레드가 떠오릅니다\n\n———————————————————————\n#“마.침.내. 이 엔딩에 도착하려고 그 오랜 시간 영화에 빠진 것처럼”\n-이용철 영화 평론가-\n\n#”그리하여 마침내, 반복해 갈구하며 기억되길 택하다”\n-조현나 영화 평론가\n\n———————————————————————\n\n#미결로 남겨두는게 영원으로 갈 수 있는 유일한 방법\n\n마침내 박찬욱이 우릴 붕괴시켰다 깐느박이 결심하고 쥐어흔들면 이 정도구나  #어떤 면에서 보아도 독창적인 외국 친구가 한국엔 어떤 영화가 있냐 물으면 헤어질 결심이 있다고 말하고 싶을 정도의 무시무시한 감정의 대작\n\n#어쩌면 박찬욱의 최고작\n#당신이 해왔던 모든 편견과 오류를 바로 잡을 수 있다면\n\n#미국엔 이터널션샤인이\n홍콩엔 화양연화가\n한국엔 헤어질 결심이 있습니다\n\n한국인으로서 자부심을 느낍니다\n———————————————————————\n박찬욱 감독님: “김신영은 타고난 천재다” (공감합니다. 이 영화와 너무나 잘 어울리는 탁월한 캐스팅이라 생각합니다)\n\n박하사탕과 기생충, 올드보이, 와이키키 브라더스, 마더와 함께 한국 영화 역사상 최고의 엔딩\n\n정극 연기 분야에서 박해일을 따라잡을 한국 배우가 또 있을까\n\n박찬욱 감독 영화 중에서도 서래는 가장 으뜸으로 주체적이고 아름다운 여성으로 보인다\n\n———————————————————————\n내 모든 것 다 주어도 그 마음을 잡을 수는 없는 걸까\n미소가 없는 그대는 모나리자\n안타까운 시선으로 바라보다 돌아서야 하는 걸까\n눈물이 없는 그대는 모나리자\n추억만을 간직한 채 떠나기는 너무 아쉬워\n끊임없이 속삭이며 그대 곁에 머물지만\n이토록 아쉬워 오오\n정녕 그대는 나의 사랑을 받아 줄 수가 없나\n나의 모나리자 모나리자 그런 표정은 싫어\n정녕 그대는 나의 사랑을 받아 줄수가 없나\n그대는 모나리자 모나리자 나를 슬프게 하네\n안타까운 시선으로 바라보다 돌아서야 하는 걸까\n눈물이 없는 그대는 모나리자\n추억만을 간직한 채 떠나기는 너무 아쉬워\n끊임없이 속삭이며 그대 곁에 머물지만\n이토록 아쉬워 오오\n정녕 그대는 나의 사랑을 받아 줄 수가 없나\n나의 모나리자 모나리자 그런 표정은 싫어\n정녕 그대는 나의 사랑을 받아 줄수가 없나\n그대는 모나리자 모나리자 나를 슬프게 하네\n모나리자\n오 그대는 나의 사랑을 받아 줄 수가 없나\n나의 모나리자 모나리자 그런 표정은 싫어\n정녕 그대는 나의 사랑을 받아 줄수가 없나\n그대는 모나리자 모나리자 나를 슬프게 하네.\n모나리자\n조용필 <모나리자>\n\n원전완전안전 하거든요\n———————————————————\n꽃밭에 앉아서 꽃잎을 보네\n고운 빛은 어디에서 났을까\n아름다운 꽃이여 꽃이여\n\n이렇게 좋은날엔 이렇게 좋은날엔\n그님이 오신다면 얼마나 좋을까 아~\n\n꽃밭에 앉아서 꽃잎을 보네\n고운 빛은 어디에서 왔을까\n아름다운 꽃송이\n\n루-루 루루루루 루-루루\n루-루 루루루루 루-\n\n이렇게 좋은날엔 이렇게 좋은날엔\n그님이 오신다면 얼마나 좋을까\n꽃밭에 앉아서 꽃잎을 보네\n고운 빛은 어디에서 났을까\n아름다운 꽃송이\n\n루-루 루루루루 루-루루\n루-루 루루루루 루-\n\n정훈희 꽃밭에서 (1989)\n\n——————————————————————————————————————\n사진 태우고 내가 녹음한 파일들 다 자우고 그것도 쉬웠겠네요\n좋아하는 느낌만 내면 내가 알아서 다 도와주니까\n\n‘우리 일을 그렇게 말하지 말아요’\n\n우리 일? 우리 일 무슨 일이요\n내가 당신 집 앞에서 밤마다 서성인 일이요?\n당신을 끌어안고 행복하다고 속삭인 일이요?\n\n내가 품위가 있댔죠\n품위가 어디에서 나오는지 알아요?\n자부심이에요\n난 자부심 있는 경찰이었어요\n그런데 여자에 미쳐서 수사를 망쳤죠\n(서래의 웃음)\n\n나는요 완전히 붕괴됐어요\n할머니 폰 바꿔드렸어요. 같은 기종으로\n전혀 모르고 계세요\n\n“저 폰은 바다에 버려요”\n“깊은데 빠트려서 아무도 못 찾게 해요”\n\n——————————————————————————————————————\n사랑한다고 말하는 목소리요. 너무 좋아서 자꾸 들었어요\n\n당신이 나를 사랑한다고 말을 했을때\n당신의 사랑은 끝이 나게 되었고\n당신의 사랑이 끝이 나자\n나의 사랑은 시작되었다\n\n해준 씨, 바다에서 건진 전화\n“그거 다시 버려요, 더 깊은 바다에 버려요”\n\n——————————————————————————————————————\n속삭여 주세요 들릴듯 말듯 그 말을 더 더 더\n그냥 앉아 있어요 지금 만난것처럼 조금만 더 더 더\n짓궃게 생각 마세요 이 맘은 더해요\n언제나 아쉬움이 남아 있어요\n내게 날개가 있다면 그리움을 그릴수 있다면\n날아 가겠어요 보여드리겠어요\n속삭여 주세요 들릴듯 말듯 그 말을 더 더 더\n그냥 앉아 있어요 지금 만난것처럼 조금만 더 더 더\n\n속삭여 주세요 들릴듯 말듯 그 말을 더 더 더\n그냥 앉아 있어요 지금 만난것처럼 조금만 더 더 더\n짓궃게 생각 마세요 이 맘은 더해요\n언제나 아쉬움이 남아 있어요\n내게 날개가 있다면 그리움을 그릴수 있다면\n날아 가겠어요 보여드리겠어요\n속삭여 주세요 들릴듯 말듯 그 말을 더 더 더\n그냥 앉아 있어요 지금 만난것처럼 조금만 더 더 더\n\n(산울림 2005 더.더.더)\n\n------------------------------------------------\n거부할 수 없는 매혹\n처연한 아름다움\n마술처럼 흘러가는 시간\n한 마디로 요물 같은 영화\n\n또, 홀로 존만치 앞서간 박찬욱 감독의 어떤 경지\n-영화감독 김지운\n-----------------------------------------------\n\n꼿꼿하다\n行直하다\n\n[꼳꼬타다]\n\n1.물건이 휘거나 구부러지지 아니하고 단단하다. (고개를 꼿꼿하게 쳐들다)\n\n2.사람의 기개, 의지, 태도나 마음가짐 따위가 굳세다.\n(꼿꼿한 선비의 기질)\n\n3.어려운 일을 당하여 꼼짝할 수가 없다.\n\n4.[꽃꽃하다]\n*꽃처럼 어여쁘디 어여쁘다는 사랑 고백\n\n5.\t品位와 氣品이 있다",
+    "likes_count": 290,
+    "replies_count": 17,
+    "content_code": "m5DP0eR",
+    "user_code": "2mwvgel9JxMa7",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2021-04-15T00:15:46+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "2mwvgel9JxMa7",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "NXnE5POWAyQzG",
+    "user": {
+      "code": "OkexJ72grqdbw",
+      "name": "챈챈",
+      "photo": {
+        "original": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_large-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg",
+        "large": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_large-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg",
+        "small": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_small-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "사랑은 평생 미결사건",
+    "likes_count": 287,
+    "replies_count": 3,
+    "content_code": "m5DP0eR",
+    "user_code": "OkexJ72grqdbw",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-26T22:04:29+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "OkexJ72grqdbw",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "lP0E8mBwAY2bx",
+    "user": {
+      "code": "jae5WKoPK51P3",
+      "name": "Annnn",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/sgVQnFgFupT1Cz0iZmdj1w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlxWVdVMVYwdHZVRXMxTVZBekwzQnliMlpwYkdVdk1UWXlPVGd6TkRjd01qa3dNelExTVRrd05DSjkuTGxRU1I3VmNJOGFuS2JRUzVtWVhyaUUwRS0yZzRTZEhJbWRlWEhtX3FpNA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/deln6syVzFjl99qqZ8d6YQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZkTGIxQkxOVEZRTXk5d2NtOW1hV3hsTHpFMk1qazRNelEzTURJNU1ETTBOVEU1TURRaWZRLkQ1d0pjUnlyekxCT2pEZ0dDRzgzeXpNNHJia2dqSF8tUDkxUk5SZDNvTGM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/i3dG07lkIOcEe1N4autcZA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZkTGIxQkxOVEZRTXk5d2NtOW1hV3hsTHpFMk1qazRNelEzTURJNU1ETTBOVEU1TURRaWZRLkJkRlktZmFxWjR1eVBma3Z2bkhFZEM3aVV4a1dhTkE0OC1hQ0taRXRCQ00"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "무너져야 완성되는 도미노 같은 사랑",
+    "likes_count": 279,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "jae5WKoPK51P3",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T11:05:54+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "jae5WKoPK51P3",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "W4zQrn5665Qw1",
+    "user": {
+      "code": "ZBm5RAJaPvd46",
+      "name": "겨울비",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/U5M3yRZKgdlHEp8XYuSXJQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlhUW0wMVVrRktZVkIyWkRRMkwzQnliMlpwYkdVdk16YzNNakl6TXpZME1Ea3lOVFk0SW4wLko3ZHdPOTdINl9ONVVtcUxrOW5xZmhlVTUydUtYeEM4SFE3NU1Jay00STQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/cTq4AT5JHhOXYvHpqDJA8g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXa0p0TlZKQlNtRlFkbVEwTmk5d2NtOW1hV3hsTHpNM056SXlNek0yTkRBNU1qVTJPQ0o5LjR1bmxTSWRHRXFpNUdDX1ZMbmt2TjhsMktEbW1zSE9zSldaeFVYUlc1YjA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/31SxUJLK-TbSShqpo24otg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXa0p0TlZKQlNtRlFkbVEwTmk5d2NtOW1hV3hsTHpNM056SXlNek0yTkRBNU1qVTJPQ0o5Lkk2Yy0ybG5OUG5VdlZPcVRnVUNGT01YdzJsYUJHYVlZSXNsRmhqeDloc2s"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "모호필름에서 만든, 모호한 안개속에서 쫒는, 모호한 그들의 사랑 이야기\n\n+청불의 박찬욱이 그립다\n+칸의 남주상은 박해일이였어야",
+    "likes_count": 271,
+    "replies_count": 9,
+    "content_code": "m5DP0eR",
+    "user_code": "ZBm5RAJaPvd46",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-23T22:52:25+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "ZBm5RAJaPvd46",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "gwVQxegKxbEB0",
+    "user": {
+      "code": "jae5WRpJPv1P3",
+      "name": "상범",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/4N6YV_ohypO57etLmrmQQQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlxWVdVMVYxSndTbEIyTVZBekwzQnliMlpwYkdVdk1UWTFNemt3TXpFek16WXdOVGN6T0RReE5TSjkuV0JlNFo2UlEtSHNEZVFmenJ1ZmNhVjVTRnZueEtueUtLZHdEc2c5OERxcw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/0NHGlUmam7Qb7A-lvrgMdw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZkU2NFcFFkakZRTXk5d2NtOW1hV3hsTHpFMk5UTTVNRE14TXpNMk1EVTNNemcwTVRVaWZRLmUzNFphZzRyZXZnclBQdGJRbjFCdThyQ1VqWF8tNWZWeGhsclIwTWFQWkk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/WuZeDpb94PYYHVD5DqOSrw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZkU2NFcFFkakZRTXk5d2NtOW1hV3hsTHpFMk5UTTVNRE14TXpNMk1EVTNNemcwTVRVaWZRLms2d0Vaek15Z3didEpoUUZqYUtGQ3U1R25Hal95bWg1NHVhQnJpUmdFcjA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "'당신의 사랑이 끝났다고 했을 때 내 사랑은 시작되었어요'\n\n나는 밀물에 도망쳤고 썰물을 향해 한참을 달려갔어요. 뒤늦게 형체 없던 사랑을 발견하곤 자옥한 안갯속을 헤집고 들어갔죠. 우리의 속도가 달랐음을 깨달았을 때 '마침내' 당신은 내게 미결 사건으로 남겨졌어요. 저 또한 붕괴된 채 잊혀지지 않는 미해결 사건 같은 존재가 되고 싶어요. 당신이 영원히 나를 잊지 못하도록. 끝내 끌어올리지 못한, 히치콕의 <현기증(vertigo)>에 등장하는 주인공으로 남고싶어요.",
+    "likes_count": 265,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "jae5WRpJPv1P3",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T16:20:32+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "jae5WRpJPv1P3",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "GO6MZzBwg9MNx",
+    "user": {
+      "code": "DgwxAN8KNqrMj",
+      "name": "미드나잇인파리",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/_1nHJuvq2U0Qqc4wIYsPtg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlFWjNkNFFVNDRTMDV4Y2sxcUwzQnliMlpwYkdVdk1UWXpNRFEyT1RBek5EZ3pPRFU0TXpVMU1pSjkuNEJnYy0zVFdkNnQ1NDNrTmFPbk03Mk82aUxuWWprSk1Welhwb19xT2ZmMA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/_4nZ_wehWGuRdmI9uH4cgA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGT09FdE9jWEpOYWk5d2NtOW1hV3hsTHpFMk16QTBOamt3TXpRNE16ZzFPRE0xTlRJaWZRLkFpcC1YQ2liTVl5RWlBaENNRE1UcmY5UXBmMmYyVGQ5MzItckVxeDRFVXc",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/5yy5vrxynYdPNzbRJ2nT2w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZSR2QzZUVGT09FdE9jWEpOYWk5d2NtOW1hV3hsTHpFMk16QTBOamt3TXpRNE16ZzFPRE0xTlRJaWZRLmxuNDd2eEN1Wmp0aTd4Z0pGWlZzSDl6SGxNTHVXeHEweV9CYXBYb240NG8"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "헤어질 결심으로서 사랑을 확인한 그들",
+    "likes_count": 250,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "DgwxAN8KNqrMj",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-24T01:04:17+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "DgwxAN8KNqrMj",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "PkvE69RnZLQpg",
+    "user": {
+      "code": "Qgy51rmX7xDjk",
+      "name": "이건영(everyhuman)",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/cdrarbNhXPU_BVwy5dwIKQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlSWjNrMU1YSnRXRGQ0UkdwckwzQnliMlpwYkdVdk1UWTVPVFk0TXpNek1UUXhPREkxTmpVME5pSjkuQlcwVGdRam1BUEVIRXJMTVdmYlFVeWNjXzQzbmh5Skl5MFNtMW00ZDR0aw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/rHNePg3Zx5t5vQJDSH7qnA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRGeWJWZzNlRVJxYXk5d2NtOW1hV3hsTHpFMk9UazJPRE16TXpFME1UZ3lOVFkxTkRZaWZRLmM2QmUzM2xVZHE0eFhKOURNcndRRmllTjVrUUdYN2t0QzBmd2hmcEthMHM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/d2h0ehUfHgyThxKcCeXcPA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRGeWJWZzNlRVJxYXk5d2NtOW1hV3hsTHpFMk9UazJPRE16TXpFME1UZ3lOVFkxTkRZaWZRLlpoZWJBVzA2MTQ5dVZsck5Ka3VPSUVuMzI0cFk1OC1ROHU2S3RiUjhMV1E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "시작과 끝이 둥그스름 맞물린 잔영의 시간.",
+    "likes_count": 249,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "Qgy51rmX7xDjk",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T13:46:23+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Qgy51rmX7xDjk",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "gwVQxegk5lEB0",
+    "user": {
+      "code": "87Gv7NeJR1qE6",
+      "name": "이민희",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Xq0rxbOB0qLl83Lu8ZsjCQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0TjBkMk4wNWxTbEl4Y1VVMkwzQnliMlpwYkdVdk1UWXpNRFE0TVRrM056RTJNelUyTVRJeE5pSjkuVlVoRm4tblZaRmh5dWJJdTVfd3NXNTZ1UU8wTUgzdmN6Vkl3aFE0enJVSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/jkC-NVMGRXUMXi1obo4BOw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkT1pVcFNNWEZGTmk5d2NtOW1hV3hsTHpFMk16QTBPREU1TnpjeE5qTTFOakV5TVRZaWZRLkxTSWFCc1hlOUk1RHNqeU51OXhzakVCQjVhVndjUTYwR18yZE42MUp2LWM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/q5O4OeIv2DX3fZAUwQRp6g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkT1pVcFNNWEZGTmk5d2NtOW1hV3hsTHpFMk16QTBPREU1TnpjeE5qTTFOakV5TVRZaWZRLjM0UTh6bGFUeXlKTGlWS1lpQVhJb0JYZTRXZHF3aGNWQ1FkSk9GWTEySnM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "무너질 일만 남은 모래성처럼. 내려갈 일만 남은 정상의 풍경처럼.. 유한한 완결, 마침내 영원을 위한 미결의 역설.\n잊혀질까 애처로운 파도 소리가 먹먹하다..  220630",
+    "likes_count": 244,
+    "replies_count": 4,
+    "content_code": "m5DP0eR",
+    "user_code": "87Gv7NeJR1qE6",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T03:03:27+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "87Gv7NeJR1qE6",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "wlL2DvyddkQyZ",
+    "user": {
+      "code": "WRQxDdjjGxdl9",
+      "name": "오보람",
+      "photo": {
+        "original": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_large-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg",
+        "large": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_large-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg",
+        "small": "https://an2-glx.amz.wtchn.net/assets/default/user/photo_file_name_small-ab0a7f6a92a282859192ba17dd4822023e22273e168c2daf05795e5171e66446.jpg"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "폭력 없이도 잔혹하고 섹스 없이도 야하다.",
+    "likes_count": 227,
+    "replies_count": 1,
+    "content_code": "m5DP0eR",
+    "user_code": "WRQxDdjjGxdl9",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-05-24T08:22:51+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "WRQxDdjjGxdl9",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "kpeQK8W8VOEYN",
+    "user": {
+      "code": "Pznx9wAYZv761",
+      "name": "영화보고 밥먹고 커피마시고 산책해요",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Tp-f8KOMfvkdQAIp5UyHmA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlRZW01NE9YZEJXVnAyTnpZeEwzQnliMlpwYkdVdk1UWTBOREEwTkRJM05EWTVOVGN5TVRnME9DSjkuR2ZHdW1maTBuSmVFaExoTm9sVlYxY0l4ZGkzQWNEOUN5a1BWdUxuMWZRUQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/l-ukxM57HQ8_Ck5qXKyRBg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVSHB1ZURsM1FWbGFkamMyTVM5d2NtOW1hV3hsTHpFMk5EUXdORFF5TnpRMk9UVTNNakU0TkRnaWZRLjhJSnR3V1EwSDdlZ2xvSFFDVld4azRkYnZpYjhPXzE2aVBqbzl4NXlXcW8",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/uiHYdbXKL1wJ3-gVTb-Fog.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVSHB1ZURsM1FWbGFkamMyTVM5d2NtOW1hV3hsTHpFMk5EUXdORFF5TnpRMk9UVTNNakU0TkRnaWZRLjlTeHdTY3hzN05KZm5PalNrU1I2NjN4NXdUcGdWeHJSbVBpcDJVazZpY1E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "마침내.. 박찬욱식 로맨틱 코미디.\n마침내.. 치명적인 탕웨이.\n그리고.. 김태용은 ㄱ객ㄲ..",
+    "likes_count": 225,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "Pznx9wAYZv761",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T20:32:13+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Pznx9wAYZv761",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "W9bEB16eWLQpZ",
+    "user": {
+      "code": "OkexJZgB4xdbw",
+      "name": "Dh",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/jV2gX5cUtj26gIwjSKqsTQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlQYTJWNFNscG5RalI0WkdKM0wzQnliMlpwYkdVdk56RXhPVFk0T1RZNU5qQTNOVGd4SW4wLnMyeHhYejVqRlN3Y3hVVnRmU3M4UzlMNWg0dDMzLV9jb1hGemp0TjdBQXM",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/maf-WKApBudjBApuIC8juA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwYVowSTBlR1JpZHk5d2NtOW1hV3hsTHpjeE1UazJPRGsyT1RZd056VTRNU0o5LjZPMWZoRTBRbE4yVE8xYjBVVmlUSi02bXNYajVOcE1EMFY2M2NXZ21SUVU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/KgAkK1z8dthHOc63Wy-PVg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZUMnRsZUVwYVowSTBlR1JpZHk5d2NtOW1hV3hsTHpjeE1UazJPRGsyT1RZd056VTRNU0o5LjBCVTFVNl9YZk4zYWg5d3EwMWpzam5nV0hSX3dFc21lMzVaS3plUFQ4WHM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "한치 앞도 볼 수 없는 안개처럼 나는 너에게 未决로 남고 싶었다, 영원히\n#제목과 달리 헤어지고 싶지 않은 영화\n#아득하고 아련하다\n#만조&파고\n#메가박스 성수 MX관 메가토크\n.\n.\n.\n-이전 코멘트\n제75회 칸 국제영화제 감독상 수상!!!\n극장에서 하루빨리 볼 수 있길 😆 기대하겠습니다!!",
+    "likes_count": 215,
+    "replies_count": 4,
+    "content_code": "m5DP0eR",
+    "user_code": "OkexJZgB4xdbw",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-04-14T19:19:52+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "OkexJZgB4xdbw",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "j7kQzYgK3qMl4",
+    "user": {
+      "code": "8BRve6JpL56VJ",
+      "name": "이혜원",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/3aiMi5Ar1LruzSkrWJ1WtA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0UWxKMlpUWktjRXcxTmxaS0wzQnliMlpwYkdVdk1UWXlPVGd3TlRBNU1EQTFNVFk1TkRBNE1DSjkuUDB3ZFI3SDZIQmlCTE92eUpvTnNCN2IxTlczVXZ4WWRwLV9oUG0zTzloSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/ECN5RqflRGH4EDrzY8oI4A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRUpTZG1VMlNuQk1OVFpXU2k5d2NtOW1hV3hsTHpFMk1qazRNRFV3T1RBd05URTJPVFF3T0RBaWZRLjV4SldJN1pwVm1sVVBvbm11WEJxZmNuVG5udDVRTVhmbTVFQmpiaE4yNnM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/tnaqauGu8lsm8cHq3p0BQw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRUpTZG1VMlNuQk1OVFpXU2k5d2NtOW1hV3hsTHpFMk1qazRNRFV3T1RBd05URTJPVFF3T0RBaWZRLjEyQ25qdzNIejBkLTZLQVkxYkk4VDc0ME9OM3NNSkxMeFZSZ3hYcjFHNmc"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "배운 변태의 농간에 이번엔 못 넘어갔다.\n짐작할 순 있지만 대사가 잘 안 들리는 부분도 적지 않고\n전작들처럼 미장센이 이쁘지도 않고\n음악은 중구난방. 고전 스릴러풍으로 넣었다가 정훈희 안개 같은 노래는 전부터 감독취향이고 나머지는 애매하다. 한가지 분위기로 모아지는 게 없음. (그나저나 정훈희 언니 목소리는 진짜 곱다)\n\n로맨스가 설레였냐면 것도 아닌게.. 탕웨이가 한국말을 어눌하게 해야하니까\n그 여자의 감정이 잘 전달이 안되고\n표정이 풍부한 역할도 아니고.\n박해일의 표정으로 설렐 수도 있었겠지만\n너무 일찍 반하는 바람에 결국 수사에 몰입하지 않는 경찰로 보이는 게 강했다.아님 버릇이 원래 그런 사람이거나. 뭐 지독한 가정폭력 피해자이니 동정심 호기심이 섞여 관심도가 올라갔대도. 거기다 멋진 남주 공식에 끼워맞춘\n,꼭 필요한 말만 하기+아내에게 순종+사랑하는\n사람에게 알아서 한발자국 배려하기+자신이 죽어가더라도 질척대지 않기가\n좀 지루한 캐릭터로 느껴졌다.\n이정현도 마찬가지.똑똑한데 헛다리 짚고 눈알 굴리지만 눈치 없는.+잠자리는 여자쪽이 더 원함. 이런 뻔한 거.\n\n\"저 얌전한 여자가 살인을 했을까 안했을까\"는 오래되고 익숙한 수사물 설정이고,\n정영숙 월요일 할머니가 \"어쩔땐 월요일이 빨리와.\"하는 것도 너무 많이 흘린게 아닐지.\n\n한번은 그렇다쳐도 두번째도 그런 놈을 고른 안목도 별로고.\n고경표가 다 때려부순 연출은 누가 부쉈건 왜.\n사랑한다고 했다vs아니다 한적 없다\n는 왜 나온건지 궁금.\n\n무엇보다\n한 장면도 그냥 지나가지는 않겠다는 듯 놀래키려는 강박이 우리나라 거장감독들의 클리셰로 느껴졌다. 그때 땅에 뿌려진 것 마저 거북이여야 하는.\n그리고 유머가, 웃기는 애매한데 시도를 부지런히 하니까 어색해진다. 안 웃겨도 되는데.\n\n죽은 자의 눈 시점에서 눈알 위로 개미가 기어다니는 장면까지는 재밌었는데,\n멀리서 보고 있는 상황을 바로 옆에서 말하는 걸로 촬영한 장면들, 사건 당시의 시간과 장소로 박해일이 들어가 있는 장면들같은 기법은 신기하거나 신선하지 않은데 꽤 많이 쓰더라.뭔가, 더 공들이기는 귀찮은데  평이하게 전달하기는 싫다는 강박으로 보이는 여러가지 기술적인 잔재주가 서사의 자신없음을 가리려는 것처럼 다가왔다.\n\n그리고오...\n고경표, 박정민, 박용우에게 무슨 악감정이라도 있는건지\n되게 매력없는 단역으로 사용함.\n그들이야 아이고 감사합니다 하고 참여했겠지만. 최근 우리들의 블루스가 캐스팅이 그랬지 ㅋㅋㅋ\n\n고경표는 탕웨이를 주는거 없이 싫어하고\n김신영(고개를 움직이는 버릇 때문에 콩트 연기 보는 것같이 아슬아슬 했음)은 꽤 가엽게 보는 대비가 재밌다./\n내가 품위있는 형사가 될 수 있었던 건 자부심 때문이었다는 대사도 좋았다./\n남편 어딨는지 대라며 탕웨이를 폭행하던 배우 중국어 포함 연기 좋더라./\n원전 안전하다는 코멘트는 공익광고인가요;;(우려만큼 위험하지도 않고 다른 선택지도 적다는 얘긴 나도 들음)/\n아.목소리.두 주연배우의 목소리에는 반했다.얼굴은 노",
+    "likes_count": 205,
+    "replies_count": 13,
+    "content_code": "m5DP0eR",
+    "user_code": "8BRve6JpL56VJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-01T01:08:07+09:00",
+    "user_content_action": {
+      "rating": 6,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "8BRve6JpL56VJ",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "W4zQrngxkJQw1",
+    "user": {
+      "code": "g64qzNkGeqER0",
+      "name": "김현승",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/dLYUbWGiUfVoJAeN0FMIpg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTluTmpSeGVrNXJSMlZ4UlZJd0wzQnliMlpwYkdVdk1UWTBOalV5T1RneU16UXdNRGt4TVRBd05pSjkuRjV6N1dOM1pIdlptYURvZ0NIR09mTFJNNWtYWGRJV0taYnNrZDJhVnZacw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/TQlK6jXp4vpGKa2-z7DchQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hwT2EwZGxjVVZTTUM5d2NtOW1hV3hsTHpFMk5EWTFNams0TWpNME1EQTVNVEV3TURZaWZRLkFEUnk0b20zTVdPRG80QS1UdmRrMEhaZXVLQlFJR2lJdU5qMjU3dDdUZ2c",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/rm49OMn9TQg23txoLwdINg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaelkwY1hwT2EwZGxjVVZTTUM5d2NtOW1hV3hsTHpFMk5EWTFNams0TWpNME1EQTVNVEV3TURZaWZRLkIxWlhSSk1mRnVENzhTc3JRcjd2NXZpckx0eHc5V3g5OHNYcDFMSTgtRm8"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "안개 한 모금을 닮은 그 사람이 나를 바라볼 때.\n\n주인공 해준(박해일)과 아내 정안(이정현)의 기계적인 성관계가 드러날 때부터 일탈의 욕구가 스크린에 내재된다. 불륜 행위는 손쉽게 배설로서의 카타르시스를 일으킨다. 모든 스크린 속 일탈은 현실의 지루함을 해소하기 때문이다.\n\n<헤어질 결심>은 두 사람의 사랑에 파괴력을 부여하기 위해 모든 연출을 총동원한다. 빈번한 줌인&아웃, 액션 매칭 등 자유로운 카메라의 움직임이 대표적이다. 이 같은 카메라의 움직임은 이전의 장면을 그대로 차용하되, 전혀 다른 내용을 전달하는 방식과 함께 우리가 익히 알고 있는 박찬욱의 전매특허다.\n\n후각 심상의 강조는 전작들과 구분되는 <헤어질 결심>만의 특징이다. 일반적으로 박찬욱의 영화는 피와 섹스의 광적인 결합을 기대하게 만든다. 영화에서 후각은 두 자극을 연결하는 매개체로서 작용한다. 냄새 좋은 핸드크림, 민트 사탕, 피비린내도 좋은 예시지만 담배의 메타포는 일탈의 욕구를 흡연욕으로 치환하며 카타르시스를 완성한다.\n\n기계적인 섹스를 요구하는 아내는 흡연을 병적으로 혐오한다. 반면 매력적으로 다가온 '새로운 여자' 서래(탕웨이)는 흡연자다. 해준이 “담배 피고 싶다.” 말하다가 아내에게 등짝을 맞은 직후 서래에게 \"자요?\"라고 연락하는 장면이 결합한다. 이로써 서래는 불건전하고 중독성 있는 쾌락과 병치된다.\n\n이때 인물들의 관계를 토대로 반복해서 언급되는 이포의 안개를 받아들일 수 있다. 해준의 아내는 곰팡이만 일으키는 안개를 싫어하고, 서래는 안개를 좋아한다. 안개가 처음으로 스크린에 모습을 드러낼 때 후방에 담배를 피는 인물이 배치된다. 직접적으로 흡연을 언급하는 대사와 안개에 흩날리며 하나가 되는 담배 연기는 결코 우연이 아니다. 처음이 어렵다는 점에서 담배는 살인을 닮았다. 해준은 살인과 폭력에 집착한다. 담배 연기(안개)로 가득한 이포에 발을 디딘 순간부터 해준의 붕괴는 예정되어 있었다.\n\n붕괴의 과정은 두 가지 특징적인 연출을 수반한다.\n1. '눈' POV가 반복된다.\n2. 해준의 시선, 상상은 철저히 스크린에 시각화된다.\n\n<헤어질 결심>의 POV는 일반적으로 ‘보여짐’의 대상이 되는 물체가 시선의 주체가 된다는 점에서 독특한 의미를 형성한다. 대부분의 영화는 형사가 바라본 시신을 스크린에 옮기지만, 이 영화는 시신의 시선으로 형사를 바라본다. 첫 번째 시신의 시점 샷은 “죽은 자가 마지막으로 본 장면”이라는 대사와 함께 형사의 사명감을 나타낸다. 그러나 서사가 진행되며 형사의 사명감을 표상하던 POV의 의미는 급격히 변질된다.\n\n또 다른 시선의 주체는 핸드폰이다. ‘인물 → 핸드폰’이라는 일반적인 시선의 방향은 이 영화에서 때로는 ‘핸드폰 → 인물’로 역전된다. 해준의 얼굴에 비치는 문자 메시지는 핸드폰과 그 너머의 여성이 남자에게 미치는 영향력을 보여준다. 쌍방향의 시선은 상호적인 작용을 담고 있다.\n\n이러한 상호작용을 염두에 둔 채 서래의 언어 습득 과정을 바라보면 흥미로운 추론이 가능하다. 서래가 드라마를 바라볼 때, 드라마 또한 그녀를 바라본다. 작용의 주객이 고정되어 있지 않음은 그녀의 발화를 통해 드러난다. 영상 속 대사가 누군가에 의해 현실에서 똑같이 구현•실체화된다면, 시선과 그에 따른 작용의 일방향성은 붕괴한 셈이다.\n\n발화의 힘은 영화의 종반부에서 다시금 강조된다. 서래의 사랑은 영화 내내 의심받는다. 그러나 그녀의 마음이 흔들린 것도, 관객이 그녀의 마음이 진실됨을 알게 된 것도 모두 핸드폰에 녹음된 해준의 ‘발화’ 덕분이다. 이때 <헤어질 결심>의 두 번째 연출이 빛을 발한다.\n\n해준의 상상은 현실이 된다. 정확히 표현하자면, 그의 시선과 상상은 전부 스크린을 통해 시각화된다. 핸드폰에 녹음된 ‘사랑의 말’도 마찬가지다. 분명 녹음기를 틀었음에도 장면이 재생된다. 이전의 장면을 반복해 전개를 뒤엎는 것은 박찬욱 감독의 오랜 특기이다. 그런데, 이번엔 좀 다르다. 플래시백의 형태가 아닌, 틀을 그대로 드러낸 채 영화를 재생하는 듯한 연출은 ‘영화적 체험’을 인지시킨다.\n\n영화적 체험은 여자를 찾아 만조에서 허우적대는 남자의 시퀀스로 마무리된다. 서래의 죽음은 직접적으로 드러나지 않았다. 관객들은 그저 전후 맥락과 그녀의 죽음을 암시하는 영화의 발화, 문법을 통해 추측할 뿐이다.\n\n바닷가의 해준을 담은 극단적인 로우 앵글은 죽은 자의 시선과 두 발 아래에 (있음직한) 서래의 시선을 동시에 상기시킨다. 사명감과 사랑 사이에서 혼란스러워하는 해준의 고뇌가 담긴 이 이미지에서 더 이상 서래의 실제 죽음 여부는 중요하지 않다. 사랑해선 안 되는 누군가를 보며 가슴이 들끓을 때, 관객은 이 바다의 이미지를 떠올린다. 관객이 영화를 바라보듯, 영화도 관객을 바라보기 때문이다.",
+    "likes_count": 201,
+    "replies_count": 7,
+    "content_code": "m5DP0eR",
+    "user_code": "g64qzNkGeqER0",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T02:58:48+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "g64qzNkGeqER0",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "XpeMJARYko2Jn",
+    "user": {
+      "code": "dP8v6rDD7kvWe",
+      "name": "봄날",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/afQG0_WqIYlHXjwybQWJCQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlrVURoMk5uSkVSRGRyZGxkbEwzQnliMlpwYkdVdk1UWXpNRFU0TURnek9UWXlOalU1TURRMk5DSjkudF9kTXRxVXlEMzludlRnVVZscndiX3k1VnRJOEFMd3FSY3dOWTVobzc0Zw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/BJZC_azVE14B8_13uTUjag.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaRkE0ZGpaeVJFUTNhM1pYWlM5d2NtOW1hV3hsTHpFMk16QTFPREE0TXprMk1qWTFPVEEwTmpRaWZRLkVyMW9aeUwtdDJGRlpIR0JsVE1YWHBxRnRwalJBOFdqeU1USEdMMnhITnM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/iYSrrIUTCeNeqRgn0MeNuA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZaRkE0ZGpaeVJFUTNhM1pYWlM5d2NtOW1hV3hsTHpFMk16QTFPREE0TXprMk1qWTFPVEEwTmpRaWZRLmNJbWNOUUdCZkJPREJUVUEwT0RJazRYMzlfbXVhNS1jVDkzZmxSZFQzYUE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "영화학도가 사랑할 영화가 나왔다\n\n영화를 보고 나왔다\n아무것도 손에 잡히지 않을 밤이다\n누군가가 만들어놓은 세계에 내가 빠져드는 게 아니라 영화가 내게 달려들어왔다\n아직도 마음속에서는 영화가 걸어다니며 내는 발자국 소리가 울린다\n이 영화는 끊임없이 장면이 재생되는 묘한 마력을 가지고 있다. 분명 누군가는 오늘 내렸던 세찬 비처럼 영화가 주는 정서에 흠뻑 물드리라",
+    "likes_count": 199,
+    "replies_count": 5,
+    "content_code": "m5DP0eR",
+    "user_code": "dP8v6rDD7kvWe",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-23T22:01:06+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "dP8v6rDD7kvWe",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "boY2lJgJbOQWO",
+    "user": {
+      "code": "nb4xkEGKbvOAz",
+      "name": "블루",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/FHJ8aCeq-5y3lTTzvxqgWQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1WWpSNGEwVkhTMkoyVDBGNkwzQnliMlpwYkdVdk1UWXpNREE0T0RjNE9ESTNPVGswTnpjM05pSjkuY01kLTJXa2t2ZDZPVmw1VDR2dFIzb0NhREhwZjVncHhxM2RWS05WOHg2QQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/53qu5Sn3I84kVcZmRT8Lgg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibUkwZUd0RlIwdGlkazlCZWk5d2NtOW1hV3hsTHpFMk16QXdPRGczT0RneU56azVORGMzTnpZaWZRLmluX3Z5WW4zVkZGYWJTOVo1QmN2ZUtCZEtLRDhUSmRUZmhSczJrbVNjVEE",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/2L7SBYl1YUwt19AEEEkKAw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZibUkwZUd0RlIwdGlkazlCZWk5d2NtOW1hV3hsTHpFMk16QXdPRGczT0RneU56azVORGMzTnpZaWZRLnhqdk0tZkRSV1lTN1NCcmMwWVB1eVdLdEpmYXNSSi16LVZJbm1icEF1VHM"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "절절한 사랑을 하면서 '나는 사랑이 뭔지 모르나 봐요' 를 울면서 부를 것 같은 이들을 위한 영화. 사랑의 시작과 끝을 의도하지 않은 곳과 때에 겪느라 자부하던 자신을 거듭 배반하고 잃어버린적이 있는 이들을 위한 영화.\n그러니깐 내 자존심이란 것은 겉으론 단단하지만 니가 와서 파내면 금방 구덩이가 생겨버리는 백사장인것이다. 나를 모래성 부수듯 부수고 맘속 깊은 곳으로 자취를 감춘 사랑이었던 너의 기억을 떠올리면 꼭대기에서 떨어질듯한 아찔함이, 덮칠 것처럼 일렁이는 바다를 마주하는 먹먹함이 있는 것이다. 이렇게나 놓지를 못하겠는데 합일하는 것이란 왜이리도 어려운가, 왜 지는 태양이 가장 붉고 비로소 눈에 담기는가. 이 모든 것들을 너도 그랬을까. 지나고 보니 사랑이었구나 싶은 그때를 헤매이게 하는 필름",
+    "likes_count": 194,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "nb4xkEGKbvOAz",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T23:55:49+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "nb4xkEGKbvOAz",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "WzO2gaX0vAQXZ",
+    "user": {
+      "code": "jae5W4GPGx1P3",
+      "name": "다현",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/n-ls9FSR9zGn7SiMpyVL2Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlxWVdVMVZ6UkhVRWQ0TVZBekwzQnliMlpwYkdVdk1UY3dNVGt6TmpnME16WTVOekUxTURjME5pSjkuT0QxQll5cGU4Rng2MTJNSU1XU3pwa2pZVVRSQUhMQUJDYmdad0lxcC1WQQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/3Iy6QfTwSxfizKAcFBCoHw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZjMFIxQkhlREZRTXk5d2NtOW1hV3hsTHpFM01ERTVNelk0TkRNMk9UY3hOVEEzTkRZaWZRLlRNbzBTbjZBYW55ODk0QUZ0RWVpRXEwYVNrbVlGSi1MZXlEa21GT3I0X3c",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/NcEXfREPNvFV0OaCmuE5mA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZjMFIxQkhlREZRTXk5d2NtOW1hV3hsTHpFM01ERTVNelk0TkRNMk9UY3hOVEEzTkRZaWZRLlQ2cFptV3pMTm5yc2IySmRHSTlqUFRfVlVzTVd6d0J3dE5GR2NYQkZUZDA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "불륜을 안넣으면 영화를 못만드세요?\n\n+\n불륜조장이라고 한 적 없습니다.\n불륜을 안넣으면 영화를 못만드냐고 했지..\n그리고 영화마다 느끼는 바가 다를 수 있는건데 왜 굳이굳이 제 코멘트에 들어와서 \"이 매력적인 영화를 불륜조장이라고 하냐 이 예술도 모르는 것아\" 라고 하시는 거죠..?\n참 이상해요? 저는 이 영화를 재밌게 봤다는 사람들한테 아무~런 말도 하지 않았고 그들을 정말 존중하는데\n그들은 자꾸 나에게 이 불륜은 하나의 예술이라며 이 예술을 받아들이라 강요하네요..참..희한하죠?",
+    "likes_count": 193,
+    "replies_count": 29,
+    "content_code": "m5DP0eR",
+    "user_code": "jae5W4GPGx1P3",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-03T00:50:24+09:00",
+    "user_content_action": {
+      "rating": 1,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "jae5W4GPGx1P3",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "69oMv7gzx9Qal",
+    "user": {
+      "code": "jae5WAOEXq1P3",
+      "name": "뎅쥬",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/6ByOSZlBomjLgC6lFt5OMA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlxWVdVMVYwRlBSVmh4TVZBekwzQnliMlpwYkdVdk1UWXlPVGd4TWpFeE5UTXlOekF6TmpFMk1DSjkuVlhJck9ia1JtZXExV2R1VWIzdE9ZWHZvQVFwM0ZEbDRlbWkycm1XNnpSNA",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/hmKpDvVEqi3aw0hpSlbW2g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZkQlQwVlljVEZRTXk5d2NtOW1hV3hsTHpFMk1qazRNVEl4TVRVek1qY3dNell4TmpBaWZRLmF0cFlFQjRjYlZzamVVRFRYTXhwajd5QS1rMzA4RlFhUGU0dDFVeWtMRE0",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/oqCfEmj0yJTmLJlBTASbXA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZhbUZsTlZkQlQwVlljVEZRTXk5d2NtOW1hV3hsTHpFMk1qazRNVEl4TVRVek1qY3dNell4TmpBaWZRLm95b0tIdnlIMTRTNUN3TWxnbkZFSHNvZlRvSi1uUlRWdGpHUUE1TEdrbkU"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "박찬욱과 헤어질 결심",
+    "likes_count": 178,
+    "replies_count": 1,
+    "content_code": "m5DP0eR",
+    "user_code": "jae5WAOEXq1P3",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-02T22:46:05+09:00",
+    "user_content_action": {
+      "rating": 1,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "jae5WAOEXq1P3",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "boY2lJgxkjQWO",
+    "user": {
+      "code": "JgkqlbDM45X0b",
+      "name": "지용",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/Is2METAvYBj-XUG-aoJBmg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLWjJ0eGJHSkVUVFExV0RCaUwzQnliMlpwYkdVdk1UWXlPVGsyTXprMk1UUXhNamsyTVRjNU1pSjkuemR2TVRuanNlSWxlYkZTWkZoODJzRjFrZzZtcVRmbjJWUzFzaEdfQ2tvZw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Zrliji0m1y1nW-F_ZkwtNw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4aVJFMDBOVmd3WWk5d2NtOW1hV3hsTHpFMk1qazVOak01TmpFME1USTVOakUzT1RJaWZRLlpVUUFQRW9QUmZ3VHphbjgzdmtPR2lfTmxGU2RUZU9GMVNROFJkUTlSX00",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/G0BI02Tc-QNNanVdQcTmpw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRyY1d4aVJFMDBOVmd3WWk5d2NtOW1hV3hsTHpFMk1qazVOak01TmpFME1USTVOakUzT1RJaWZRLjlMWVBCQ1VZaUY1M1I3MmdtclpXQWcwbVo4ZDh5aTMwSmlIR2ZIOGlialE"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "이 기묘한 사랑 이야기를 곱씹으면서 생긴 나의 궁금증은 아주 엉뚱한 곳에 있었다.\n\n어째서 정안은 과학자여야 했을까.\n\n그리고 마침내! 그 이유는 아마도 과학자와 경찰이 추구하는 근본적인 가치의 속성이 동류임에 있지 않을까 라는 결론에 이르렀다.\n과학자는 위험 시설을 점검하고 불안 요소를 제거하여 사회 안전을 도모한다. 경찰은 사건을 조사하고 범죄자를 구속하여 시민의 안전을 지켜낸다. 그 과정에는 한치의 오류도 허용되지 않는 객관적이고 명료한 근거를 필요로 하는데, 아주 작은 실수에도 방사능이 유출되거나 살인자와 같은 강력범을 사회에 방치하는 위험한 결과를 초래할 수 있기 때문이다.\n그들의 대의는 '시민의 안전' 이지만 추구하는 공통된 가치는 데이터를 통한 프로세스의 정립과 검증, 즉 어떠한 '명료함'이다.\n\n정안과 해준은 서로의 동류였고 적어도 정안은 완전히 그렇게 믿고 있었다. 그들이 서로의 분야에서 좋은 성과를 이루고 있다는 것은,(신문에 실릴 만큼 저명한 인사/최연소 경감) 그들은 적어도 '대외적으로는' 서로를 배반하지 않는 삶을 살고 있다는 의미를 가질 것이다.\n이런 성과는 어쩌면 그들 스스로가 느끼는 자부심 이상으로, 서로의 관계를 유지시켜주는 하나의 든든한 기둥과도 같지 않았을까. 마치 이상적인 동반자와도 같은 모습일 테니.\n\n하지만 해준의 내면엔 정안이 가지고 있지 않은 전혀 다른 형태의 욕망이 자리하고 있었다. 그 미지의 욕망은 스스로도 자각하지 못하여 욕구 불만, 모종의 결핍으로 이어져 불면증을 야기하고 점점 더 심해져 간다. 깨끗한 집안 어느 한구석에 어느샌가 피어난 곰팡이처럼.\n\n극이 진행됨으로써 드러나는 그의 욕망은 피와 살이 난자하는 잔혹한 현장을 대면하는 것에 있다. 그로써 미스테리의 진실을 밝혀 성취하거나, 미결로 남아 자신을 고통의 쾌락에 빠뜨려 살아있음을 느낀다.\n이것은 오프닝에서 해준이 마치 살인이 없어 무료하다는 듯한 말과 살인 사건이 벌어지자 기다리던 택배가 도착한 것 마냥 생기 넘치게 뛰어가던 그의 모습, 그리고 정안의 '당신은 피와 살인 없인 살 수 없다'는 대사를 통해 알 수 있게 된다.\n위 언급한 '고통의 쾌락'은 극 중에선 직접적으로 묘사되지 않아 짐작할 뿐이지만 해준과 서래의 초기 설정이 마조히스틱/사디스틱한 인물이었음과 극의 결말을 상기해 보면 상당히 그럴듯한 가정으로 보인다. 아마 각본을 대중 친화적으로 수정하면서 없앤 설정이 아닐까.\n어쨌거나 해준과 정안의 균열은 여기서부터 시작된다.\n\n정안은 전술했듯 명료함을 추구하는 사람이며 극 중 언행에서도 끊임없이 데이터 친화적인 사고방식을 내보인다. 부부가 매주 갖는 의무방어전은 그녀에게 단순 감정의 영역 이상으로 이미 이혼율 60% 확률을 가진 그들 부부에게 추가적인 55%의 확률을 더하지 않기 위해(섹스리스) 펼치는 일종의 리스크 관리처럼 보이며 관계 중에도 섹스의 의학적 효능같은 실리적인 부분을 언급한다. 2부에서의 석류와 자라도 같은 맥락.\n그녀는 위험 요소를 멀리 하고 통계적으로 검증된 돌다리를 건너는 사람이며, 반대로 해준은 직업적 사명(명분)과 생의 감각(개인적 욕망)을 위해 한 치 앞을 알 수 없는 안개 속으로 끊임없이 자신을 던지는 사람이다.\n사회적, 대외적으로는 동류지만 안타깝게도 정안은 결코 해준의 결핍을 채워줄 수 없는 존재인 셈이다.\n\n-\n서래는 어땠을까. 그녀는 관찰할 수 있는 모든 것에서 해준과 판이하다. 국적이 다르고 성장 배경이 다르며 계급적이라고도 할 수 있는 사회적, 상황적 위치가 다르다. 그럼에도 그녀는 '말씀'보다는 사진을 택했고, 참혹한 광경을 함께 보는 것에 거리낌이 없었으며 '을지로 바다사나이' 해준처럼 산보다는 바다를 좋아했다. 이를테면 내면의 동류라 할 수 있다.\n\n자신이 좋아하는 여느 사극 드라마 속 주인공처럼 (비록 그 형식은 사건 수사였으나) 품위있게 다가온 해준은 그녀의 결핍을 채워주는 사람이었고, 마찬가지로 서래는 해준의 은밀한 기호에 교감할 수 있는 유일한 사람이었다.\n궁궐 데이트 씬은 마치 두 사람이 다른 시대에서 만나 둘을 방해하는 수많은 현실적 제약이 없었더라면 그들의 사랑은 이처럼 아름다운 모습으로 완성되지 않았을까 하는 일장춘몽처럼 보인다.\n\n서래는 그녀가 국가 유공자의 후손이자, 국토 일부의 주인이라는 것이 그녀에게 있어 가장 큰 자부심이자 어쩌면 유일한 자부심이었을 것이다. 그것은 그녀가 비록 밀항자지만 이 나라에서 계속 살아가도 되는 명분을 주는 것과 동시에 스스로의 품위를 유지할 유일한 배경일테니 말이다. (간호사와 간병사는 살인 수단으로 오염됐다)\n독립군이었던 외조부를 닮은 듯 불행한 환경에서도 의연한 모습을 잃지 않던 그녀는 그 가치의 크기를 알기에 자신을 위해 자부심을 버리고 붕괴된 해준을 '재건할 결심'을 한다. 그리고 자신의 자부심이자 가장 순수한 공간인 호미산에서, 해준은 알지 못하는 작별의 포옹을 나눈다.\n\n-\n해준은 자신의 녹음이 완전히 객관적인 것이라고 믿었으리라. 지금까지 그의 녹음은 온연히 수사를 위한 것이었으므로 주관을 최대한 배제하고 상황을 설명하는 것에 충실하도록 훈련되었을 것이다. 그런 종류의 녹음은 어떠한 함의도 가질 필요가 없거니와 그래서도 안되기 때문에.\n그것이 진실인지 아닌지는 알 수 없지만(서래의 미소를 울음으로 해석) 적어도 그에게 '자신의 목소리'는 철저히 객관적인 기록 그 이상의 가치가 있지 않았다.\n\n아이러니하게도 서래의 녹음은 다른 그의 녹음들과는 반대로 가장 진실한 순간이었다. 해준은 서래의 핸드폰에서 들려오는 익숙한 자신의 목소리를 해석함에 있어 '자신이 붕괴되었다'는 표면적 사실 이상의 의미를 파악하지 못한다.\n그것이 서래에게 얼마나 큰 의미였는지를.\n뒤늦게 깨달은 해준은 마치 형사의 숙명처럼 사후 도착하여 헤매인다.\n아마 앞으로도 계속. 그녀가 덮은 영원한 안개 속에서.",
+    "likes_count": 169,
+    "replies_count": 7,
+    "content_code": "m5DP0eR",
+    "user_code": "JgkqlbDM45X0b",
+    "watched_at": null,
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-07-03T07:54:32+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JgkqlbDM45X0b",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "y4ZMO6j6v42Op",
+    "user": {
+      "code": "JYMKqmXBExloD",
+      "name": "주령",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/kAULu-lY_U5o_lnvuj1aFg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLV1UxTGNXMVlRa1Y0Ykc5RUwzQnliMlpwYkdVdk1UWTVNRFEzTWpneE16QTVNemd5TWpZd01pSjkuYlE1MjFsREUyVXBPcVBKNnRSd0VrVHRrQlFuREw5TmhnM2xQdHJjMXBtVQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Zt24LcuHs6vCOBJ1_3O1iw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbGxOUzNGdFdFSkZlR3h2UkM5d2NtOW1hV3hsTHpFMk9UQTBOekk0TVRNd09UTTRNakkyTURJaWZRLkE0bGVEcW5LZHNwdFRFYWhaSVR4VzcyVVNYQWxuVXNTMldZTko2ZVpaNjQ",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/EdyIlXriNlp9Y6wCJS6Y6w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbGxOUzNGdFdFSkZlR3h2UkM5d2NtOW1hV3hsTHpFMk9UQTBOekk0TVRNd09UTTRNakkyTURJaWZRLmRRN2cyX001aENlNFJRNWhsOFhWazRoR0lZWXA4dGVFUW41aW42QWVMTDA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "경고\n이 영화를 공복에 보지마세요\n\n스크린을 가득채운 초밥, 볶음밥, 핫도그 등장에 그만 정신을 잃고 말았습니다.",
+    "likes_count": 164,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "JYMKqmXBExloD",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T20:54:29+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JYMKqmXBExloD",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "6GWQ141q7qMJ5",
+    "user": {
+      "code": "Qgy511r0B5Djk",
+      "name": "나홍진",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/LVs9ShuAL2o0OZKc2Y80fw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlSWjNrMU1URnlNRUkxUkdwckwzQnliMlpwYkdVdk1UWXpNREk1TmpFek5UZzFNRFE1TVRZME9DSjkucFRHel9UOG5USmZFdVhyRTBNX2NNZzU1MXItdmFLRHJzZUJZb1VFNWFVSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/niFbhJhpakYcqcTQpOia3w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRFeGNqQkNOVVJxYXk5d2NtOW1hV3hsTHpFMk16QXlPVFl4TXpVNE5UQTBPVEUyTkRnaWZRLlFOMTBqWXRoWUpWeU81cWJlakFNOEN2akxQNTJ4Qzc5bC03cGdqTnMtZ2c",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/HSAgPRxgXBPq6_MBSyqRrA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZVV2Q1TlRFeGNqQkNOVVJxYXk5d2NtOW1hV3hsTHpFMk16QXlPVFl4TXpVNE5UQTBPVEUyTkRnaWZRLjV3T1NOVlNUYXhzV0ppa292d3JubS01OGM2YVhlTlhtQmZ2ajA2X21CU0E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "박찬욱감독이 누군갈 사랑한다면\n아름답기도하나 좀 무섭네\n\n2번본후\n1번보다 더 몰입이되는\n경험",
+    "likes_count": 162,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "Qgy511r0B5Djk",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-02-16T01:18:51+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "Qgy511r0B5Djk",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "gwVQxe6v9YEB0",
+    "user": {
+      "code": "VRZv4laWnvr6y",
+      "name": "정환",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/w-z1bBelzuzrBBZ_GCZ7nQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlXVWxwMk5HeGhWMjUyY2paNUwzQnliMlpwYkdVdk1UVTBNalV5TWpnNE1UVTJOelV4T1NKOS56ak1lSGhaOFhfUzZKaUVTUm9BSGs1VENXMEc5UnF2Zjk4UjBJV3otSnJJ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/bE-S1mCD55R5adjlt7Pj8A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpSc1lWZHVkbkkyZVM5d2NtOW1hV3hsTHpFMU5ESTFNakk0T0RFMU5qYzFNVGtpZlEudGhEelBvdFFPbnV5aHJnTTFZR2hsejRrY1dJRmU2ak9ILThFdWs2MWJBTQ",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/pKnAEeRbu23GKimFNVFkuQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpSc1lWZHVkbkkyZVM5d2NtOW1hV3hsTHpFMU5ESTFNakk0T0RFMU5qYzFNVGtpZlEuU1k5S3AzbndtYl9pVmtSUTJNVC1fSlBKSGFQRkhLaVExOHU3ZmZSYUxoZw"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "“사랑마다 품고 있을 제각기 다를 문제들이야말로 어쩌면 그 사랑만을 정의해 주는 거라면, 때로는 이런 문제들을 해결하지 않은 채로 남겨두는 것도 정답이 될 수 있어. 해결하지 않은 미결된 상태의 사랑이 우리 사랑의 정체성이고, 우리는 이를 잊지 않은 채 영원하게 기억될 장치인 거야.”\n\n헤어지겠다고 결심하는 것만큼\n너를 사랑하고 있음을 인정하는 말도 없을 것 같아.\n평생 풀지도 못할 우리에게 남겨진 수많은 문제들로부터\n이젠 좀 벗어나고 싶어서.\n너로 인해 망가지고 무너지고 깨져버려서,\n너를 만나기 그 이전으로 돌아가고 싶어서.\n그럼에도 돌아가지 못하고,\n그 자리에 머물러 여전히 너를 사랑하고 있어서.\n마침내 그 사람은 헤어질 결심을 하게 된 걸 거야.\n너로 인해 내가 붕괴되어서.\n아직도 여전히 너를 사랑해서.\n\n사랑의 언어는 왜 이리 복잡한 걸까.\n사랑한다는 말은 이 세상의 모든 걸 담고 있어서,\n이 말은 다른 말로는 대체할 수도 없어 보여.\n그래서 역설적으로 사랑한다는 말은\n어디에나 쓸 수 있어서\n어딘가 모르게 진부하고 식상한 표현처럼 느껴져.\n\n나는 너를 사랑한다.라는 말은\n모든 걸 담은 말이겠지만,\n그래서 이 사랑의 모든 걸 너무 쉽게 담아버린 듯해.\n누구나 다 할 수 있는 말이잖아.\n겨우 사랑한다는 말 한마디로는 괜히 섭섭해질 정도랄까.\n우린 결코 쉬운 사랑을 하는 사람들은 아니었잖아.\n안개처럼 서로의 마음을 확인하지 못한 채,\n자꾸만 우리가 길을 잃고서 헤매고 있을 때처럼.\n\n다들 너의 색에 대해 녹색이라고 말할 때,\n세상에서 너를 유일하게 청색이라고 바라본 사람이\n바로 나라는 사실이,\n내가 너를 올바르게 바라본 유일한 사람일지,\n너에 대해 아무것도 모르면서 빠져든 바보에 불과한지.\n\n너에 대한 내 마음은 지금 어떤 마음인 걸까.\n나는 너의 어떤 점이 좋은 걸까.\n너는 과연 나를 사랑하고 있는 걸까.\n사랑에는 풀지 못할 너무 많은 문제들이\n이렇게나 많은데, 겨우 사랑한다는 말 한마디로\n이 모든 걸 치환할 수 있을까.\n\n사랑하는 사람과 헤어질 결심을 하기 위해\n사랑하지 않는 사람들을 만났다는 말은\n난 아직도 너를 사랑하고 있었어라는 말로 해석하는 건\n전혀 과한 게 아니지 않을까.\n그토록 자부심이 넘쳐 품위를 잃지 않은 채\n늘 꼿꼿했던 내가,\n파도 앞 모래성처럼 힘없이 무너져버린\n그 이유가 너였을 때,\n너로 인해 붕괴된 나를 보며 너는 나를 사랑하고 있다고\n받아들일 수밖에 없지 않았을까.\n\n그렇지 않아도 한 단어로 담을 수 없을 만큼\n복잡한 사랑의 언어는\n사랑을 통역하기 위한 누군가의 언어는 소용없고,\n모두 각자의 마음을 전달하기 위해 내뱉는 입술의 말들을\n눈앞에서 듣고 있을 누군가의 귀로 전해져\n각자가 해석하는 것이 더 좋을 듯해.\n심장을 가져다주라는 말은\n실은 마음을 받고 싶었던 말이었던 것처럼.\n\n단어 하나로 담을 수 없는 것이 사랑인 만큼,\n가질 수 없는 것도 사랑인가 봐.\n사랑은 누군가를 소유하는 게 아니야.\n약속된 섹스로 우린 건재하게 사랑하고 있음을\n증명할 수도 없고,\n내가 좋아하는 것을 싫어하고 있다는 사실이\n네가 나를 좋아하는 게 아니라는 뜻으로\n받아들일 수도 없어.\n\n자꾸만 나를 가지려고 하거나,\n바꾸려고 하는 사람들에게서 벗어나\n바다를 좋아하는 사람을 만났고,\n어떠한 끔찍한 것들도 있는 그대로의 모습을\n바라볼 줄 아는 사람을 만나서,\n각자 꼿꼿한 자세의 품위를\n알아봐 주는 사람을 만났으니.\n해수면 위로 드러내어서도 안돼서\n바다 깊숙한 곳으로 던져버려야 하는 사랑이지만,\n이 갖지도 못하고 해결할 수도 없을\n이 사랑을 어떻게 놓아줄 수 있겠어.\n\n사랑에 피어나는 숱한 문제들은\n어쩌면 그 사랑만을 정의해 주는 결정체 같아.\n사랑마다 품고 있을 제각기 다를 문제들이야말로\n사랑이라는 하나의 단어로 담을 수 없는 사랑을\n다르게 표현할 수 있는 길이 되어주는 듯해.\n이런 사랑의 문제들이야말로\n사랑은 단일한 표현으로 쓸 수 없을 만큼\n다양하다는 증거야.\n\n이 많은 문제들을 하나씩 풀어나간다는 건,\n어쩌면 우리 사랑만이 담고 있던\n특성이나 개성이 없어진다는 말과 같을 수도 있겠다.\n세상의 모든 문제들이 나쁜 것은 아니고,\n세상의 모든 문제들을 풀 수 있는 것도 아니잖아.\n때로는 이런 문제들을 해결하지 않은 채로\n남겨두는 것도 정답이 될 수 있어.\n해결하지 않은 미결된 상태의 사랑이\n우리 사랑의 정체성이고, 우리는 이를 잊지 않은 채\n영원하게 기억될 장치인 거야.\n\n우리 사랑의 문제는 뭐였을까.\n우리가 지금 묻어야 할 것들은 뭐였을까.\n버려야 할 것은 끝내 버리지 못하고,\n버렸던 것은 결국 우리에게 다시 돌아올 거야.\n당신 때문에 붕괴된 나를 바다 깊숙한 곳에\n아무도 모르게 묻는 것.\n마침내.\n그게 우리 사랑의 정체성이었어.\n해결하지 못할 사랑. 영원히 미결된 상태의 사랑.",
+    "likes_count": 149,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "VRZv4laWnvr6y",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-08-03T17:46:07+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "VRZv4laWnvr6y",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "boPQjbgbp0QKL",
+    "user": {
+      "code": "WwRqoRLOVxlzB",
+      "name": "주 영 화",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/8wwQp4x8dzUcb4gPeJ_D-w.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlYZDFKeGIxSk1UMVo0YkhwQ0wzQnliMlpwYkdVdk1UWXpNREE1TURRd01qRTBOak13TlRJNE1DSjkuUm95elVzbVFvaDVBR0Y5dVFNYkxXRXFBNTJRZGpvZm9fU0J2bzlzeUFNRQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/BuDVPpUYzkN4KY0mjM-nBw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5U1RFOVdlR3g2UWk5d2NtOW1hV3hsTHpFMk16QXdPVEEwTURJeE5EWXpNRFV5T0RBaWZRLmJFb3RmRGozWFprNXBncl9YMEo5Q0VIMmQ5eHh1UkgzVU44RkNZLV9rNnM",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/5jGIcgmIVy07XUS0A5lFYA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWM2RTY1c5U1RFOVdlR3g2UWk5d2NtOW1hV3hsTHpFMk16QXdPVEEwTURJeE5EWXpNRFV5T0RBaWZRLl9lMmVtdXQ2LTdOVHB6UUxUOVpld1VLdnZjakZPdExFUXVDNGNGTEoycEk"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "멜로란 말이죠오\n\n나는 멜로 영화 속 남녀의 힘겨루기를 좋아한다. 생물학적으로 따지면 여자가 줘털리는 것이 일반적인 결과일 테지만, 남자는 이길 수 있음에도 밀려주고 여자는 질 것이 분명해도 꼿꼿하게 힘을 쓴다. 거기서 전해지는 긴장감이 유치하지만 묘한 쾌감을 불러 일으키는 것이다. 해준과 서래도 사진을 붙잡고 밀고 당기며 힘겨루기를 한다. 서래가 사진을 보관해도 된다고 허락하자 그때서야 해준은 이것도, 이것도, 하며 서래의 사진을 고르고 고른다.\n\n그래서 멜로는 뻔할 뻔자다. 두 당사자 모두 알면서 당해주는 것. 당해줄 것을 알고 저지르는 것. 서스펜스가 등장인물은 모르지만 관객은 알기에 피어오르는 긴장과 쾌감이라면, 멜로의 서스펜스는 등장인물끼리 다 알고 통하면서 관객만 몰라 발 동동 구르는 긴장과 쾌감이다.(야 니네 어차피 서로 사랑하잖아... 도대체 왜 오해하고 엇갈리는 건데ㅠㅠㅠ)\n\n그간의 남자 경험으로 잔머리가 빠릿하게 돌아가는 서래와, 아내가 빚은 듯 관리해 놓은 유부남 때깔이 자르르 흐르는 해준의 알력 다툼은 뻔하지만 그래서 재밌다. '사랑해'라는 말 없이도 그들은 사랑하지 않는가. 게임이란 말 없이도 이 영화는 게임이다. 그걸 모르고 '남자는 아내 두고 바람피는 미친놈이고, 여자는 남자에 미친년이로군. 인물이 왜 저러는지 도무지 이해가 안 되네. 현실성이 없잖아.'라고 생각하는 당신, 이 게임을 가장 재미없게 플레이하는 사람이다. 나는 이런 게임들이 너무너무 좋아서, <이중 배상> 속 \"당신의 의도가 궁금하군요\", \"궁금해 할까 궁금했습니다\"와 같은 대사가 오고 가는 그 순간이 그냥 너무 좋은 거다.\n\n문득 상상해보았다. 백 년 뒤 영화광들이 칸 영화제 수상작을 훑으며 <헤어질 결심>을 보게 될 때, '아, 옛날 사람들은 에어팟을 끼고 스마트워치로 음성녹음을 하며 꽁냥꽁냥 연애질 했구나.' 느낄 순간을. 백 년 전 영화에서 편지로 연애질 하느라 주인공들이 엇갈리는 걸 보는 애달은 우리의 마음을 미래 관객들도 느낄 것 같아서 즐거웠다. 그래 이게 멜로다. 호흡? 화합? 아니. 온갖 사용 가능한 장치와 수단을 모조리 동원해서 한 사람 마음 하나 얻고자 하는 철두철미한 게임.",
+    "likes_count": 149,
+    "replies_count": 6,
+    "content_code": "m5DP0eR",
+    "user_code": "WwRqoRLOVxlzB",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T21:10:05+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "WwRqoRLOVxlzB",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "0ezQylgx7vMpq",
+    "user": {
+      "code": "87Gv7JJjJqE6o",
+      "name": "ㅎㄷㄷ",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/ufNOkMK933a1K_kG8Gwl0g.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTg0TjBkMk4wcEtha3B4UlRadkwzQnliMlpwYkdVdk1UWTJORE0wTXpVM09EY3dNalUyT1RjME5pSjkuRU0xTWVlT3JLbmFyTm5XZzdHLWkwSEVqa2RwQVhiclVFVzhubGtPdUtaWQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/JXmNHZng2YoZAU19NaDBcw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkS1NtcEtjVVUyYnk5d2NtOW1hV3hsTHpFMk5qUXpORE0xTnpnM01ESTFOamszTkRZaWZRLktTeTRfMFNFdnd0LXRHUUdYR2Nob2JFUEZGZ1IybTNEekZtZzNmaVNtckk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/kr0opWheoty992L9s59ymw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZPRGRIZGpkS1NtcEtjVVUyYnk5d2NtOW1hV3hsTHpFMk5qUXpORE0xTnpnM01ESTFOamszTkRZaWZRLktfWnBTUmhyeXlYQWJyMGhxLTYxa0lQdHR6c1kzaEd3Wjc5LXA0eXBINTA"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "​자아도취와 욕망이 뒤엉킨 눈동자에 비치는 짙은 안개.\n아름다운 문장들에 만취해 안일하게 짓이겨 넣는다.\n\n(스포일러)\n.\n.\n.\n<코멘트에 앞서 불륜이라는 소재 자체는 제 별점에 영향을 주지 않음을 말씀드립니다>\n\n​\n1. 사랑 설득 실패\n\n​내가 영화에 만족하지 못한 가장 큰 이유이다.\n\n영화를 3번이나 시청했음에도 불구하고\n해준이든 서래든 그 누구의 연기에서도 그들의 사랑이 거대한 사랑(서래가 자살할만큼,\n해준이 자부심을 내려놓을만큼)임을 설득할 수 있는 강한 스파크를 느끼지 못했다.\n\n이것은 배우 연기력 자체의 문제라기보다 감독의 연기 주문과 개연성의 문제다.\n\n그 개연성이란, 서래가 스스로를 바다 밑에 생매장 시킬만큼 해준을 사랑할만한 계기가 있었는가?,\n해준이 자신의 정체성 그 자체인 직업윤리를 스스로 파괴시킬만큼 서래를 사랑할만한 계기가 있었는가?,\n혹은 그것이 설득력 있는가?이다.\n(얼굴이 개연성이라고 하면 할 말이 없다.)\n\n​감독이 꿈꾸는 \"파격적인 결말\"을 위해선 빌드업에 충실해야 하는데\n그 빌드업이 도대체 영화 어디에 나타났는가?\n사랑과 개연성은 미약하고 대사는 붕 뜨고..\n나는 영화를 3번 보고 나서도 해준과 서래가 서로를 붕괴시킬만큼 서로를 사랑한 이유를 찾지 못했다.\n\n​사랑을 설득하지 못한 채 쭉 이어진 내용들은 영화에 빠져들고 싶은 관객을 바보로 만들고,  \n관객으로 하여금 감독이 \"공감하지 못한 관객들은 어쩔 수 없지 뭐\"라는 생각을 했을 것 같다고 추측할 수 밖에 없게 만든다.\n\n​서래와 해준의 사랑에 공감/몰입시키는데 실패했으니,\n결말의 예술적인 설정에도 불구하고 역시나 마음에 큰 동요가 일어나지는 않았다.\n\n끝내 파국으로 치닫은 영화의 결말에서 관객들이 \"예술적 고통\"을 온전히 느끼려면\n영화가 그만큼 강한 사랑의 에너지를 뿜어냈어야 했는데..\n\n​결국, 감독이 표현하고자 하는 사랑의 깊이를 영화는 설명해내지 못했다.\n.\n.\n.\n2. 문장 자체로만 아름다워 보이는 대사들\n\n​이건 시가 아니고 \"장편 영화\"다.\n\n배우들이 아무리 눈에 힘을 주고 입을 파르르 떨며 대사를 강조해도\n감정이 설득되지 않은, 텍스트 자체로만 예쁜 대사는 영화에 녹아들지 못한다.\n(나무위키에도 정리되어 있는 수많은 헤어질 결심 명대사들 말이다..)\n\n​분명히 \"영화\"인데 내가 시를 읽고 있는 것만 같고 연극을 보는 것만 같은 혼란스러운 상황에 자주 노출됐다.\n감독이 안일하다고 느낀 지점 중 하나이다.\n\n감독은 훨씬 더 많은 대중들을 사로잡기 위해 훨씬 더 고민했어야 했다.\n그런 예쁜 문장들이 영화 속에서 힘을 발휘하려면 시적인 감정들과 표현들을 더욱 정제해(객관화) 스크린으로 옮겼어야 했다.\n\n문장의 힘보다 개연성과 조화의 힘이 더 크다는 것을 인지했어야 했다.\n\n주연배우들의 대사(특히 한국어를 제 1언어로 구사하는 박해일)가 연극톤 같다는 부정적인 의견이 많은 점도 분명 이 부분 때문이다.\n.\n.\n.\n3. 그럼에도 3회나 시청한 이유\n\n​영화가 허술하다고 느꼈음에도 3번이나 다시 시청한 이유는 크게 3가지다.\n\n설정+영상미+아쉬움.\n\n​설정: 끝내 닿지 못하는 사랑이야기. 그 자체로는 참신하지 못하다.\n편견 속에 사랑하고 편견 속에 의심하는 양날의 사랑.\n여자에 대한 편견으로 인해 해준이 용의자인 서래를 좋아하게 되고,\n살인에 대한 편견(2번 저지르긴 쉽다)으로 인해 해준이 서래를 의심하게 된다.\n\n편견과 오해로 인해 시작되고 어긋나는 사랑,\n서로 파멸하면서도 사랑의 영원성을 도출해내는 결말 \"설정\" 자체는 분명 매혹적이다.    \n\n​영상미: 영상미에 대한 호평을 하는 대중들에겐 공감가는 지점들이 꽤 있다.\nx-ray나 도시락을 이용한 장면 전환이라든지, 해준이 서래의 옆에 있는 것만 같은 연출(좀 진부하긴 하지만)이나 노을지는 바다 위에 카메라를 등진 채 서래를 밟고 서 있는 해준의 모습 등등..\n\n​아쉬움: 이렇듯 영화로서의 장점도 분명 가지고 있는 헤어질 결심이다.\n분명 좋은 지점들이, 끌리는 지점들이 있는데도 단점이 너무 명확하다.\n그 아쉬움에 영화를 다시 찾게 된 것 같다.\n.\n.\n.\n4. 실패작\n\n감독이 작품에 만족했던, 수십만? 대중이 열광했던 간에 \"혹평\"을 하는 대중들도 분명 나름의 이유가 있을 터이다. (불륜 소재랑 예술?영화라는 것 자체만으로 억까하는 사람들 말고)\n\n나도 그냥 영화를 좋아하는 한 인간으로써\n영화를 보면서 허술한 점들을 분명히 느꼈기 때문에 이런 감상들이 나온 것이다.\n\n​나는 흥행과 수상의 관점이 아닌 완성도의 관점에서 이 영화는 실패작이라고 생각한다.\n\n​감독이 헤어질 결심에서 지향했던 감성과 표현하려 했던 예술적인(여러 감정을 중첩시키는) 결말이 무엇인지 알겠지만,\n잠재력 넘치는 감성과 설정(결말)을 가지고\n고작 이정도로 매듭지었다는 점에서 아쉬움을 삼키지 않을 수가 없다.\n이것은 재능 낭비이고, 분명한 실패작이다.\n\n​내가 높은 별점을 주지 않은 박찬욱 감독의 영화 아가씨(별2개)와 친절한 금자씨(별3개)도 취향이 안맞은 것 뿐이지 실패작이라고 생각하진 않는다. 오히려 완성도 높은 영화들이다.\n영화의 기본인 주인공에 몰입이 된다는 점에서 영화의 기본은 하고 있고,\n개연성을 따질 일이 딱히 없었다는 점 등에서 분명 완성도가 높다.\n\n그리고 내가 박찬욱 감독 작품을 싫어하는 것도 아니고\n박찬욱 감독의 영화가 전부 취향에 안맞는 것도 아님을 분명히 해야겠다.\n난 박찬욱 감독의 작품인 복수는 나의 것에 별5개, 올드보이에 4.5개를 박았다.\n(박찬욱 감독의 잔인한 연출을 좋아하는 것도 아닌데 말이다.)\n\n​난 박찬욱, 봉준호 같이 뛰어난 감독들을 좋아한다.\n이럼 감독들이 한국 영화에 관심을 가지게 한다.\n\n​하지만 그들도 분명 오판하고 실수할 수 있는 \"사람\"이고, \"실패\"할 수 있다고 생각한다.\n그리고 실수와 실패로부터 배울 수 있는 \"사람\"이기도 하기에,\n다음 작품에서는 헤어질 결심에서와 같은 안일함을 반복하지 않을 것이라 믿는다. ​",
+    "likes_count": 142,
+    "replies_count": 8,
+    "content_code": "m5DP0eR",
+    "user_code": "87Gv7JJjJqE6o",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-11-30T21:23:28+09:00",
+    "user_content_action": {
+      "rating": 3,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "87Gv7JJjJqE6o",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xplMddNJooM4o",
+    "user": {
+      "code": "VRZv482M1vr6y",
+      "name": "김병우",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/0GtDetbHQGUJD2kbXGYaTA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlXVWxwMk5EZ3lUVEYyY2paNUwzQnliMlpwYkdVdk1UWXlPVGczTWpJNE9UWXpOakkwTmpjNE5DSjkuY1phOVFtWE5ZbkZCQUp1ekZWZ0hxX2Mwc0JwMWx3RHNVamhKNm1LUDg1QQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/eOC15XzHwCYcmmrpp8MIIw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpRNE1rMHhkbkkyZVM5d2NtOW1hV3hsTHpFMk1qazROekl5T0RrMk16WXlORFkzT0RRaWZRLkhkcS1WeFFWN2Fvd1ZadnZWcXFXRGpEc1F5NlZZTXNzTnZ3c0pHcDFsOTA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/-L09LKFJTBwrS0Sfy5z4ug.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpRNE1rMHhkbkkyZVM5d2NtOW1hV3hsTHpFMk1qazROekl5T0RrMk16WXlORFkzT0RRaWZRLjhvbk12WjZWRThWR1lmUWh0c3J6SVdweWxkYndVTGs1VHBLZUFxT3Z2TFE"
+      },
+      "watcha_play_user": false,
+      "official_user": false
+    },
+    "text": "감정이라는 짙은 안개속에서 헤매다 마침내 발견한 미결적 사랑.",
+    "likes_count": 140,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "VRZv482M1vr6y",
+    "watched_at": "2022-06-29T12:29:43+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T13:16:12+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T12:29:43+09:00",
+      "user_code": "VRZv482M1vr6y",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "W9bEB1OdRLQpZ",
+    "user": {
+      "code": "67gdxdYO4qGYJ",
+      "name": "리얼리스트",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/oxLdIt8gsmsZhqXFZdzwLw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTgyTjJka2VHUlpUelJ4UjFsS0wzQnliMlpwYkdVdk1UWTVOVGsxTkRnek9ESTJORGt3TlRNek9TSjkuUldpNnROMmtQTm9rbTlfVGNZMFpXZk5POTNHQmwwV1VXYXpUZlEydlk4SQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/Hkbz-5zcqOliJUIxjP-oqw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZOamRuWkhoa1dVODBjVWRaU2k5d2NtOW1hV3hsTHpFMk9UVTVOVFE0TXpneU5qUTVNRFV6TXpraWZRLmpLXzRQeEhsX1Y5U3lhNWN5dFNZNU9Qd29XSE16TlA3NDlVVGIyQURqU0k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/JIAUhmZo7Ug0OdSb-rlNUg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZOamRuWkhoa1dVODBjVWRaU2k5d2NtOW1hV3hsTHpFMk9UVTVOVFE0TXpneU5qUTVNRFV6TXpraWZRLmVSdV9mRmYtZG1GVE5YNGFJdkUzSks2bEhYQU53OFZVQzJENEtFYnNuN0k"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "마침내 끓어오르는 캐릭터의 욕망과\n통제된 아이러니를 영화적으로 아름답게 터치한 마스터피스",
+    "likes_count": 140,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "67gdxdYO4qGYJ",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-24T07:52:43+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "67gdxdYO4qGYJ",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xzaQAmOgJpQg5",
+    "user": {
+      "code": "n6ewxa7AWvQ1m",
+      "name": "동구리",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/lSnM8T36ZcfuvljOOo1iLg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl1Tm1WM2VHRTNRVmQyVVRGdEwzQnliMlpwYkdVdk1UWXlPVGM1TVRjMk56YzROVGN6TmpRME9DSjkuS2loeWhNbmJlM2M3emxSRVdkMTU1Q3R2clgtM0ZxYUpBbUdxNkNqem1UWQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/g8t222IsCguiM-p9CcbeJQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZialpsZDNoaE4wRlhkbEV4YlM5d2NtOW1hV3hsTHpFMk1qazNPVEUzTmpjM09EVTNNelkwTkRnaWZRLlhjdTVydUlBaGZNM1NrMEFxOW1Eam9PRTByZFk3NXVrTXJ3Z0xqb0JyNFk",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/PsfRBNx5eDjMO6sU0iPO0A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZialpsZDNoaE4wRlhkbEV4YlM5d2NtOW1hV3hsTHpFMk1qazNPVEUzTmpjM09EVTNNelkwTkRnaWZRLjVtdDV4NVJzRkxsV2Z4RTNDVmlRRFpTMGRFMS1yVkxKMGtuNTNIRHo1T1E"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "*스포일러 포함\n_\n<헤어질 결심>에서 가장 눈길을 끄는 이미지는 시점숏이다. 박찬욱의 여러 영화가 그랬던 것처럼, 이번 영화 또한 다수의 시점숏이 등장한다. 그것은 의심과 확신 사이를 넘나드는 계략이기도, 관음증적으로 대상을 탐닉하는 시선이기도 했다. 물론 <헤어질 결심>의 해준(박해일)과 서래(탕웨이) 사이에서 오가는 시점숏은 여기서 크게 벗어나지 않는다. 흥미를 끄는 것은 사물의 시점숏이다. 이를테면 절벽 아래의 시체가 절벽 위의 형사 해준을 바라보는 숏, 벽에 붙은 사진 속 눈이 서래를 바라보는 듯한 숏 같은 것. 다만 이러한 숏들도 대단히 특별한 것은 아니다. 영화 속 여러 사물의 시점숏 중에서도 흥미로운 것은 액정 화면의 시점숏이다.\n_\n액정화면의 시점숏이 무슨 소리냐고 할 수도 있겠다. 말 그대로 액정 화면의 시점에서 비춰진 숏들이다. 액정의 형태는 다양하다. 아이폰, 애플워치, 병원의 모니터 등등. 박찬욱의 주요 레퍼런스 중 하나인 <이창>의 시점숏이 어떤 의미를 지녔는지 잠시 떠올려보자. 다리에 깁스를 한 사진작가는 망원경으로 창문 건너편의 아파트를 관찰하고, 그곳에서 살인사건이 벌어진다. 사건의 전말을 알고 있으며, 자신을 대리해 사건에 개입한 애인을 노리는 범인을 목격하는 것 또한 사진작가의 망원경-시점숏이다. 이 시점숏은 관음증적임과 동시에, 범죄행각에 대해서 전지적 3인칭의 성격을 지닌다. <헤어질 결심>의 액정-시점숏이 그것에 해당한다.\n_\n형사인 해준은 애플워치의 녹음기능을 통해 사건 관련 정보를 기록한다. 습관적으로 녹음기능을 사용하는 그의 목소리는 종종 사건 정보를 넘어 수사 대상에 관한 개인적인 사견을 옮기기도 한다. 수사 과정 중에 해준과 서래가 가까워짐에 따라, 서래 또한 해준의 습관을 따라하게 된다. 어느새 서래는 자신의 개인적인 이야기들을 애플워치에 녹음하기 시작한다. 더 나아가 스마트폰을 중심으로 그 주변을 구성하는 각종 스마트기기는 이 영화의 주요한 장치들이다. 간병인으로 일하는 서래가 돌봄노동을 제공하는 할머니는 아이폰의 시리 기능을 사용해 영화의 모티프가 된 정훈희의 노래 ‘안개’를 재생한다. 스마트폰의 운동기록 기능이 사건의 전모를 밝히는 주요한 증거가 되기도 한다. 한국어에 서툰 서래의 중국어는 구글번역기의 음성번역 기능이 대리해준다. 해준의 파트너 수완은 죽은 서래의 남편이 고가의 무선 이어폰을 사용하고 있음을 굳이 언급한다. 두 사람이 수사 중에 스마트폰으로 사진 찍는 장면을 유달리 자주 보여주기도 한다. 해준이 서래의 알리바이를 역으로 추적하는 과정에서 동원된 것은 서래의 남편이 남긴 유튜브 브이로그다. 포항을 배경으로 한 영화의 2부(딱히 챕터를 나누지는 않지만 명확한 구분점이 존재한다)에서 서래의 남편을 쫓던 빚쟁이는 몰래 깔아둔 스마트폰 위치추적 앱을 사용한다.\n_\n이러한 상황 속에서 <헤어질 결심> 속 스마트기기는 단순히 인물들의 활동을 보조하는 도구를 넘어선다. 스마트기기가 구성하는 개인화된 네트워크들은 알리바이의 증명과 반박 같은 장르적 활용을 넘어, 해준과 서래 두 인물의 정동을 매개하는 매체가 된다. 따라서 <이창>의 망원경-시점숏이 망원경 뒤의 사진작가를 염두에 둔 일종의 관음증적인 영화 작가론으로써 기능한다면, <헤어질 결심>의 액정-시점숏은 스마트기기에 기록되고 저장된 이미지/사운드/텍스트는 두 주인공 사이에 오가는 의심과 애정의 전말을 마치 제3자의 입장에 서 있는 것 마냥 담아낸다. 그렇기에 1부에서 해준이 쌍안경으로 서래의 집을 들여다볼 때 그가 물리적으로 서래 옆에 있는 것처럼 묘사되던 장면에서는 쌍안경-시점숏의 주인이 해준임을 명확히 보여주지만, 액정-시점숏들에서는 시점숏의 주인인 ‘인’물이 등장하지 않는다. 그 시점숏의 주인은 오롯이 스마트기기다.\n_\n박찬욱과 정서경은 전통적인 치정 멜로를 만들고자 했다고 한다. 히치콕부터 샤브롤, 르네 클레망의 영화들은 물론 필름 누아르 황금기의 범죄-멜로 영화들을 연상시키는 <헤어질 결심>의 이야기는 그것을 충실히 따른다. 이야기 자체만 놓고 본다면 전형적이고 익숙한 플롯이다. 사랑에 빠진 형사가 팜므파탈인 여성의 범죄를 밝혀내는 데 실패하고, 이후 재회한 둘이 파국을 맞이하는 것. 칸 영화제에서의 여러 평가처럼 <헤어질 결심>이 기존의 박찬욱 영화와 다르다면, 물론 촬영감독의 변화도 크겠지만, 그것은 정동의 그릇을 캐릭터가 아닌 스마트기기의 개인화된 네트워크에 담아냈기 때문이다. 이 네트워크는 기기를 소유한 사람만이 공유가 가능하다. 배타적인 네트워크는 그것의 소유자가 공유를 허락했을 때만 바깥으로 송출된다. 해준은 자신도 모르게 사랑을 고백했고, 서래의 네트워크는 그것을 기록하고 있다. 1부에서 해준을 바라보던 액정-시점숏이 서래가 숨겨온 사건의 전말 자체라면, 2부의 액정-시점숏은 해준에 대한 서래의 감정 자체다.\n_\n1부에서 해준과 서래의 시점숏이 맞부딪히는 것은 애정의 확신 자체다. 서래가 남편을 살해했다는 것을 알게 된 해준이 서래를 마지막으로 만났을 때 두 사람의 시선은 마주치지 않는다. 2부에서 두 사람의 시점숏의 부딪힘은 불신과 애정의 부딪힘이다. 해준은 영화의 마지막까지 1부에서와 같은 시선의 교환을 얻지 못한다. 서래 대신 그와 시선을 교환하는 것은 서래와의 문자와 자신의 목소리가 담긴 스마트폰의 액정이다. 액정-시점숏의 주체인 개인화된 네트워크는 범죄를 해결할 객관적 증거의 매체임을 넘어, 각자가 발화하지 못하는 혹은 말했으나 기억하지 못하는 것을 담아내는 정동의 판도라 상자다. 단순히 과거의 말을 반복하는 자동응답기의 기능 이상으로, 이 영화 속 스마트기기는 기록하고, 상기시키고, 설득한다. 영화에서 시점을 소유한다는 점은 그 소유자가 영화 속 캐릭터임을 환기함과 동시에, 시선에 들어온 대상에 관한 정동을 숏 자체에 내포하고 있음을 의미한다. 어쩌면 <헤어질 결심>의 액정-시점숏들은, <스파이의 아내>의 필름, <언컷 젬스>의 원석, <드라이브 마이 카>의 카세트 테이프 같은 것들, 모종의 진실과 진실된 정동을 내포하고 있는 비인간 존재들 같은 것일지도 모르겠다. <헤어질 결심>이 언급한 작품들만큼 걸작이라는 의미는 아니지만.",
+    "likes_count": 132,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "n6ewxa7AWvQ1m",
+    "watched_at": null,
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-21T21:45:44+09:00",
+    "user_content_action": {
+      "rating": 6,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "n6ewxa7AWvQ1m",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "boY2lJg1KjQWO",
+    "user": {
+      "code": "YaR5YlVEwvgX1",
+      "name": "JE",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/i9p78sXJ4KUV7IUgYML-2Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlaWVZJMVdXeFdSWGQyWjFneEwzQnliMlpwYkdVdk1UWTBNVEF4TURNNE1qa3pOekV4TmpNd01TSjkucDVDeVByYXV3ZnVsVHlWNUNHZEhzZHFHam8yOGI0UkxqWUpRbHFxbzdhUQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/IidDPYSv9S57J1ojTzZyeQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXV0ZTTlZsc1ZrVjNkbWRZTVM5d2NtOW1hV3hsTHpFMk5ERXdNVEF6T0RJNU16Y3hNVFl6TURFaWZRLk5uV1BVWTRwMWJzaFJqRkNVd3lGR2pTMi1GeEgycUxVNkMtcGotSFp0U1E",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/T5o4DaQEAeH2HGcvCpFiXg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZXV0ZTTlZsc1ZrVjNkbWRZTVM5d2NtOW1hV3hsTHpFMk5ERXdNVEF6T0RJNU16Y3hNVFl6TURFaWZRLnhYMVNiQW9Kbzg1ZGs2ZTJhMXZORGV3RHU1cGJyMmVqbVBTSlRtTnQxUFU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "히치콕의 세계에서 사랑에 빠져버린 마스무라 야스조의 여성. 범인 대신 감정을 오인하고, 마침내 여자는 사라지고 남자는 무력하게 남겨진다. 미수에 그친 관계, 미결로 남은 감정. 안개, 파도, 노을, 바위, 나무, 바다와 (모래)산, 그리고 휴대폰과 스마트워치. 익숙한 것들을 낯설게 쌓으며 기묘한 정서를 자아내는데, 비극적이고 탐미적인 엔딩이 (좋은 의미로) 경악스럽다. 어느 동해안의 풍경일 텐데도 알 수 없이 비현실적인 정조마저 일었는데, 어쩌면 노을 지는 서해안과 해준이 헤매는 동해안을 하나의 공간인 것처럼 엮어서인지도 모르겠다. 의도건 아니건 기이하게 느껴지는 봉합의 감각이 괜히 또 묘하다. 그야말로 안개가 명물인 이포에서 펼쳐지는 '이포기행'.\n\n온갖 작위적인 구도와 편집, 음악과 사운드로 시청각을 교란하는데, 원래 과잉된 스타일을 보이던 박찬욱의 다른 영화와 비교하더라도, 이렇게나 영화를 보고 있다는 사실 자체를 체감한 적은 없었던 것 같다. 고전적인 재료를 모던하게 조립해가는, 과시적이면서도 불균질한, 미묘한 스타일 자체가 전작들에 비해서도 유난히 좋았다. 현란하고 혼란한 감각이 점차 침윤해 가는 해준의 정서적 붕괴와도, 뜻 모를 서래의 행동과 표정과도, 시공간을 흐리는 안개와도 이상하게 어울렸다. 필름누아르든 멜로든 장르를 옅게 채색하면서도 감각의 밀도를 높이는 면도 인상적이었는데, 그조차 안개 같은 감각이 아닌가 싶으면 너무 나갔으려나. 아무튼, 안개라는 제재는 역시 실패하지 않아. 😶‍🌫️ (더구나 <노스탤지아>, <M>, 비간 감독의 두 편의 영화처럼 안개가 상실 내지 그리움 같은 정서랑 맞붙으면 완전히 -취향 한정- 치트키..)",
+    "likes_count": 126,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "YaR5YlVEwvgX1",
+    "watched_at": "2022-06-29T00:20:29+09:00",
+    "spoiler": true,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T00:32:08+09:00",
+    "user_content_action": {
+      "rating": 8,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T00:20:29+09:00",
+      "user_code": "YaR5YlVEwvgX1",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "8n92Vo6oP7MAJ",
+    "user": {
+      "code": "JZ4vBgLKm5RXO",
+      "name": "수진",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/J6ZAherqxG3Uxm_fCTB_gw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLV2pSMlFtZE1TMjAxVWxoUEwzQnliMlpwYkdVdk1UWTRNemM1TURjNE1ESTVOalE0TmpneE1DSjkuREg4NUtMZVBmZF9rdXROUDRDLTF0LW43eFNzWGpyWkRsZ3ZkeXhOVVBLSQ",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/zUZihocBslFHUw4aO5C05Q.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKblRFdHROVkpZVHk5d2NtOW1hV3hsTHpFMk9ETTNPVEEzT0RBeU9UWTBPRFk0TVRBaWZRLlJ0VlRtYzdVREpYWEN0LTQ1WUpCZ2tkTE56eWFzZkl3bDRSa3dZUUdxRVU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/ru_hwsVBgpWsW7uCo6Oafw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbG8wZGtKblRFdHROVkpZVHk5d2NtOW1hV3hsTHpFMk9ETTNPVEEzT0RBeU9UWTBPRFk0TVRBaWZRLlVuT0c0RUtxZUNacmU2NW9KMVkyT00xekNmaGFxWFJEZGplTnlQTURCdUU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "이렇게 죽어도 좋다.\n-\n돌산 정상에서 한 남성이 추락해 숨진 사건이 발생하고, 담당 형사인 해준은 그 연유를 파악하기 위해 돌산을 그대로 거꾸로 올라가 본다. 정상에는 사망한 남성의 소지품들과 함께 휴대폰이 있고, 휴대폰 배경화면에는 그의 아름다운 중국인 아내 서래의 모습이 보인다. 해준은 사건 경위에 대해 파악하기 위해 서래를 불러내 이야기를 나누지만, 남편의 죽음에도 불구하고 그다지 동요하지 않는 그녀의 모습에 당황한다. 해준은 알 수 없는 그녀의 태도가 미심쩍어 그녀를 유력한 용의자로 보고 더 깊숙이 수사를 시작한다.\n\n이 영화가 우선 감탄스러운 지점은 좀처럼 쉽게 찍은 샷이 없는 것처럼 보인다는 것이다. 개인적으로는 예술가 같은 연출가가 만든 영화를 볼 때 이런 느낌을 받곤 하는데, 이 영화는 인물들을 잡을 때 거울을 활용한다든지, 모니터를 활용한다든지, 인물 뒤의 벽지를 배경으로 활용한다든지 해서 그 요소들이 주는 시각적 느낌을 거의 매 샷마다 유려하게 활용한다. 국내 감독 중에 이런 느낌을 줬던 또 한 명의 감독은 이명세 감독인데, 이 영화의 테마곡인 정훈희의 [안개]는 공교롭게도 이명세 감독의 영화인 <M>의 테마곡이기도 하다.\n\n지극히 개인적인 생각이지만 이 영화 초반의 서사 흐름은 놀랍게도 폴 버호벤 감독의 <원초적 본능>을 연상시키는 구석들이 많다. 물론 섹슈얼리티를 다루는 측면에서는 거의 정반대에 있는 영화라는 점을 전제해야겠지만 살인 사건이 일어난 후 가장 유력한 용의자가 여자 주인공이라는 점, 그리고 그 여성을 따라서 살인이 따라온다는 점, 마지막으로 형사인 남자 주인공이 여자 주인공이 유력한 용의자임을 알면서도 사랑에 빠진다는 점 등에서 그러한데, 더 나아가 이 영화는 이전에 볼 수 없었던 방식으로 로맨스를 그려낸다는 점이 참 놀랍다.\n\n이 영화의 로맨스에 있어서 가장 중요하게 느껴지는 설정은 남자 주인공인 해준의 직업이 형사라는 점이다. 형사라는 직업은 당연하게도 사건을 해결해야 하는 직업이고, 그것이 곧 직업의 사명이다. 그런데 이것이 여자 주인공인 서래를 만나면서 위태로워지고, 해준은 직업과 사랑의 갈림길에서 선택을 내리게 되면서 영화는 진행된다. 이 영화가 대단하게 느껴지는 지점은 이 영화가 2부식 구성을 택했다는 점이다. 왜 그랬을까 생각해 보면 개인적으로는 이 영화가 결코 남자 주인공인 해준 중심으로만 끝나지는 않기 위해서인 것 같다.\n\n그러니까 1부는 산에서 시작해서 남자 주인공인 해준이 내리는 선택을 중심으로 흐르는 반면, 2부는 선택의 중심이 여자 주인공인 서래에게 있으며 바다를 향하면서 영화가 끝을 향해 흐른다. 그리고 1부에서 사건을 '해결'하려는 직업을 가진 해준과 사랑을 나누던 서래가 2부에서는 '미결'되는 선택을 내림으로서 결말을 향해 흐른다. 1부에서 쌓아올린 것을 2부를 통하여 매우 전복적이자 붕괴적으로 흐르는 이 영화의 로맨스는 바로 그러한 지점에서 이전에 보지 못했던 방식으로 완성, 아니 '미완성'되는 것이다.",
+    "likes_count": 122,
+    "replies_count": 7,
+    "content_code": "m5DP0eR",
+    "user_code": "JZ4vBgLKm5RXO",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-29T21:16:42+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JZ4vBgLKm5RXO",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "1Vl2bWmRZnMrR",
+    "user": {
+      "code": "JgAx8ybOVqLbO",
+      "name": "무진장뱅크(무민이♥엄마)",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/y7nvqt67eU-lN9_f50bj-A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlLWjBGNE9IbGlUMVp4VEdKUEwzQnliMlpwYkdVdk16Y3lNVFV6TWpRNE5UazBNemd4SW4wLnQ4SXZXVTY1Q2JHb0JCT2ZfajRSUlJYbzgwLVYzVUpPNnJMM2R2a0llZU0",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/iKutkLQ2ZSbqQo4MmhhLwQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRCZURoNVlrOVdjVXhpVHk5d2NtOW1hV3hsTHpNM01qRTFNekkwT0RVNU5ETTRNU0o5LlQ2ZGFWQ21uZTFEaU54a2tmZHM4VDJyS0JtV1BnZ2pCNEtRRFBOZl9FXzA",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/yU95jYsQf53QwOCjBRDxcA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZTbWRCZURoNVlrOVdjVXhpVHk5d2NtOW1hV3hsTHpNM01qRTFNekkwT0RVNU5ETTRNU0o5Li1sVS15cjc0MHdvc2xlSHFGZFFtblFYRS15VHF0MDZYTzNwdkU2dy1RRTA"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "꼭대기에 도달하면 밑으로 내려가는 일 밖에 없기에\n나는 택했어요, 끊임없이 꼭대기를 향해 오르자고.\n빨간색의 완성된 사랑보다\n청록색의 지향하는 사랑이 좋아요.\n좁은문에 들어가는 것보다\n좁은문에 들어가기 위해 애쓰는 시도들이\n진정한 사랑이라고 봐요.\n당신의 스릴러같은 삶에 나의 로맨스를 부가되어\n당신의 삶의 완성도가 높아진다면\n더 바랄 게 없겠어요.\n당신과 헤어질 결심을 한 순간\n나는 당신과 진정 만난 거예요 마침내.",
+    "likes_count": 118,
+    "replies_count": 2,
+    "content_code": "m5DP0eR",
+    "user_code": "JgAx8ybOVqLbO",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2023-05-21T15:40:10+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "JgAx8ybOVqLbO",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "boPQjbgoXNQKL",
+    "user": {
+      "code": "oOkexJGWDqdbw",
+      "name": "크리스 X 엔터테인먼트",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/3xWOhC8r1PhNQEc1z4MJzA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTl2VDJ0bGVFcEhWMFJ4WkdKM0wzQnliMlpwYkdVdk1qZ3lNRE14TWpNeE5qTTVORFUzSW4wLkltUUR5MTRzSDZ2cnlVakR4aGxYTjJzbjF0VlBkM3hmRV9yMTBLOEYwS3M",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/9Rqjhzu5UrCNcobnfBdNKw.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiMDlyWlhoS1IxZEVjV1JpZHk5d2NtOW1hV3hsTHpJNE1qQXpNVEl6TVRZek9UUTFOeUo5LlZFZlVld1RPMWpqYi1td0xnS3hJUlBCTS1kSzhZLUZtMzlpbVNWTTdTQkU",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/2A-e8jeu3lBKd9BKSMlV1A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZiMDlyWlhoS1IxZEVjV1JpZHk5d2NtOW1hV3hsTHpJNE1qQXpNVEl6TVRZek9UUTFOeUo5Li1hdFFuUG0tZ3pEYkxIamlFMG5JMU1ZSkcyTV9fUFhMclVQSkZYN2JCNEU"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "단 한 장면도 쓸데없는 장면이 없다.",
+    "likes_count": 118,
+    "replies_count": 3,
+    "content_code": "m5DP0eR",
+    "user_code": "oOkexJGWDqdbw",
+    "watched_at": null,
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T22:25:59+09:00",
+    "user_content_action": {
+      "rating": 9,
+      "status": null,
+      "mehed": false,
+      "watched_at": null,
+      "user_code": "oOkexJGWDqdbw",
+      "content_code": "m5DP0eR"
+    }
+  },
+  {
+    "code": "xkPEm7YjjJMK3",
+    "user": {
+      "code": "VRZv42QZWDxr6",
+      "name": "에베베베",
+      "photo": {
+        "original": "https://an2-img.amz.wtchn.net/image/v2/QzfAOUmY-QR7znZet1xYEg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmRYTmxjaTlXVWxwMk5ESlJXbGRFZUhJMkwzQnliMlpwYkdVdk1UWXpNVEF5TVRFek5qRTVNRE14T1RFd05DSjkud3RLVXo2ZXBoNnBzN2NXWHMwQWhiZ2JaSWMzanRJZkpZQVFqblRFS0c1aw",
+        "large": "https://an2-img.amz.wtchn.net/image/v2/gt-rB3lWi93OD_MQdx9xfg.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk16QXdlRE13TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpReVVWcFhSSGh5Tmk5d2NtOW1hV3hsTHpFMk16RXdNakV4TXpZeE9UQXpNVGt4TURRaWZRLjM2cUFMSFBhLUxIaWFYU1c2UUVUVUdyelBhTFZUUGR6NjUwVkt0SVR0S1k",
+        "small": "https://an2-img.amz.wtchn.net/image/v2/Y6Xa3ICQIm2mwiSGHj0W8A.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk1UQXdlREV3TUNKZExDSndJam9pTDNZeUwzTjBiM0psTDNWelpYSXZWbEphZGpReVVWcFhSSGh5Tmk5d2NtOW1hV3hsTHpFMk16RXdNakV4TXpZeE9UQXpNVGt4TURRaWZRLjZFM3hXb3F6OHBPQkw3cDhUZVMwMDhkRVppd0pRVnAzblFjOFo3REQ2cVk"
+      },
+      "watcha_play_user": true,
+      "official_user": false
+    },
+    "text": "<헤어질 결심>이 주는 여운은 단순한 감정의 흔들림이라기엔 너무나 특별했다.\n이 여운은 서래가 사랑을 완성한 도구이기에 그 자체로 주제의식의 체험이 되고 영화관을 나온 관객에게 영원한 정서로 남는다.\n마치 영화 밖 관객의 감정을 영화 속 이야기를 완성하는 마지막 퍼즐로 이용한 것처럼 느껴지는 마법 같은 엔딩. 영화를 보는 내내 감탄했고 마지막의 감흥은 말로 표현할 수 없을 정도였다.",
+    "likes_count": 115,
+    "replies_count": 0,
+    "content_code": "m5DP0eR",
+    "user_code": "VRZv42QZWDxr6",
+    "watched_at": "2022-06-29T23:40:24+09:00",
+    "spoiler": false,
+    "improper": false,
+    "replyable": true,
+    "created_at": "2022-06-30T23:44:04+09:00",
+    "user_content_action": {
+      "rating": 10,
+      "status": null,
+      "mehed": false,
+      "watched_at": "2022-06-29T23:40:24+09:00",
+      "user_code": "VRZv42QZWDxr6",
+      "content_code": "m5DP0eR"
+    }
+  }
+]
